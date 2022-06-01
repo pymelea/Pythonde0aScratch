@@ -16,7 +16,9 @@ numero = int(dato)
 
 if numero < minimo:
     print("Valor bajo")
+
 elif numero > maximo:
     print("Valor alto")
+
 else:
     print("Valor medio")
