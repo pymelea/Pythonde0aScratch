@@ -1,8 +1,8 @@
 '''
-Crear una variable "numeros" con la lista de los numeros del uno al 10 ( ambs incluidos)
-Mostarr el valor de la variable "numeros"
-Recoger un dato del teclado y almacenalo en la variable "dato"
-Convierte "dato" en numerico y almacenalo en la variable "numero"
+Crear una variable "números" con la lista de los números del 1 al 10 ( ambos incluidos)
+Mostrar el valor de la variable "números"
+Recoger un dato del teclado y almacénalo en la variable "dato"
+Convierte "dato" en numérico y almacénalo en la variable "numero"
 Si el valor de "numero" está en la lista de números mostrar el mensaje "SI"
 Si el número introducido no está en la lista de números mostrar el mensaje "NO"
 '''
@@ -15,6 +15,6 @@ dato = int(input("Introduce un numero: "))
 
 if dato in numeros:
     print("El número SI está en la lista")
-    
+
 else:
     print("El número NO está en la lista")
