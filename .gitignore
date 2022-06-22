@@ -1,2 +1,6 @@
 /.idea/git_toolbox_prj.xml
 /.idea/workspace.xml
+/.vscode
+sqlite.db
+fichero.pckl
+qr.png
