@@ -1,0 +1,2781 @@
+Marca;Modelo;Combustible;Transmisión;Estado;Año matricula;Kilometraje;Potencia;Precio
+Ford;Fiesta;Gasolina;Manual;Usado;05/2010;63729;82.0;2850.0
+Nissan;Pixo;Gasolina;Manual;Usado;06/2011;65000;68.0;2999.0
+Hyundai;i10;Gasolina;Manual;Usado;08/2012;35000;69.0;3299.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2011;60211;75.0;3990.0
+Peugeot;107;Gasolina;Manual;Usado;06/2010;80000;68.0;3990.0
+Chevrolet;Spark;Gasolina;Manual;Usado;07/2011;79871;68.0;3990.0
+Nissan;Micra;Gasolina;Manual;Usado;04/2012;81000;80.0;4150.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;07/2011;89500;69.0;4490.0
+Opel;Astra;Gasolina;Manual;Usado;09/2011;72000;116.0;4600.0
+SEAT;Mii;Gasolina;Manual;Usado;07/2012;93400;60.0;4695.0
+Citroen;C1;Gasolina;Manual;Usado;12/2011;16000;68.0;4750.0
+Chevrolet;Spark;Gasolina;Manual;Usado;08/2013;63176;68.0;4790.0
+Skoda;Citigo;Gasolina;Manual;Usado;06/2013;74000;60.0;4880.0
+Mazda;2;Gasolina;Manual;Usado;03/2011;89500;84.0;4890.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;04/2014;72000;71.0;4950.0
+Daihatsu;Charade;Gasolina;Manual;Usado;05/2011;60800;99.0;4980.0
+Ford;;Gasolina;Manual;Usado;12/2011;47497;69.0;4980.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;09/2017;52700;71.0;4990.0
+Volkswagen;up!;Gasolina;Manual;Usado;05/2012;39278;60.0;4990.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2010;67000;60.0;4990.0
+Ford;Fiesta;Gasolina;Manual;Usado;05/2010;63729;82.0;2850.0
+Citroen;Nemo;Diesel;Manual;Usado;05/2010;99409;68.0;3590.0
+Citroen;C4;Gasolina;Manual;Usado;06/2010;64702;120.0;3750.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;09/2014;100000;71.0;3825.0
+Peugeot;107;Gasolina;Manual;Usado;12/2011;76600;68.0;3950.0
+Renault;Twingo;Gasolina;Manual;Usado;03/2012;85700;75.0;3986.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2011;60211;75.0;3990.0
+Fiat;Panda;Gasolina;Manual;Usado;07/2010;68800;54.0;3990.0
+Peugeot;107;Gasolina;Manual;Usado;06/2010;80000;68.0;3990.0
+Chevrolet;Spark;Gasolina;Manual;Usado;07/2011;79871;68.0;3990.0
+Nissan;Micra;Gasolina;Manual;Usado;04/2012;81000;80.0;4150.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2012;34630;69.0;4490.0
+Chevrolet;Aveo;Gasolina;Manual;Usado;05/2012;87000;86.0;4490.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;06/2011;98513;90.0;4490.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;07/2011;89500;69.0;4490.0
+Dacia;Logan;Gasolina;Manual;Usado;04/2015;100000;90.0;4499.0
+Opel;Astra;Gasolina;Manual;Usado;09/2011;72000;116.0;4600.0
+Renault;Clio;Gasolina;Manual;Usado;10/2012;97895;75.0;4650.0
+SEAT;Mii;Gasolina;Manual;Usado;07/2012;93400;60.0;4695.0
+Citroen;C1;Gasolina;Manual;Usado;12/2011;16000;68.0;4750.0
+Mercedes-Benz;;Gasolina;Manual;Usado;07/2013;54900;71.0;5440.0
+smart;forTwo;Gasolina;Manual;Usado;07/2015;73000;71.0;6480.0
+Kia;Picanto;Gasolina;Manual;Usado;10/2016;20751;65.0;7450.0
+smart;forTwo;Gasolina;Manual;Usado;01/2015;39584;90.0;7980.0
+smart;forTwo;Gasolina;Manual;Usado;09/2018;30406;71.0;8690.0
+Opel;Astra;Gasolina;Manual;Usado;03/2015;73175;120.0;9850.0
+Hyundai;i20;Gasolina;Manual;Usado;08/2016;37412;101.0;9990.0
+Opel;Astra;Gasolina;Manual;Usado;10/2013;86859;170.0;9990.0
+Volkswagen;Scirocco;Gasolina;Manual;Usado;05/2012;83100;122.0;9999.0
+Volkswagen;Golf;Gasolina;Automática;Usado;09/2010;99780;211.0;10880.0
+Audi;A3;Diesel;Manual;Usado;10/2012;58460;140.0;10900.0
+Opel;Astra;Gasolina;Manual;Usado;05/2016;44500;140.0;10979.0
+Audi;A5;Gasolina;Manual;Usado;01/2011;99901;179.0;10990.0
+Peugeot;RCZ;Gasolina;Manual;Usado;10/2010;63400;156.0;10990.0
+Volkswagen;Scirocco;Gasolina;Manual;Usado;05/2014;86500;122.0;10995.0
+Opel;Astra;Gasolina;Manual;Usado;05/2016;52000;120.0;11990.0
+MINI;John Cooper Works;Gasolina;Manual;Usado;06/2012;80337;211.0;12390.0
+Volkswagen;CC;Diesel;Manual;Usado;11/2012;95865;140.0;12490.0
+Mercedes-Benz;CLC;Gasolina;Automática;Usado;01/2011;57000;143.0;12990.0
+Audi;A3;Diesel;Manual;Usado;04/2014;95500;150.0;13898.0
+Dacia;Duster;Gasolina;Manual;Usado;12/2015;69114;125.0;6590.0
+Dacia;Duster;Gasolina;Manual;Usado;08/2011;94209;105.0;6980.0
+Kia;Soul;Gasolina;Manual;Usado;12/2012;90000;126.0;7699.0
+Nissan;Juke;Gasolina;Automática;Usado;08/2011;32000;117.0;7799.0
+Skoda;Yeti;Gasolina;Manual;Usado;07/2013;99000;105.0;7850.0
+Renault;Captur;Gasolina;Manual;Usado;07/2013;63060;90.0;7970.0
+Renault;Clio;Diesel;Automática;Usado;08/2015;98302;90.0;7990.0
+Dacia;Duster;Gasolina;Manual;Usado;11/2012;57900;105.0;7990.0
+Skoda;Yeti;Gasolina;Manual;Usado;10/2013;96544;105.0;7990.0
+Peugeot;2008;Diesel;Manual;Usado;05/2013;61300;114.0;8490.0
+Renault;Captur;Gasolina;Manual;Usado;07/2015;63000;90.0;8490.0
+Nissan;Juke;Gasolina;Manual;Usado;01/2014;69665;94.0;8690.0
+Renault;Captur;Gasolina;Manual;Usado;03/2015;89500;90.0;8795.0
+Skoda;Yeti;Gasolina;Manual;Usado;05/2013;70800;122.0;8830.0
+Hyundai;Tucson;Diesel;Manual;Usado;04/2012;81400;116.0;8980.0
+Dacia;Duster;Gasolina;Manual;Usado;07/2015;60055;105.0;8990.0
+Fiat;Panda;Diesel;Manual;Usado;12/2014;74600;75.0;8990.0
+Dacia;Duster;Diesel;Manual;Usado;05/2015;80310;110.0;8990.0
+Ford;Kuga;Diesel;Manual;Usado;10/2010;90000;140.0;8998.0
+Chevrolet;Captiva;Gasolina;Manual;Usado;07/2012;81182;167.0;8999.0
+Fiat;Panda;Gasolina;Manual;Usado;07/2010;68800;54.0;3990.0
+Dacia;Logan;Gasolina;Manual;Usado;04/2015;100000;90.0;4499.0
+Renault;Clio;Gasolina;Manual;Usado;10/2012;97895;75.0;4650.0
+Skoda;Fabia;Gasolina;Manual;Usado;06/2011;69985;69.0;4795.0
+Renault;Clio;Gasolina;Manual;Usado;01/2010;91800;101.0;4950.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2010;70811;86.0;4990.0
+Dacia;Logan;Gasolina;Manual;Usado;05/2016;79556;73.0;5440.0
+Skoda;Fabia;Gasolina;Manual;Usado;06/2012;74000;69.0;5590.0
+MINI;One;Gasolina;Manual;Usado;02/2011;59000;75.0;6199.0
+Skoda;Fabia;Gasolina;Manual;Usado;02/2013;75771;86.0;6390.0
+Dacia;Logan;Gasolina;Manual;Usado;09/2015;89475;90.0;6480.0
+Skoda;Fabia;Gasolina;Automática;Usado;05/2011;100000;105.0;6490.0
+Skoda;Fabia;Gasolina;Manual;Usado;07/2012;92900;105.0;6790.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;01/2015;39900;86.0;6890.0
+Opel;Meriva;Gasolina;Manual;Usado;11/2011;86435;120.0;6950.0
+Peugeot;308;Gasolina;Automática;Usado;04/2011;79000;156.0;6980.0
+Renault;Megane;Gasolina;Manual;Usado;07/2014;80257;110.0;6990.0
+Dacia;Logan;Gasolina;Manual;Usado;02/2013;56200;105.0;7250.0
+SEAT;Ibiza;Diesel;Manual;Usado;08/2015;57459;75.0;7280.0
+Ford;B-Max;Gasolina;Manual;Usado;04/2013;63258;90.0;7450.0
+Citroen;C4;Gasolina;Manual;Usado;06/2010;64702;120.0;3750.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;09/2014;100000;71.0;3825.0
+Peugeot;107;Gasolina;Manual;Usado;12/2011;76600;68.0;3950.0
+Renault;Twingo;Gasolina;Manual;Usado;03/2012;85700;75.0;3986.0
+Chevrolet;Aveo;Gasolina;Manual;Usado;05/2012;87000;86.0;4490.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;06/2011;98513;90.0;4490.0
+Peugeot;308;Gasolina;Manual;Usado;08/2010;88192;156.0;4800.0
+Fiat;Punto Evo;Gasolina;Manual;Usado;07/2011;68550;69.0;4900.0
+Fiat;Panda;Gasolina;Manual;Usado;06/2012;40102;69.0;4970.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2012;78280;82.0;4980.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2010;68700;87.0;4980.0
+Suzuki;Splash;Gasolina;Manual;Usado;03/2010;42000;65.0;4990.0
+Hyundai;i10;Gasolina;Manual;Usado;12/2015;90000;88.0;4999.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2014;82267;69.0;5470.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2015;64105;69.0;5480.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2013;94400;101.0;5489.0
+Hyundai;i20;Gasolina;Manual;Usado;03/2012;50000;77.0;5490.0
+Hyundai;i30;Gasolina;Manual;Usado;04/2010;96516;109.0;5650.0
+Peugeot;207;Gasolina;Automática;Usado;05/2011;69805;120.0;5749.0
+Suzuki;Celerio;Gasolina;Manual;Usado;11/2016;21000;68.0;5780.0
+Citroen;Nemo;Diesel;Manual;Usado;05/2010;99409;68.0;3590.0
+Opel;Combo;Diesel;Automática;Usado;01/2010;100000;75.0;4999.0
+Skoda;Roomster;Gasolina;Manual;Usado;03/2015;51472;86.0;5660.0
+Daihatsu;Materia;Gasolina;Automática;Usado;04/2010;95737;103.0;5990.0
+Dacia;Lodgy;Gasolina;Manual;Usado;02/2013;31843;83.0;5990.0
+Volkswagen;up!;Gasolina;Manual;Usado;11/2016;51178;60.0;6131.0
+Opel;Meriva;Gasolina;Manual;Usado;12/2010;89150;101.0;6200.0
+Nissan;Note;Gasolina;Manual;Usado;04/2012;33517;88.0;6440.0
+Mercedes-Benz;A 160;Gasolina;Manual;Usado;01/2011;84611;95.0;6489.0
+Volkswagen;Golf Plus;Gasolina;Manual;Usado;11/2010;90000;105.0;6950.0
+Nissan;Note;Gasolina;Manual;Usado;07/2014;94100;98.0;6970.0
+Opel;Meriva;Gasolina;Manual;Usado;03/2012;48125;101.0;6980.0
+Opel;Meriva;Gasolina;Manual;Usado;03/2011;35000;101.0;6997.0
+Hyundai;iX20;Gasolina;Manual;Usado;03/2014;99900;90.0;7399.0
+Hyundai;iX20;Gasolina;Manual;Usado;09/2014;86180;90.0;7490.0
+Hyundai;iX20;Gasolina;Manual;Usado;06/2011;60210;90.0;7580.0
+Hyundai;iX20;Gasolina;Manual;Usado;06/2015;97100;90.0;7600.0
+Citroen;Berlingo;Gasolina;Manual;Usado;10/2011;73762;120.0;7648.0
+Opel;Meriva;Gasolina;Manual;Usado;08/2011;42981;120.0;7850.0
+Renault;Kangoo;Diesel;Manual;Usado;02/2014;92503;90.0;7940.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;03/2012;82700;69.0;4990.0
+Mitsubishi;Colt;Gasolina;Manual;Usado;10/2010;76381;95.0;4990.0
+Peugeot;207;Gasolina;Manual;Usado;05/2011;50000;95.0;4999.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2012;99350;87.0;5250.0
+SEAT;Mii;Gasolina;Manual;Usado;06/2015;81200;60.0;5429.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2011;76510;60.0;5440.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2016;85500;60.0;5450.0
+Citroen;C1;Gasolina;Manual;Usado;04/2011;36032;68.0;5450.0
+Suzuki;Splash;Gasolina;Manual;Usado;12/2010;55615;86.0;5470.0
+Kia;Picanto;Gasolina;Manual;Usado;09/2013;43000;86.0;5499.0
+Fiat;Punto;Gasolina;Manual;Usado;03/2012;73860;69.0;5500.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;02/2015;25960;69.0;5590.0
+SEAT;Mii;Gasolina;Manual;Usado;07/2012;73300;75.0;5599.0
+Skoda;Fabia;Gasolina;Manual;Usado;11/2012;99100;60.0;5689.0
+Kia;Picanto;Gasolina;Manual;Usado;05/2014;32753;69.0;5790.0
+Renault;Twingo;Gasolina;Manual;Usado;05/2012;51170;75.0;5845.0
+smart;forTwo;Gasolina;Automática;Usado;09/2010;34163;84.0;5880.0
+Renault;Twingo;Gasolina;Manual;Usado;06/2017;46250;69.0;5880.0
+Opel;Corsa;Gasolina;Manual;Usado;01/2014;98992;87.0;5899.0
+Opel;Corsa;Gasolina;Manual;Usado;01/2014;98992;87.0;5899.0
+Citroen;C1;Gasolina;Manual;Usado;12/2011;16000;68.0;4750.0
+Chevrolet;Spark;Gasolina;Manual;Usado;08/2013;63176;68.0;4790.0
+Skoda;Fabia;Gasolina;Manual;Usado;06/2011;69985;69.0;4795.0
+Peugeot;308;Gasolina;Manual;Usado;08/2010;88192;156.0;4800.0
+Skoda;Citigo;Gasolina;Manual;Usado;06/2013;74000;60.0;4880.0
+Mazda;2;Gasolina;Manual;Usado;03/2011;89500;84.0;4890.0
+Fiat;Punto Evo;Gasolina;Manual;Usado;07/2011;68550;69.0;4900.0
+Renault;Clio;Gasolina;Manual;Usado;01/2010;91800;101.0;4950.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;04/2014;72000;71.0;4950.0
+Fiat;Panda;Gasolina;Manual;Usado;06/2012;40102;69.0;4970.0
+Daihatsu;Charade;Gasolina;Manual;Usado;05/2011;60800;99.0;4980.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2012;78280;82.0;4980.0
+Ford;;Gasolina;Manual;Usado;12/2011;47497;69.0;4980.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2010;68700;87.0;4980.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;09/2017;52700;71.0;4990.0
+Volkswagen;up!;Gasolina;Manual;Usado;05/2012;39278;60.0;4990.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2010;67000;60.0;4990.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;03/2012;82700;69.0;4990.0
+Suzuki;Splash;Gasolina;Manual;Usado;03/2010;42000;65.0;4990.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2010;70811;86.0;4990.0
+Opel;Astra;Gasolina;Manual;Usado;03/2017;54680;200.0;13950.0
+Kia;ProCeed;Gasolina;Manual;Usado;07/2015;87650;204.0;13990.0
+Mercedes-Benz;C 180;Gasolina;Automática;Usado;03/2012;50000;156.0;14399.0
+Peugeot;RCZ;Gasolina;Manual;Usado;03/2013;78900;200.0;14399.0
+Renault;Megane;Gasolina;Manual;Usado;07/2012;75500;265.0;14400.0
+BMW;318;Gasolina;Manual;Usado;02/2013;82000;143.0;14500.0
+Volkswagen;Scirocco;Diesel;Manual;Usado;10/2014;83600;150.0;14650.0
+BMW;320;Diesel;Manual;Usado;06/2011;97798;184.0;14990.0
+Kia;ProCeed / pro_cee'd;Diesel;Manual;Usado;10/2017;28000;136.0;14990.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;100;120.0;15099.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;100;120.0;15099.0
+SEAT;Leon;Gasolina;Manual;Usado;06/2014;74750;280.0;15889.0
+Mercedes-Benz;C 250;Gasolina;Automática;Usado;10/2012;94353;204.0;15900.0
+Abarth;595;Gasolina;Manual;Nuevo;09/2020;5;145.0;15980.0
+Abarth;595;Gasolina;Manual;Nuevo;09/2020;5;145.0;15980.0
+BMW;220;Gasolina;Manual;Usado;04/2014;95700;184.0;15990.0
+Audi;TT;Gasolina;Manual;Usado;05/2012;80000;211.0;15990.0
+Audi;TT;Gasolina;Manual;Usado;02/2013;58834;160.0;15990.0
+Opel;Astra;Gasolina;Manual;Usado;04/2018;14609;140.0;16488.0
+Mercedes-Benz;C 250;Gasolina;Automática;Usado;01/2012;74320;204.0;16490.0
+Nissan;Juke;Gasolina;Manual;Usado;02/2013;56000;117.0;8999.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;9190.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;9202.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;9202.0
+Ford;EcoSport;Gasolina;Manual;Usado;11/2014;93154;125.0;9370.0
+Renault;Captur;Gasolina;Manual;Usado;10/2015;80000;90.0;9400.0
+Ford;EcoSport;Gasolina;Manual;Usado;07/2014;72000;125.0;9480.0
+SEAT;Altea;Gasolina;Manual;Usado;05/2014;44487;105.0;9490.0
+Kia;Sportage;Gasolina;Manual;Usado;01/2011;63000;135.0;9490.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;9677.0
+Renault;Captur;Diesel;Manual;Usado;01/2014;86705;90.0;9740.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;1;101.0;9740.0
+Opel;Mokka;Diesel;Manual;Usado;03/2013;87700;131.0;9760.0
+Skoda;Yeti;Gasolina;Manual;Usado;01/2014;55800;105.0;9800.0
+Ford;EcoSport;Gasolina;Manual;Usado;02/2016;78000;125.0;9850.0
+Peugeot;2008;Gasolina;Manual;Usado;07/2014;50000;120.0;9890.0
+Renault;Captur;Gasolina;Automática;Usado;10/2013;71500;120.0;9900.0
+Nissan;Qashqai;Gasolina;Manual;Usado;03/2011;23400;117.0;9900.0
+Opel;Mokka;Gasolina;Manual;Usado;01/2015;56150;116.0;9935.0
+Hyundai;iX35;Gasolina;Manual;Usado;07/2012;72000;135.0;9945.0
+Dacia;Logan;Gasolina;Manual;Usado;04/2015;84224;90.0;7570.0
+Ford;C-Max;Diesel;Manual;Usado;04/2012;73850;95.0;7650.0
+Opel;Astra;Diesel;Manual;Usado;05/2015;97984;110.0;7680.0
+SEAT;Ibiza;Gasolina;Manual;Usado;06/2016;65577;75.0;7680.0
+Dacia;Logan;Gasolina;Manual;Usado;07/2017;51937;73.0;7699.0
+Lada;Kalina;Gasolina;Automática;Usado;10/2016;29000;98.0;7700.0
+Renault;Clio;Diesel;Manual;Usado;12/2015;58800;75.0;7777.0
+Opel;Meriva;Gasolina;Manual;Usado;07/2013;90371;120.0;7780.0
+Volkswagen;Caddy;Gasolina;Manual;Usado;09/2011;98668;86.0;7980.0
+SEAT;Ibiza;Gasolina;Manual;Usado;09/2014;76538;86.0;7990.0
+Ford;Focus;Gasolina;Manual;Usado;03/2014;87576;125.0;7990.0
+Peugeot;3008;Gasolina;Manual;Usado;04/2012;94500;156.0;7990.0
+Renault;Clio;Gasolina;Manual;Usado;12/2016;40535;73.0;7995.0
+Renault;Megane;Diesel;Manual;Usado;04/2013;86961;131.0;8390.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;05/2010;93385;160.0;8400.0
+SEAT;Ibiza;Gasolina;Manual;Usado;04/2015;56122;105.0;8430.0
+Volkswagen;Golf;Gasolina;Automática;Usado;03/2010;96700;122.0;8444.0
+Hyundai;i30;Gasolina;Manual;Usado;10/2014;80549;99.0;8490.0
+Dacia;Logan;Gasolina;Manual;Usado;02/2015;43950;75.0;8490.0
+Skoda;Fabia;Gasolina;Manual;Usado;07/2016;81750;90.0;8690.0
+Kia;Picanto;Gasolina;Manual;Usado;01/2013;61947;69.0;5780.0
+Opel;Karl;Gasolina;Manual;Usado;01/2017;65139;75.0;5880.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2011;92150;97.0;5890.0
+Mazda;2;Gasolina;Manual;Usado;10/2010;40638;75.0;5900.0
+Kia;Venga;Gasolina;Manual;Usado;05/2012;71234;90.0;5900.0
+Volkswagen;Polo;Gasolina;Manual;Usado;02/2012;89900;69.0;5900.0
+Chevrolet;Aveo;Gasolina;Manual;Usado;03/2012;77614;116.0;5990.0
+Ford;;Gasolina;Manual;Usado;07/2014;48000;69.0;5990.0
+Kia;Rio;Gasolina;Manual;Usado;12/2014;86800;86.0;5990.0
+Hyundai;i20;Gasolina;Manual;Usado;03/2013;56776;86.0;5990.0
+Ford;Fiesta;Gasolina;Manual;Usado;12/2011;32920;82.0;6250.0
+Skoda;;Gasolina;Manual;Usado;10/2014;55430;86.0;6383.0
+smart;forFour;Gasolina;Manual;Usado;05/2015;90740;71.0;6390.0
+Ford;Fiesta;Gasolina;Manual;Usado;10/2013;60950;80.0;6440.0
+Volkswagen;up!;Gasolina;Manual;Usado;01/2014;85200;60.0;6450.0
+Citroen;C4;Gasolina;Manual;Usado;11/2012;63500;95.0;6480.0
+Renault;Twingo;Gasolina;Manual;Usado;03/2015;21600;71.0;6489.0
+Opel;Astra;Gasolina;Manual;Usado;03/2012;46750;87.0;6489.0
+Dacia;Sandero;Gasolina;Manual;Usado;05/2015;76165;90.0;6490.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2012;87639;60.0;6490.0
+Ford;C-Max;Diesel;Manual;Usado;12/2014;96611;116.0;8195.0
+Opel;Meriva;Gasolina;Manual;Usado;08/2012;90700;140.0;8290.0
+Opel;Meriva;Diesel;Manual;Usado;10/2016;99800;95.0;8380.0
+Fiat;500L;Gasolina;Manual;Usado;03/2014;48700;105.0;8480.0
+Renault;Kangoo;Diesel;Manual;Usado;04/2016;42393;75.0;8750.0
+Ford;C-Max;Diesel;Manual;Usado;12/2014;78400;116.0;8800.0
+Volkswagen;Touran;Gasolina;Manual;Usado;09/2011;99990;105.0;8890.0
+SEAT;Altea XL;Gasolina;Manual;Usado;05/2012;64500;125.0;8890.0
+Mazda;5;Diesel;Manual;Usado;03/2013;48600;116.0;8900.0
+Renault;Scenic;Diesel;Automática;Usado;06/2013;92000;110.0;8945.0
+Ford;B-Max;Gasolina;Manual;Usado;04/2015;64500;101.0;8955.0
+Opel;Meriva;Gasolina;Manual;Usado;01/2015;96742;120.0;8980.0
+Dacia;Lodgy;Gasolina;Manual;Usado;05/2015;48700;116.0;8990.0
+Ford;B-Max;Gasolina;Manual;Usado;01/2015;37000;101.0;8990.0
+Ford;C-Max;Diesel;Manual;Usado;02/2012;78338;116.0;8990.0
+Opel;Meriva;Gasolina;Manual;Usado;12/2014;30000;120.0;8999.0
+Citroen;C8;Diesel;Manual;Usado;06/2010;69000;136.0;8999.0
+Ford;C-Max;Gasolina;Manual;Usado;06/2014;67765;101.0;9270.0
+Ford;B-Max;Gasolina;Manual;Usado;04/2016;84982;101.0;9290.0
+Volkswagen;up!;Gasolina;Manual;Usado;01/2016;57500;60.0;5910.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2014;95323;69.0;5920.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2013;85900;87.0;5945.0
+SEAT;Ibiza;Gasolina;Manual;Usado;05/2012;65712;69.0;5950.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;03/2016;41719;69.0;5970.0
+Citroen;C1;Gasolina;Manual;Usado;03/2014;29999;68.0;5980.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;06/2017;54620;71.0;5989.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2014;52100;71.0;5990.0
+Fiat;Punto;Gasolina;Manual;Usado;01/2015;25346;69.0;5990.0
+Fiat;500;Gasolina;Manual;Usado;09/2014;90900;69.0;5990.0
+smart;forTwo;Gasolina;Automática;Usado;10/2011;70000;71.0;5990.0
+Skoda;Citigo;Gasolina;Manual;Usado;08/2015;45000;75.0;5990.0
+Skoda;Citigo;Gasolina;Manual;Usado;04/2016;97000;60.0;5999.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2016;44000;60.0;5999.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2012;94207;82.0;6250.0
+Chevrolet;Aveo;Gasolina;Manual;Usado;05/2013;53800;116.0;6270.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2015;47488;71.0;6290.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2017;29100;69.0;6400.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2014;54077;75.0;6440.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2011;83350;105.0;6480.0
+Mitsubishi;Colt;Gasolina;Manual;Usado;10/2010;76381;95.0;4990.0
+Opel;Combo;Diesel;Automática;Usado;01/2010;100000;75.0;4999.0
+Peugeot;207;Gasolina;Manual;Usado;05/2011;50000;95.0;4999.0
+Peugeot;207;Gasolina;Manual;Usado;04/2011;58000;73.0;4999.0
+Hyundai;i10;Gasolina;Manual;Usado;12/2015;90000;88.0;4999.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2012;99350;87.0;5250.0
+SEAT;Mii;Gasolina;Manual;Usado;06/2015;81200;60.0;5429.0
+Mercedes-Benz;;Gasolina;Manual;Usado;07/2013;54900;71.0;5440.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2011;76510;60.0;5440.0
+Dacia;Logan;Gasolina;Manual;Usado;05/2016;79556;73.0;5440.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2016;85500;60.0;5450.0
+Citroen;C1;Gasolina;Manual;Usado;04/2011;36032;68.0;5450.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2014;82267;69.0;5470.0
+Suzuki;Splash;Gasolina;Manual;Usado;12/2010;55615;86.0;5470.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2015;64105;69.0;5480.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2013;94400;101.0;5489.0
+Hyundai;i20;Gasolina;Manual;Usado;03/2012;50000;77.0;5490.0
+Kia;Picanto;Gasolina;Manual;Usado;09/2013;43000;86.0;5499.0
+Fiat;Punto;Gasolina;Manual;Usado;03/2012;73860;69.0;5500.0
+Skoda;Fabia;Gasolina;Manual;Usado;06/2012;74000;69.0;5590.0
+Volkswagen;Scirocco;Gasolina;Manual;Usado;03/2015;60000;220.0;16495.0
+SEAT;Leon;Diesel;Automática;Usado;02/2017;64901;184.0;16500.0
+Volkswagen;Scirocco;Gasolina;Manual;Usado;07/2016;59950;125.0;16777.0
+Toyota;GT86;Gasolina;Manual;Usado;07/2013;77561;200.0;16870.0
+Abarth;595;Gasolina;Manual;Nuevo;09/2020;5;145.0;16890.0
+Volkswagen;Scirocco;Gasolina;Automática;Usado;01/2015;59000;179.0;16950.0
+Hyundai;i30;Gasolina;Manual;Usado;03/2018;7497;140.0;16979.0
+BMW;320;Diesel;Automática;Usado;01/2013;79400;184.0;16980.0
+BMW;330;Gasolina;Manual;Usado;11/2010;58600;272.0;16990.0
+Volkswagen;Scirocco;Gasolina;Automática;Usado;03/2015;67000;179.0;16999.0
+Abarth;595;Gasolina;Manual;Nuevo;09/2020;5;145.0;17290.0
+Mercedes-Benz;CLA 200;Gasolina;Manual;Usado;10/2013;80000;156.0;17450.0
+Mercedes-Benz;CLS 300;Gasolina;Automática;Usado;03/2011;96071;231.0;17490.0
+Mercedes-Benz;CLA 180;Gasolina;Manual;Usado;11/2015;68068;122.0;17740.0
+Opel;Astra;Gasolina;Automática;Usado;04/2018;5191;140.0;17970.0
+Audi;TT;Gasolina;Automática;Usado;10/2012;45352;211.0;17980.0
+Volkswagen;CC;Diesel;Automática;Usado;02/2015;98300;177.0;18400.0
+Volkswagen;Scirocco;Diesel;Manual;Usado;05/2017;50284;150.0;18480.0
+Mercedes-Benz;C 200;Gasolina;Automática;Usado;01/2013;80500;184.0;18890.0
+Chevrolet;Trax;Gasolina;Manual;Usado;04/2014;34528;140.0;9950.0
+Nissan;Qashqai;Gasolina;Automática;Usado;03/2012;81200;141.0;9950.0
+Skoda;Yeti;Gasolina;Manual;Usado;05/2013;72985;122.0;9970.0
+Dacia;Duster;Gasolina;Manual;Usado;08/2017;22066;114.0;9979.0
+Mitsubishi;ASX;Diesel;Manual;Usado;10/2012;84155;150.0;9980.0
+Citroen;C4 Cactus;Gasolina;Manual;Usado;09/2015;56811;110.0;9980.0
+Dacia;Sandero;Diesel;Automática;Usado;08/2017;77496;90.0;9990.0
+Dacia;Duster;Gasolina;Manual;Usado;04/2014;50116;105.0;9990.0
+Nissan;Qashqai;Diesel;Manual;Usado;09/2012;88550;131.0;9990.0
+Renault;Captur;Diesel;Manual;Usado;03/2014;63289;90.0;9990.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;9990.0
+Nissan;Qashqai;Diesel;Automática;Usado;02/2012;68253;150.0;10249.0
+Opel;Mokka;Gasolina;Manual;Usado;06/2016;73118;140.0;10290.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;10290.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;10290.0
+Opel;Mokka X;Gasolina;Manual;Usado;10/2012;86240;140.0;10362.0
+MINI;Cooper Countryman;Gasolina;Manual;Usado;06/2012;91696;122.0;10400.0
+Opel;Mokka;Diesel;Manual;Usado;06/2014;99107;131.0;10480.0
+Hyundai;iX35;Gasolina;Manual;Usado;01/2014;65405;135.0;10489.0
+Hyundai;iX35;Gasolina;Manual;Usado;06/2013;65300;135.0;10490.0
+Renault;Clio;Gasolina;Manual;Usado;07/2016;36300;73.0;8990.0
+Hyundai;iX20;Gasolina;Manual;Usado;04/2014;48000;90.0;8990.0
+Opel;Astra;Gasolina;Manual;Usado;09/2012;74775;140.0;8990.0
+Ford;Focus;Gasolina;Manual;Usado;12/2017;52000;86.0;8990.0
+Skoda;Rapid/Spaceback;Diesel;Manual;Usado;10/2014;96900;90.0;8990.0
+Fiat;Panda;Gasolina;Manual;Nuevo;09/2020;10;69.0;8999.0
+Hyundai;i40;Gasolina;Manual;Usado;04/2012;93300;135.0;9100.0
+Dacia;Logan;Gasolina;Automática;Usado;05/2017;80000;90.0;9120.0
+Hyundai;i40;Gasolina;Manual;Usado;09/2013;97500;135.0;9200.0
+Volkswagen;Golf Variant;Diesel;Manual;Usado;07/2012;99750;140.0;9200.0
+Volkswagen;Golf Variant;Diesel;Manual;Usado;11/2016;99728;110.0;9270.0
+Audi;A4;Gasolina;Manual;Usado;04/2011;83370;120.0;9280.0
+Dacia;Logan;Gasolina;Manual;Nuevo;09/2020;100;73.0;9290.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;05/2014;86600;99.0;9299.0
+Skoda;Fabia;Diesel;Manual;Usado;06/2015;72300;90.0;9450.0
+Ford;Focus;Gasolina;Manual;Usado;10/2011;83317;150.0;9490.0
+Fiat;Panda;Gasolina;Manual;Nuevo;09/2020;10;69.0;9490.0
+Ford;Focus;Gasolina;Manual;Usado;01/2014;80924;101.0;9490.0
+Ford;Mondeo;Diesel;Manual;Usado;01/2014;100000;140.0;9490.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;09/2016;98983;90.0;9490.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2014;54636;65.0;6490.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2012;83967;69.0;6490.0
+Toyota;Aygo;Gasolina;Manual;Usado;02/2016;36200;69.0;6495.0
+Opel;Karl;Gasolina;Manual;Usado;08/2015;60000;75.0;6499.0
+Kia;Picanto;Gasolina;Manual;Usado;12/2015;53286;67.0;6499.0
+Fiat;500;Gasolina;Manual;Usado;07/2016;41972;69.0;6550.0
+Renault;Twingo;Gasolina;Manual;Usado;04/2015;42486;71.0;6590.0
+Nissan;Micra;Gasolina;Manual;Usado;12/2016;91735;80.0;6590.0
+Volkswagen;Golf;Gasolina;Manual;Usado;06/2012;99540;80.0;6689.0
+SEAT;Ibiza;Gasolina;Manual;Usado;04/2015;54377;69.0;6690.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2014;77716;60.0;6690.0
+SEAT;Ibiza;Gasolina;Manual;Usado;12/2013;49300;69.0;6690.0
+SEAT;Mii;Gasolina;Manual;Usado;04/2016;49100;75.0;6750.0
+Hyundai;i30;Gasolina;Manual;Usado;02/2012;84880;109.0;6790.0
+Dacia;Sandero;Gasolina;Manual;Usado;12/2018;58000;73.0;6799.0
+Fiat;Punto;Gasolina;Manual;Usado;07/2016;72280;69.0;6850.0
+Ford;Fiesta;Gasolina;Manual;Usado;12/2013;58180;82.0;6870.0
+Opel;Astra;Gasolina;Manual;Usado;09/2011;73005;101.0;6879.0
+Fiat;Bravo;Gasolina;Manual;Usado;06/2013;62550;90.0;6900.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;05/2017;41264;71.0;6900.0
+Kia;Soul;Diesel;Manual;Usado;12/2014;80000;128.0;9290.0
+Fiat;500L;Gasolina;Manual;Usado;06/2016;89329;95.0;9290.0
+Renault;Clio;Gasolina;Manual;Usado;05/2017;57660;90.0;9380.0
+Fiat;Qubo;Gasolina;Manual;Usado;11/2016;36012;77.0;9380.0
+Volkswagen;Golf Plus;Diesel;Manual;Usado;12/2012;92790;105.0;9450.0
+Dacia;Dokker;Gasolina;Manual;Usado;11/2015;59821;116.0;9460.0
+Opel;Zafira;Gasolina;Manual;Usado;06/2012;55600;140.0;9490.0
+Opel;Meriva;Diesel;Manual;Usado;07/2015;86152;136.0;9490.0
+Dacia;Lodgy;Gasolina;Manual;Usado;04/2016;71560;116.0;9745.0
+Ford;C-Max;Gasolina;Manual;Usado;11/2015;91590;101.0;9850.0
+Renault;Scenic;Gasolina;Manual;Usado;10/2014;38000;132.0;9900.0
+Ford;Grand C-Max;Diesel;Automática;Usado;08/2013;80760;140.0;9940.0
+Ford;B-Max;Gasolina;Manual;Usado;08/2016;74450;125.0;9980.0
+Citroen;C4 SpaceTourer;Diesel;Manual;Usado;10/2016;84879;120.0;9980.0
+Ford;Tourneo Courier;Gasolina;Manual;Usado;04/2016;87300;101.0;9990.0
+Ford;Galaxy;Diesel;Automática;Usado;10/2013;89985;140.0;9990.0
+Renault;Scenic;Gasolina;Manual;Usado;07/2013;46358;132.0;9990.0
+Ford;C-Max;Gasolina;Manual;Usado;02/2014;92707;150.0;9990.0
+Fiat;500;Gasolina;Manual;Usado;02/2014;52209;120.0;9990.0
+Ford;B-Max;Gasolina;Manual;Usado;12/2016;48148;101.0;9990.0
+Hyundai;i10;Gasolina;Manual;Usado;01/2015;56500;67.0;6660.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;25280;69.0;6680.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;30143;69.0;6740.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2013;39400;60.0;6740.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2015;27750;71.0;6750.0
+Hyundai;iX20;Gasolina;Manual;Usado;10/2012;94500;90.0;6750.0
+Opel;Corsa;Gasolina;Manual;Usado;12/2014;63141;87.0;6770.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2017;54161;60.0;6775.0
+Hyundai;i20;Gasolina;Manual;Usado;06/2014;26400;86.0;6795.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2016;50773;60.0;6810.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2016;34200;60.0;6880.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2014;44100;75.0;6880.0
+Volkswagen;Polo;Gasolina;Manual;Usado;08/2013;90500;86.0;6885.0
+Opel;Corsa;Gasolina;Manual;Usado;11/2016;30130;69.0;6888.0
+Hyundai;i10;Gasolina;Manual;Usado;04/2016;39100;67.0;6891.0
+Mazda;2;Gasolina;Manual;Usado;07/2012;58800;84.0;6898.0
+Ford;Fiesta;Gasolina;Manual;Usado;09/2014;52900;101.0;6900.0
+Nissan;Micra;Gasolina;Manual;Usado;03/2017;76100;80.0;6900.0
+Opel;Adam;Gasolina;Manual;Usado;05/2013;65950;69.0;6945.0
+Dacia;Sandero;Gasolina;Manual;Usado;08/2012;66400;84.0;6945.0
+Skoda;Fabia;Diesel;Manual;Usado;11/2013;95874;75.0;5895.0
+Opel;Corsa;Gasolina;Manual;Usado;01/2014;98992;87.0;5899.0
+Opel;Corsa;Gasolina;Manual;Usado;01/2014;98992;87.0;5899.0
+Mazda;2;Gasolina;Manual;Usado;10/2010;40638;75.0;5900.0
+Kia;Venga;Gasolina;Manual;Usado;05/2012;71234;90.0;5900.0
+Volkswagen;Polo;Gasolina;Manual;Usado;02/2012;89900;69.0;5900.0
+Volkswagen;up!;Gasolina;Manual;Usado;01/2016;57500;60.0;5910.0
+Renault;Clio;Gasolina;Manual;Usado;04/2010;77300;75.0;5945.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2013;85900;87.0;5945.0
+SEAT;Ibiza;Gasolina;Manual;Usado;05/2012;65712;69.0;5950.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;03/2016;41719;69.0;5970.0
+Renault;Master;Diesel;Manual;Usado;08/2010;88000;120.0;5980.0
+Renault;Master;Diesel;Manual;Usado;08/2010;88000;120.0;5980.0
+smart;forTwo;Gasolina;Automática;Usado;01/2013;53495;71.0;5980.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;06/2017;54620;71.0;5989.0
+Daihatsu;Materia;Gasolina;Automática;Usado;04/2010;95737;103.0;5990.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2014;52100;71.0;5990.0
+Ford;;Gasolina;Manual;Usado;07/2014;48000;69.0;5990.0
+Fiat;Punto;Gasolina;Manual;Usado;01/2015;25346;69.0;5990.0
+Fiat;500;Gasolina;Manual;Usado;09/2014;90900;69.0;5990.0
+Volkswagen;Passat CC;Gasolina;Automática;Usado;05/2014;32550;211.0;18989.0
+Renault;Megane;Gasolina;Manual;Usado;03/2016;77785;273.0;18990.0
+BMW;120;Gasolina;Automática;Usado;03/2017;32490;184.0;18990.0
+BMW;420;Diesel;Automática;Usado;07/2015;88300;190.0;19490.0
+BMW;220;Diesel;Manual;Usado;10/2014;78900;184.0;19495.0
+Mercedes-Benz;C 250;Gasolina;Automática;Usado;02/2014;61000;204.0;19790.0
+BMW;420;Diesel;Automática;Usado;05/2014;87490;184.0;19850.0
+Chevrolet;Camaro;Gasolina;Manual;Usado;05/2011;19716;305.0;19880.0
+Audi;TT;Gasolina;Automática;Usado;03/2013;72500;211.0;19980.0
+Audi;A5;Diesel;Automática;Usado;05/2014;96476;177.0;19990.0
+Volkswagen;Scirocco;Gasolina;Automática;Usado;07/2012;89812;265.0;19990.0
+Volkswagen;Scirocco;Diesel;Manual;Usado;05/2017;60900;150.0;19990.0
+Audi;A5;Gasolina;Manual;Usado;01/2017;57990;144.0;20890.0
+Opel;Astra;Gasolina;Manual;Usado;09/2016;47500;280.0;21450.0
+BMW;420;Diesel;Automática;Usado;05/2016;99400;190.0;21600.0
+BMW;230;Gasolina;Automática;Usado;07/2017;56200;252.0;21750.0
+Mercedes-Benz;CLS 350;Gasolina;Automática;Usado;11/2011;86246;306.0;21770.0
+Opel;Mokka;Gasolina;Manual;Usado;10/2015;42100;116.0;10490.0
+Kia;Sportage;Gasolina;Manual;Usado;12/2012;79978;135.0;10490.0
+Hyundai;iX35;Gasolina;Manual;Usado;07/2013;95193;163.0;10490.0
+Renault;Captur;Gasolina;Manual;Usado;06/2016;36059;90.0;10490.0
+Fiat;Freemont;Diesel;Manual;Usado;01/2012;87127;170.0;10490.0
+Renault;Captur;Gasolina;Manual;Usado;03/2016;46052;90.0;10580.0
+Hyundai;iX35;Gasolina;Manual;Usado;12/2013;97300;135.0;10590.0
+Nissan;Qashqai;Gasolina;Manual;Usado;10/2013;70500;117.0;10645.0
+Kia;Sportage;Gasolina;Manual;Usado;05/2013;53800;135.0;10680.0
+Opel;Mokka;Gasolina;Manual;Usado;09/2014;16300;116.0;10680.0
+Ford;EcoSport;Gasolina;Manual;Usado;03/2016;57371;125.0;10690.0
+Hyundai;iX35;Gasolina;Manual;Usado;09/2015;77500;135.0;10790.0
+Opel;Mokka;Gasolina;Manual;Usado;06/2013;96530;140.0;10790.0
+MINI;Cooper Countryman;Gasolina;Manual;Usado;01/2014;71690;122.0;10790.0
+Nissan;Qashqai;Gasolina;Manual;Usado;06/2014;81700;116.0;10810.0
+Hyundai;iX35;Diesel;Manual;Usado;07/2015;62180;116.0;10860.0
+Ford;EcoSport;Diesel;Manual;Usado;02/2017;59615;95.0;10870.0
+Opel;Mokka;Gasolina;Manual;Usado;04/2013;67740;140.0;10897.0
+Nissan;Juke;Gasolina;Automática;Usado;09/2014;46500;117.0;10900.0
+Ford;EcoSport;Gasolina;Manual;Usado;09/2015;43646;111.0;10900.0
+Ford;Focus;Gasolina;Manual;Usado;11/2017;63235;101.0;9595.0
+Renault;Megane;Diesel;Manual;Usado;05/2017;85451;110.0;9599.0
+Ford;Focus;Gasolina;Manual;Usado;03/2013;98000;150.0;9650.0
+Renault;Clio;Diesel;Manual;Usado;05/2018;46357;90.0;9689.0
+Skoda;Octavia;Gasolina;Manual;Usado;02/2013;72140;105.0;9790.0
+Ford;Focus;Gasolina;Manual;Usado;12/2016;43750;101.0;9850.0
+Opel;Astra;Gasolina;Manual;Usado;10/2016;80728;105.0;9880.0
+Skoda;Fabia;Gasolina;Manual;Usado;05/2016;57900;75.0;9880.0
+Ford;Focus;Diesel;Manual;Usado;05/2018;80000;120.0;9890.0
+Hyundai;i30;Gasolina;Manual;Usado;05/2016;34500;101.0;9900.0
+Renault;Clio;Diesel;Manual;Usado;08/2017;58842;90.0;9900.0
+Ford;Focus;Gasolina;Manual;Usado;09/2014;99850;125.0;9900.0
+Volkswagen;Golf;Gasolina;Manual;Usado;01/2015;69027;86.0;9940.0
+Hyundai;i30;Gasolina;Manual;Usado;07/2015;54102;135.0;9950.0
+Ford;Focus;Gasolina;Manual;Usado;06/2017;47444;125.0;9950.0
+Audi;A4;Gasolina;Automática;Usado;06/2010;82000;160.0;9950.0
+Skoda;;Gasolina;Manual;Usado;09/2017;39600;90.0;9950.0
+Opel;Zafira Tourer;Gasolina;Manual;Usado;07/2012;82000;120.0;9970.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;10/2016;30000;90.0;9970.0
+Ford;Mondeo;Gasolina;Manual;Usado;03/2011;88000;145.0;9975.0
+Ford;Focus;Gasolina;Manual;Usado;08/2014;52055;86.0;6980.0
+Fiat;Grande Punto;Gasolina;Manual;Usado;09/2013;29210;69.0;6980.0
+Opel;Astra;Gasolina;Manual;Usado;04/2012;96100;120.0;6980.0
+Renault;Clio;Diesel;Manual;Usado;03/2013;85600;90.0;6980.0
+Opel;Adam;Gasolina;Manual;Usado;07/2013;83872;69.0;6980.0
+Hyundai;iX20;Gasolina;Manual;Usado;08/2013;73000;90.0;6990.0
+Dacia;Sandero;Gasolina;Manual;Usado;06/2019;17000;73.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;11/2015;50000;67.0;6990.0
+Citroen;C4;Gasolina;Manual;Usado;03/2013;78790;120.0;6990.0
+Opel;Corsa;Diesel;Manual;Usado;03/2013;6700;75.0;6990.0
+SEAT;Ibiza;Gasolina;Manual;Usado;02/2013;65384;86.0;6990.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2014;55300;60.0;6990.0
+Ford;Fiesta;Gasolina;Manual;Usado;04/2014;97828;101.0;6990.0
+Mazda;2;Gasolina;Manual;Usado;06/2010;21400;86.0;6990.0
+Citroen;C1;Gasolina;Manual;Usado;07/2017;20000;69.0;6990.0
+Renault;ZOE;Gasolina;Manual;Usado;05/2016;60658;58.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;02/2016;33630;60.0;6990.0
+BMW;116;Gasolina;Manual;Usado;11/2010;90000;122.0;6999.0
+smart;forFour;Gasolina;Manual;Usado;04/2015;77197;90.0;6999.0
+Toyota;Auris;Diesel;Manual;Usado;05/2010;50600;90.0;6999.0
+Dacia;Dokker;Gasolina;Manual;Usado;11/2015;59821;116.0;9460.0
+Opel;Meriva;Gasolina;Manual;Usado;03/2015;46524;101.0;9480.0
+Opel;Zafira;Gasolina;Manual;Usado;06/2012;55600;140.0;9490.0
+Opel;Meriva;Diesel;Manual;Usado;07/2015;86152;136.0;9490.0
+Fiat;Doblo;Diesel;Manual;Usado;03/2017;33677;95.0;9690.0
+Dacia;Lodgy;Gasolina;Manual;Usado;04/2016;71560;116.0;9745.0
+Ford;C-Max;Gasolina;Manual;Usado;11/2015;91590;101.0;9850.0
+Renault;Scenic;Gasolina;Manual;Usado;10/2014;38000;132.0;9900.0
+Ford;Grand C-Max;Diesel;Automática;Usado;08/2013;80760;140.0;9940.0
+Mercedes-Benz;Citan;Diesel;Manual;Usado;08/2016;77126;110.0;9980.0
+Ford;B-Max;Gasolina;Manual;Usado;08/2016;74450;125.0;9980.0
+Ford;B-Max;Gasolina;Manual;Usado;08/2016;74450;125.0;9980.0
+Citroen;C4 SpaceTourer;Diesel;Manual;Usado;10/2016;84879;120.0;9980.0
+Ford;Tourneo Courier;Gasolina;Manual;Usado;04/2016;87300;101.0;9990.0
+Hyundai;iX20;Gasolina;Manual;Usado;10/2016;89513;90.0;9990.0
+Ford;Galaxy;Diesel;Automática;Usado;10/2013;89985;140.0;9990.0
+Renault;Scenic;Gasolina;Manual;Usado;07/2013;46358;132.0;9990.0
+Ford;C-Max;Gasolina;Manual;Usado;02/2014;92707;150.0;9990.0
+Fiat;500;Gasolina;Manual;Usado;02/2014;52209;120.0;9990.0
+Ford;B-Max;Gasolina;Manual;Usado;12/2016;48148;101.0;9990.0
+Nissan;Micra;Gasolina;Manual;Usado;12/2015;89174;80.0;6950.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2015;35200;75.0;6950.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2015;42386;75.0;6975.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;19896;69.0;6980.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;72856;60.0;6983.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2013;60000;60.0;6985.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;44588;69.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;01/2015;54855;67.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;34011;69.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;01/2017;42000;60.0;6990.0
+Toyota;Aygo;Gasolina;Manual;Usado;10/2014;34037;69.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;11/2013;86700;87.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;33533;69.0;6990.0
+Citroen;C3;Gasolina;Manual;Usado;06/2016;93628;82.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;27790;69.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;30586;69.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;49039;69.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;04/2016;17350;60.0;6990.0
+SEAT;Ibiza;Gasolina;Manual;Usado;05/2013;94000;105.0;6999.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;04/2012;47750;90.0;7245.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2014;95323;69.0;5920.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2013;85900;87.0;5945.0
+SEAT;Ibiza;Gasolina;Manual;Usado;05/2012;65712;69.0;5950.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;03/2016;41719;69.0;5970.0
+Renault;Master;Diesel;Manual;Usado;08/2010;88000;120.0;5980.0
+Renault;Master;Diesel;Manual;Usado;08/2010;88000;120.0;5980.0
+smart;forTwo;Gasolina;Automática;Usado;01/2013;53495;71.0;5980.0
+Citroen;C1;Gasolina;Manual;Usado;03/2014;29999;68.0;5980.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;06/2017;54620;71.0;5989.0
+Chevrolet;Aveo;Gasolina;Manual;Usado;03/2012;77614;116.0;5990.0
+Daihatsu;Materia;Gasolina;Automática;Usado;04/2010;95737;103.0;5990.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2014;52100;71.0;5990.0
+Ford;;Gasolina;Manual;Usado;07/2014;48000;69.0;5990.0
+Fiat;Punto;Gasolina;Manual;Usado;01/2015;25346;69.0;5990.0
+Fiat;500;Gasolina;Manual;Usado;09/2014;90900;69.0;5990.0
+smart;forTwo;Gasolina;Automática;Usado;10/2011;70000;71.0;5990.0
+Kia;Rio;Gasolina;Manual;Usado;12/2014;86800;86.0;5990.0
+Dacia;Lodgy;Gasolina;Manual;Usado;02/2013;31843;83.0;5990.0
+Hyundai;i20;Gasolina;Manual;Usado;03/2013;56776;86.0;5990.0
+Skoda;Citigo;Gasolina;Manual;Usado;08/2015;45000;75.0;5990.0
+Mercedes-Benz;CLS 350;Gasolina;Automática;Usado;11/2011;86246;306.0;21770.0
+Audi;A5;Gasolina;Manual;Usado;03/2016;66620;177.0;21850.0
+Volkswagen;CC;Diesel;Automática;Usado;11/2018;28000;184.0;21870.0
+BMW;220;Gasolina;Manual;Usado;05/2014;33996;184.0;21897.0
+Audi;A5;Diesel;Automática;Usado;12/2016;46113;190.0;21900.0
+BMW;218;Gasolina;Manual;Usado;05/2019;19099;136.0;21990.0
+BMW;420;Diesel;Manual;Usado;06/2017;44896;190.0;22480.0
+BMW;430;Gasolina;Automática;Usado;03/2017;73573;252.0;22660.0
+BMW;430;Diesel;Automática;Usado;08/2015;80699;258.0;22900.0
+BMW;420;Diesel;Automática;Usado;01/2016;54472;190.0;22900.0
+Volkswagen;Arteon;Diesel;Automática;Usado;08/2017;47300;150.0;22910.0
+SEAT;Leon;Gasolina;Automática;Usado;05/2017;71467;300.0;22950.0
+Audi;S5;Gasolina;Automática;Usado;05/2010;73612;354.0;22990.0
+Audi;TT;Gasolina;Automática;Usado;03/2015;72603;230.0;22990.0
+BMW;420;Diesel;Automática;Usado;07/2015;55656;190.0;22995.0
+BMW;218;Gasolina;Manual;Nuevo;09/2020;100;140.0;23570.0
+Mercedes-Benz;CLA 200;Diesel;Manual;Usado;04/2018;47400;136.0;23699.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;04/2014;52530;117.0;10950.0
+Dacia;Duster;Diesel;Manual;Usado;06/2016;72000;109.0;10970.0
+Hyundai;iX35;Gasolina;Manual;Usado;10/2014;45782;135.0;10980.0
+Opel;Mokka;Diesel;Manual;Usado;08/2015;85230;136.0;10980.0
+Renault;Captur;Gasolina;Manual;Usado;02/2018;16989;90.0;10990.0
+Chevrolet;Trax;Gasolina;Manual;Usado;10/2013;37850;140.0;10990.0
+Fiat;500X;Gasolina;Manual;Usado;04/2016;83000;140.0;10990.0
+Renault;Captur;Gasolina;Manual;Usado;04/2016;32180;90.0;10990.0
+Peugeot;2008;Gasolina;Manual;Usado;05/2017;46097;82.0;10990.0
+Peugeot;2008;Gasolina;Manual;Usado;04/2016;65360;110.0;10990.0
+Nissan;Juke;Gasolina;Manual;Usado;04/2017;62500;116.0;10999.0
+Ford;Kuga;Diesel;Manual;Usado;08/2012;99000;140.0;10999.0
+Skoda;Yeti;Diesel;Automática;Usado;10/2014;79000;105.0;10999.0
+Peugeot;2008;Gasolina;Manual;Usado;05/2018;19286;82.0;11190.0
+Renault;Captur;Gasolina;Automática;Usado;09/2014;55000;120.0;11230.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;101.0;11344.0
+Opel;Mokka;Diesel;Manual;Usado;07/2016;77200;110.0;11350.0
+BMW;X1;Gasolina;Automática;Usado;10/2012;54218;150.0;11390.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;07/2012;81298;160.0;11435.0
+BMW;X1;Gasolina;Manual;Usado;10/2010;73649;150.0;11450.0
+Renault;Clio;Diesel;Manual;Usado;04/2018;47132;90.0;9979.0
+Renault;Clio;Diesel;Manual;Usado;03/2018;38287;90.0;9979.0
+Renault;Clio;Diesel;Manual;Usado;04/2018;26385;90.0;9979.0
+Opel;Astra;Diesel;Manual;Usado;04/2017;94084;110.0;9980.0
+Opel;Astra;Gasolina;Manual;Usado;06/2014;69003;120.0;9988.0
+Ford;Focus;Gasolina;Manual;Usado;11/2014;65649;125.0;9990.0
+Opel;Astra;Gasolina;Manual;Usado;08/2015;65600;140.0;9990.0
+Ford;C-Max;Gasolina;Manual;Usado;03/2015;94200;125.0;9990.0
+Volkswagen;Golf Variant;Diesel;Manual;Usado;03/2015;91900;110.0;9990.0
+Hyundai;i30;Gasolina;Manual;Usado;03/2015;61786;99.0;9990.0
+Ford;Focus;Gasolina;Manual;Usado;08/2014;70500;125.0;9990.0
+Skoda;Octavia;Diesel;Manual;Usado;10/2012;91200;140.0;9990.0
+Audi;A3;Gasolina;Automática;Usado;03/2010;86989;125.0;9990.0
+Ford;Focus;Gasolina;Manual;Usado;05/2014;63396;101.0;9990.0
+Volkswagen;Golf;Gasolina;Automática;Usado;11/2012;84300;122.0;9995.0
+Opel;Insignia;Diesel;Manual;Usado;05/2011;98032;160.0;9999.0
+Dacia;Logan;Gasolina;Manual;Nuevo;09/2020;100;73.0;10190.0
+Skoda;Fabia;Gasolina;Manual;Usado;09/2015;60838;90.0;10290.0
+Opel;Astra;Gasolina;Manual;Usado;02/2016;44600;116.0;10290.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;10295.0
+Citroen;C1;Gasolina;Manual;Usado;07/2017;20000;69.0;6990.0
+Renault;ZOE;Gasolina;Manual;Usado;05/2016;60658;58.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;02/2016;33630;60.0;6990.0
+Renault;Clio;Gasolina;Automática;Usado;09/2010;69400;79.0;6990.0
+Hyundai;i20;Gasolina;Manual;Usado;11/2014;39200;84.0;6990.0
+BMW;116;Gasolina;Manual;Usado;11/2010;90000;122.0;6999.0
+Hyundai;iX20;Gasolina;Manual;Usado;06/2013;92850;90.0;6999.0
+smart;forFour;Gasolina;Manual;Usado;04/2015;77197;90.0;6999.0
+Toyota;Auris;Diesel;Manual;Usado;05/2010;50600;90.0;6999.0
+Peugeot;208;Gasolina;Manual;Usado;01/2013;94000;120.0;6999.0
+Skoda;Octavia;Gasolina;Manual;Usado;09/2010;99950;105.0;7189.0
+Hyundai;i30;Gasolina;Manual;Usado;10/2014;59387;99.0;7290.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2018;46163;90.0;7390.0
+Opel;Astra;Gasolina;Manual;Usado;06/2011;78000;120.0;7390.0
+SEAT;Ibiza;Gasolina;Manual;Usado;09/2013;14455;86.0;7430.0
+Opel;Corsa;Diesel;Manual;Usado;01/2017;95685;75.0;7445.0
+Volvo;C30;Diesel;Manual;Usado;08/2012;88700;114.0;7450.0
+Renault;Clio;Gasolina;Manual;Usado;01/2014;73691;73.0;7450.0
+DS;Automobiles DS 3;Gasolina;Manual;Usado;03/2016;67000;82.0;7450.0
+Hyundai;i10;Gasolina;Manual;Usado;06/2015;34595;87.0;7470.0
+Ford;B-Max;Gasolina;Automática;Usado;03/2013;66672;105.0;10980.0
+Opel;Combo;Gasolina;Manual;Usado;04/2018;49878;95.0;10981.0
+Ford;B-Max;Gasolina;Manual;Usado;08/2017;43768;90.0;10990.0
+Ford;B-Max;Gasolina;Manual;Usado;06/2016;71301;125.0;11390.0
+Citroen;Berlingo;Diesel;Manual;Usado;12/2016;72600;120.0;11480.0
+Dacia;Lodgy;Gasolina;Manual;Usado;09/2017;47900;116.0;11490.0
+Ford;C-Max;Diesel;Manual;Usado;09/2015;95000;150.0;11490.0
+Citroen;Grand C4 Picasso;Diesel;Manual;Usado;06/2016;82969;120.0;11490.0
+Ford;C-Max;Gasolina;Manual;Usado;06/2016;65590;125.0;11550.0
+Citroen;Berlingo;Gasolina;Manual;Usado;10/2015;62470;120.0;11780.0
+Ford;C-Max;Gasolina;Manual;Usado;07/2017;28156;101.0;11850.0
+Opel;Vivaro;Diesel;Manual;Usado;12/2015;90779;90.0;11890.0
+Opel;Zafira Tourer;Diesel;Manual;Usado;06/2016;62387;136.0;11890.0
+Ford;Transit Courier;Gasolina;Manual;Usado;06/2018;29549;101.0;11970.0
+Kia;Carens;Gasolina;Manual;Usado;09/2015;60624;135.0;11979.0
+Volkswagen;Caddy;Diesel;Manual;Usado;04/2017;43650;102.0;11979.0
+Opel;Zafira;Gasolina;Manual;Usado;04/2017;88204;120.0;11980.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;09/2015;48834;110.0;11980.0
+Fiat;500L;Diesel;Manual;Usado;04/2016;44901;120.0;11980.0
+Citroen;Berlingo;Gasolina;Manual;Usado;04/2016;51057;98.0;11981.0
+Hyundai;i20;Gasolina;Manual;Usado;10/2014;60000;86.0;6950.0
+Nissan;Micra;Gasolina;Manual;Usado;12/2015;89174;80.0;6950.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2015;35200;75.0;6950.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2015;42386;75.0;6975.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;19896;69.0;6980.0
+Peugeot;108;Gasolina;Manual;Usado;05/2017;32577;69.0;6980.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;72856;60.0;6983.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2013;60000;60.0;6985.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2012;56900;82.0;6988.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2014;18861;87.0;6990.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;44588;69.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;01/2015;54855;67.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;34011;69.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;01/2017;42000;60.0;6990.0
+Toyota;Aygo;Gasolina;Manual;Usado;10/2014;34037;69.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;11/2013;86700;87.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;33533;69.0;6990.0
+Citroen;C3;Gasolina;Manual;Usado;06/2016;93628;82.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;27790;69.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;30586;69.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;04/2016;97000;60.0;5999.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2016;44000;60.0;5999.0
+Volkswagen;up!;Gasolina;Manual;Usado;11/2016;51178;60.0;6131.0
+MINI;One;Gasolina;Manual;Usado;02/2011;59000;75.0;6199.0
+Opel;Meriva;Gasolina;Manual;Usado;12/2010;89150;101.0;6200.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2012;94207;82.0;6250.0
+Ford;Fiesta;Gasolina;Manual;Usado;12/2011;32920;82.0;6250.0
+Chevrolet;Aveo;Gasolina;Manual;Usado;05/2013;53800;116.0;6270.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2015;47488;71.0;6290.0
+Renault;Megane;Gasolina;Manual;Usado;12/2013;91797;116.0;6380.0
+Skoda;;Gasolina;Manual;Usado;10/2014;55430;86.0;6383.0
+smart;forFour;Gasolina;Manual;Usado;05/2015;90740;71.0;6390.0
+Skoda;Fabia;Gasolina;Manual;Usado;02/2013;75771;86.0;6390.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2017;29100;69.0;6400.0
+Sonstige;Marken;Gasolina;Manual;Usado;08/2019;10;100.0;6430.0
+Ford;Fiesta;Gasolina;Manual;Usado;10/2013;60950;80.0;6440.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2014;54077;75.0;6440.0
+Nissan;Note;Gasolina;Manual;Usado;04/2012;33517;88.0;6440.0
+Volkswagen;up!;Gasolina;Manual;Usado;01/2014;85200;60.0;6450.0
+Dacia;Logan;Gasolina;Manual;Usado;09/2015;89475;90.0;6480.0
+Audi;TT;Gasolina;Manual;Usado;06/2015;63200;230.0;23731.0
+Mercedes-Benz;CLA 180;Gasolina;Manual;Usado;02/2019;10399;122.0;23850.0
+Audi;TT;Gasolina;Manual;Usado;04/2017;73174;230.0;23980.0
+BMW;420;Gasolina;Automática;Usado;07/2015;54649;184.0;23988.0
+BMW;218;Gasolina;Automática;Usado;06/2019;16589;136.0;24270.0
+BMW;218;Gasolina;Automática;Usado;12/2019;23956;136.0;24490.0
+BMW;430;Diesel;Automática;Usado;01/2016;69800;258.0;24850.0
+Kia;ProCeed / pro_cee'd;Gasolina;Automática;Usado;06/2019;11350;204.0;24890.0
+Mercedes-Benz;CLA 180;Gasolina;Automática;Usado;02/2018;42653;122.0;24899.0
+BMW;230;Gasolina;Automática;Usado;04/2017;61475;252.0;24900.0
+Audi;TT;Gasolina;Manual;Usado;05/2017;40699;230.0;25330.0
+Audi;A5;Diesel;Automática;Usado;04/2015;35586;190.0;25340.0
+Mercedes-Benz;CLA 200;Gasolina;Automática;Usado;01/2017;49000;156.0;25670.0
+Audi;A5;Diesel;Automática;Usado;11/2016;79935;190.0;25840.0
+Mercedes-Benz;CLA 180;Gasolina;Manual;Nuevo;09/2020;100;136.0;25890.0
+Ford;Mustang;Gasolina;Automática;Usado;05/2016;74250;305.0;25900.0
+BMW;435;Diesel;Automática;Usado;12/2016;97956;313.0;25900.0
+Volkswagen;Scirocco;Gasolina;Automática;Usado;07/2017;42074;280.0;25930.0
+Audi;A5;Gasolina;Automática;Usado;08/2017;25900;190.0;25995.0
+Ford;Kuga;Gasolina;Manual;Usado;10/2013;84240;150.0;11470.0
+Renault;Captur;Gasolina;Manual;Usado;03/2016;7062;90.0;11490.0
+Renault;Captur;Diesel;Manual;Usado;11/2015;52610;110.0;11490.0
+Peugeot;2008;Gasolina;Manual;Usado;04/2017;33900;82.0;11490.0
+Peugeot;2008;Gasolina;Manual;Usado;06/2016;40670;110.0;11490.0
+Peugeot;2008;Gasolina;Manual;Usado;11/2017;19587;82.0;11490.0
+Nissan;Qashqai;Gasolina;Manual;Usado;06/2014;99330;116.0;11490.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;06/2013;63245;160.0;11498.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;11/2011;38900;122.0;11500.0
+Hyundai;iX35;Gasolina;Manual;Usado;04/2015;58000;135.0;11670.0
+Renault;Captur;Gasolina;Manual;Usado;04/2017;33228;90.0;11690.0
+Skoda;Yeti;Gasolina;Manual;Usado;07/2015;63950;105.0;11706.0
+Renault;Captur;Diesel;Automática;Usado;03/2016;64920;90.0;11745.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;11750.0
+Volkswagen;Tiguan;Diesel;Automática;Usado;04/2013;95100;140.0;11750.0
+SsangYong;Korando;Diesel;Automática;Usado;05/2015;71998;175.0;11800.0
+Suzuki;SX4;Gasolina;Manual;Usado;09/2015;55968;120.0;11850.0
+Suzuki;SX4 S-Cross;Gasolina;Manual;Usado;09/2015;55968;120.0;11850.0
+Renault;Captur;Diesel;Manual;Usado;05/2018;52665;90.0;11870.0
+Hyundai;iX35;Gasolina;Manual;Usado;09/2015;57500;135.0;11890.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;10295.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2016;39660;90.0;10440.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;02/2017;38000;90.0;10450.0
+Opel;Astra;Diesel;Manual;Usado;07/2017;79621;110.0;10460.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;04/2017;91365;110.0;10460.0
+Renault;Megane;Diesel;Manual;Usado;01/2016;68294;110.0;10490.0
+Mercedes-Benz;C 200;Gasolina;Manual;Usado;03/2010;66543;184.0;10490.0
+Renault;Megane;Gasolina;Manual;Usado;08/2017;96561;132.0;10490.0
+Volvo;V40;Diesel;Manual;Usado;08/2014;80400;114.0;10490.0
+Citroen;C4 Cactus;Diesel;Manual;Usado;10/2015;79834;99.0;10490.0
+Kia;Ceed SW / cee'd SW;Diesel;Manual;Usado;05/2014;64000;128.0;10600.0
+Renault;Clio;Gasolina;Manual;Usado;01/2019;10493;76.0;10691.0
+Renault;Megane;Diesel;Manual;Usado;04/2017;79834;110.0;10691.0
+Ford;Focus;Gasolina;Manual;Usado;10/2015;49990;101.0;10700.0
+Kia;Ceed SW / cee'd SW;Gasolina;Manual;Usado;02/2015;53000;135.0;10790.0
+Skoda;Octavia;Diesel;Automática;Usado;02/2012;50000;105.0;10799.0
+Skoda;Octavia;Gasolina;Automática;Usado;04/2012;12749;105.0;10830.0
+Ford;Focus;Gasolina;Manual;Usado;02/2017;38150;101.0;10850.0
+Opel;Astra;Diesel;Manual;Usado;01/2018;79490;110.0;10880.0
+Dacia;Lodgy;Gasolina;Manual;Usado;08/2017;59865;116.0;10880.0
+Nissan;Micra;Gasolina;Manual;Usado;03/2016;45247;98.0;7670.0
+Renault;Twingo;Gasolina;Manual;Usado;12/2017;35000;69.0;7690.0
+Kia;Rio;Gasolina;Manual;Usado;10/2014;42900;86.0;7690.0
+Hyundai;i30;Gasolina;Manual;Usado;06/2014;86711;99.0;7690.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;7691.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;7691.0
+Audi;A3;Gasolina;Manual;Usado;05/2010;89527;125.0;7700.0
+Volkswagen;Polo;Gasolina;Manual;Usado;03/2011;25300;60.0;7750.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2015;39681;90.0;7765.0
+Opel;Corsa;Gasolina;Manual;Usado;02/2017;32879;69.0;7780.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2018;22500;69.0;7790.0
+Hyundai;i30;Gasolina;Manual;Usado;01/2014;89590;99.0;7797.0
+Kia;Rio;Gasolina;Manual;Usado;06/2014;57220;86.0;7860.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2016;31382;60.0;7880.0
+Fiat;500C;Gasolina;Manual;Usado;07/2014;92200;69.0;7890.0
+Kia;Rio;Gasolina;Manual;Usado;08/2015;64000;109.0;7899.0
+Volkswagen;Polo;Gasolina;Manual;Usado;09/2013;62500;86.0;7900.0
+SEAT;Ibiza;Gasolina;Manual;Usado;03/2014;75947;105.0;7900.0
+Dacia;Sandero;Gasolina;Manual;Usado;05/2014;68850;90.0;7945.0
+Volkswagen;up!;Gasolina;Manual;Usado;06/2017;21980;60.0;7950.0
+Opel;Meriva;Diesel;Manual;Usado;06/2014;48654;136.0;10790.0
+Ford;C-Max;Gasolina;Manual;Usado;04/2011;81900;150.0;10790.0
+Opel;Meriva;Gasolina;Manual;Usado;05/2015;79390;140.0;10850.0
+Dacia;Lodgy;Gasolina;Manual;Usado;08/2017;59865;116.0;10880.0
+Renault;Scenic;Gasolina;Manual;Usado;07/2014;51500;132.0;10880.0
+Ford;B-Max;Gasolina;Manual;Usado;09/2016;22403;101.0;10890.0
+Ford;C-Max;Diesel;Manual;Usado;01/2015;52500;140.0;10890.0
+Citroen;Berlingo;Diesel;Automática;Usado;07/2017;72640;99.0;10970.0
+Ford;B-Max;Diesel;Manual;Usado;11/2015;30122;95.0;10970.0
+Mazda;5;Gasolina;Manual;Usado;03/2013;57500;150.0;10980.0
+Ford;B-Max;Gasolina;Automática;Usado;03/2013;66672;105.0;10980.0
+Ford;B-Max;Gasolina;Manual;Usado;12/2015;29243;101.0;10980.0
+Opel;Combo;Gasolina;Manual;Usado;04/2018;49878;95.0;10981.0
+Opel;Zafira;Diesel;Manual;Usado;09/2015;99500;120.0;10990.0
+Hyundai;iX20;Diesel;Manual;Usado;07/2016;37180;116.0;10990.0
+Ford;B-Max;Gasolina;Manual;Usado;08/2017;43768;90.0;10990.0
+Opel;Meriva;Gasolina;Manual;Usado;02/2017;54170;120.0;10990.0
+Opel;Meriva;Diesel;Manual;Usado;02/2015;47131;110.0;11240.0
+Ford;B-Max;Gasolina;Manual;Usado;06/2016;71301;125.0;11390.0
+Ford;B-Max;Gasolina;Manual;Usado;10/2016;24950;101.0;11450.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;49039;69.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;04/2016;17350;60.0;6990.0
+SEAT;Ibiza;Gasolina;Manual;Usado;05/2013;94000;105.0;6999.0
+Fiat;500;Gasolina;Manual;Usado;04/2015;50000;69.0;7100.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2016;53500;60.0;7222.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;04/2012;47750;90.0;7245.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2017;39775;60.0;7250.0
+SEAT;Mii;Gasolina;Manual;Usado;02/2014;15545;60.0;7270.0
+Renault;Twingo;Gasolina;Manual;Usado;04/2017;25804;69.0;7280.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2016;72351;75.0;7282.0
+Citroen;C1;Gasolina;Manual;Usado;02/2017;56550;69.0;7290.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2016;71451;75.0;7290.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;77793;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;77569;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;75163;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;76442;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;76125;67.0;7300.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2017;38969;60.0;7330.0
+Toyota;Aygo;Gasolina;Manual;Usado;08/2016;38500;69.0;7340.0
+Citroen;DS3;Gasolina;Automática;Usado;05/2011;81489;120.0;7350.0
+Toyota;Aygo;Gasolina;Manual;Usado;02/2016;36200;69.0;6495.0
+Mazda;2;Gasolina;Manual;Usado;06/2013;39000;75.0;6499.0
+SEAT;Mii;Gasolina;Manual;Usado;07/2016;31500;60.0;6550.0
+Fiat;500;Gasolina;Manual;Usado;07/2016;41972;69.0;6550.0
+Volkswagen;Polo;Gasolina;Manual;Usado;08/2011;76811;60.0;6555.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2014;61157;87.0;6590.0
+Skoda;Citigo;Gasolina;Manual;Usado;06/2016;43000;75.0;6590.0
+Renault;Twingo;Gasolina;Manual;Usado;04/2015;42486;71.0;6590.0
+Dacia;Duster;Gasolina;Manual;Usado;12/2015;69114;125.0;6590.0
+Nissan;Micra;Gasolina;Manual;Usado;12/2016;91735;80.0;6590.0
+Hyundai;i10;Gasolina;Manual;Usado;01/2015;56500;67.0;6660.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;25280;69.0;6680.0
+Volkswagen;Golf;Gasolina;Manual;Usado;06/2012;99540;80.0;6689.0
+SEAT;Ibiza;Gasolina;Manual;Usado;04/2015;54377;69.0;6690.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2014;77716;60.0;6690.0
+SEAT;Ibiza;Gasolina;Manual;Usado;12/2013;49300;69.0;6690.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;30143;69.0;6740.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2013;39400;60.0;6740.0
+Renault;Twingo;Gasolina;Manual;Usado;09/2015;27750;71.0;6750.0
+Hyundai;iX20;Gasolina;Manual;Usado;10/2012;94500;90.0;6750.0
+BMW;220;Gasolina;Automática;Usado;05/2018;23840;184.0;25995.0
+Mercedes-Benz;CLA 200;Gasolina;Automática;Usado;12/2018;34091;156.0;26880.0
+Audi;TT;Gasolina;Manual;Usado;09/2017;45037;179.0;26890.0
+Audi;TT RS;Gasolina;Automática;Usado;12/2011;99000;340.0;26890.0
+Mercedes-Benz;CLA 200;Gasolina;Manual;Usado;07/2016;21700;156.0;26900.0
+Audi;TT;Gasolina;Automática;Usado;01/2015;84855;230.0;26980.0
+Toyota;GT86;Gasolina;Manual;Usado;05/2018;19731;200.0;26990.0
+BMW;225;Diesel;Automática;Usado;08/2016;51198;224.0;26995.0
+Audi;A5;Gasolina;Automática;Usado;07/2017;89500;252.0;27400.0
+BMW;430;Gasolina;Automática;Usado;08/2017;64951;252.0;27474.0
+Audi;TT;Gasolina;Automática;Usado;12/2014;57900;230.0;27480.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;07/2019;11250;150.0;27762.0
+Mercedes-Benz;CLA 250;Gasolina;Automática;Usado;10/2015;63136;218.0;27849.0
+Mercedes-Benz;CLA 250;Gasolina;Automática;Usado;08/2018;34570;211.0;27889.0
+Audi;TTS;Gasolina;Automática;Usado;02/2014;54300;272.0;27990.0
+Audi;A5;Diesel;Automática;Usado;11/2016;72636;190.0;28275.0
+BMW;430;Gasolina;Automática;Usado;08/2017;51538;252.0;28440.0
+Opel;Astra;Gasolina;Manual;Usado;07/2018;17150;280.0;28490.0
+Audi;A5;Diesel;Automática;Usado;08/2017;31050;190.0;28990.0
+Peugeot;2008;Gasolina;Manual;Usado;06/2016;40670;110.0;11490.0
+Peugeot;2008;Gasolina;Manual;Usado;11/2017;19587;82.0;11490.0
+MINI;One Countryman;Gasolina;Manual;Usado;07/2014;58490;98.0;11490.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;06/2013;63245;160.0;11498.0
+Hyundai;iX35;Gasolina;Manual;Usado;05/2014;93000;166.0;11499.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;11/2011;38900;122.0;11500.0
+Opel;Mokka;Gasolina;Manual;Usado;10/2014;80800;140.0;11650.0
+Ford;EcoSport;Gasolina;Manual;Usado;03/2016;83000;125.0;11670.0
+Hyundai;iX35;Gasolina;Manual;Usado;04/2015;58000;135.0;11670.0
+Renault;Captur;Gasolina;Manual;Usado;04/2017;33228;90.0;11690.0
+Skoda;Yeti;Gasolina;Manual;Usado;07/2015;63950;105.0;11706.0
+Renault;Captur;Diesel;Automática;Usado;03/2016;64920;90.0;11745.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;11750.0
+Volkswagen;Tiguan;Diesel;Automática;Usado;04/2013;95100;140.0;11750.0
+SsangYong;Korando;Diesel;Automática;Usado;05/2015;71998;175.0;11800.0
+Suzuki;SX4;Gasolina;Manual;Usado;09/2015;55968;120.0;11850.0
+Suzuki;SX4 S-Cross;Gasolina;Manual;Usado;09/2015;55968;120.0;11850.0
+Renault;Captur;Diesel;Manual;Usado;05/2018;52665;90.0;11870.0
+Hyundai;iX35;Gasolina;Manual;Usado;09/2015;57500;135.0;11890.0
+Opel;Mokka;Gasolina;Automática;Usado;02/2014;77000;140.0;11900.0
+Kia;Ceed SW / cee'd SW;Diesel;Manual;Usado;05/2014;64000;128.0;10600.0
+Renault;Clio;Gasolina;Manual;Usado;01/2019;10493;76.0;10691.0
+Renault;Megane;Diesel;Manual;Usado;04/2017;79834;110.0;10691.0
+Ford;Focus;Gasolina;Manual;Usado;10/2015;49990;101.0;10700.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;06/2015;67500;99.0;10780.0
+Hyundai;i40;Gasolina;Manual;Usado;06/2012;88358;177.0;10790.0
+Renault;Clio;Gasolina;Manual;Usado;01/2019;10109;76.0;10790.0
+Kia;Ceed SW / cee'd SW;Gasolina;Manual;Usado;02/2015;53000;135.0;10790.0
+Skoda;Octavia;Diesel;Automática;Usado;02/2012;50000;105.0;10799.0
+Skoda;Octavia;Gasolina;Automática;Usado;04/2012;12749;105.0;10830.0
+Ford;Focus;Gasolina;Manual;Usado;02/2017;38150;101.0;10850.0
+Opel;Astra;Diesel;Manual;Usado;01/2018;79490;110.0;10880.0
+Dacia;Lodgy;Gasolina;Manual;Usado;08/2017;59865;116.0;10880.0
+SEAT;Leon;Diesel;Manual;Usado;09/2015;42275;110.0;10880.0
+Skoda;;Diesel;Manual;Usado;02/2017;71607;90.0;10890.0
+Skoda;Fabia;Gasolina;Manual;Usado;08/2017;79000;95.0;10900.0
+SEAT;Leon;Gasolina;Manual;Usado;11/2016;37500;86.0;10900.0
+Peugeot;308;Gasolina;Automática;Usado;03/2015;84900;131.0;10900.0
+Opel;Astra;Gasolina;Manual;Usado;05/2015;41455;140.0;10950.0
+BMW;320;Diesel;Manual;Usado;03/2012;73604;184.0;10980.0
+Opel;Karl;Gasolina;Manual;Usado;08/2017;40401;75.0;7950.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;10;73.0;7974.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;01/2014;97500;99.0;7980.0
+Volkswagen;up!;Gasolina;Automática;Usado;02/2013;21000;75.0;7989.0
+Dacia;Sandero;Gasolina;Manual;Usado;04/2013;55000;90.0;7990.0
+SEAT;Ibiza;Gasolina;Manual;Usado;08/2016;43034;75.0;7990.0
+Volkswagen;Polo;Gasolina;Manual;Usado;04/2016;74442;60.0;7990.0
+Alfa;Romeo Giulietta;Gasolina;Manual;Usado;06/2011;72500;120.0;7990.0
+Peugeot;208;Gasolina;Manual;Usado;05/2014;58000;68.0;7990.0
+Ford;Mondeo;Gasolina;Manual;Usado;04/2010;91531;145.0;7990.0
+Opel;Astra;Gasolina;Manual;Usado;06/2013;60700;101.0;7990.0
+Ford;Fiesta;Gasolina;Manual;Usado;04/2016;44929;60.0;7990.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2018;40900;69.0;7990.0
+Ford;Fiesta;Gasolina;Manual;Usado;05/2014;28181;82.0;7990.0
+Skoda;Superb;Gasolina;Manual;Usado;08/2010;68335;160.0;7990.0
+Toyota;Avensis;Gasolina;Manual;Usado;11/2011;80558;132.0;7999.0
+Ford;Fiesta;Gasolina;Manual;Usado;04/2014;84348;80.0;8170.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;10/2014;95700;86.0;8250.0
+Volkswagen;Golf Plus;Gasolina;Automática;Usado;07/2011;73900;105.0;8350.0
+Opel;Astra;Gasolina;Manual;Usado;03/2012;73697;140.0;8365.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;06/2016;67420;101.0;12650.0
+Opel;Zafira Tourer;Gasolina;Manual;Usado;05/2016;24762;120.0;12690.0
+Volkswagen;Touran;Diesel;Manual;Usado;05/2012;99999;105.0;12739.0
+Opel;Zafira Tourer;Diesel;Manual;Usado;09/2014;92250;136.0;12770.0
+Volkswagen;Touran;Gasolina;Manual;Usado;06/2014;96250;140.0;12790.0
+Opel;Zafira Tourer;Gasolina;Manual;Usado;10/2014;74002;170.0;12800.0
+Mercedes-Benz;B 180;Diesel;Automática;Usado;09/2014;75000;109.0;12800.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;10/2014;70600;150.0;12859.0
+Mercedes-Benz;B 200;Diesel;Automática;Usado;04/2012;68700;136.0;12880.0
+Opel;Meriva;Diesel;Manual;Usado;09/2016;43269;136.0;12880.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;09/2015;72300;125.0;12888.0
+Opel;Vivaro;Diesel;Manual;Usado;04/2016;72000;120.0;12890.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;07/2017;18576;86.0;12960.0
+Ford;C-Max;Gasolina;Manual;Usado;08/2015;28200;125.0;12960.0
+Fiat;500L;Diesel;Manual;Usado;07/2016;40000;120.0;12980.0
+Ford;B-Max;Gasolina;Manual;Usado;09/2017;15893;125.0;12990.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;07/2014;41400;110.0;12990.0
+Ford;B-Max;Gasolina;Manual;Usado;04/2016;45206;105.0;12990.0
+Fiat;500L;Gasolina;Manual;Usado;03/2017;30993;95.0;12990.0
+Volkswagen;Caddy;Gasolina;Manual;Usado;05/2015;68456;105.0;12990.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2015;94371;75.0;7880.0
+Ford;Fiesta;Gasolina;Manual;Usado;07/2012;30650;82.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;57604;71.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;43138;71.0;7880.0
+Fiat;Panda;Gasolina;Manual;Usado;04/2017;34750;69.0;7898.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2018;16850;71.0;7940.0
+Dacia;Sandero;Diesel;Manual;Usado;03/2015;60500;90.0;7941.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;31683;90.0;7950.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;38656;90.0;7950.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2014;35518;86.0;7950.0
+Toyota;Yaris;Gasolina;Manual;Usado;10/2014;45814;69.0;7950.0
+Opel;Corsa;Gasolina;Manual;Usado;12/2015;57664;101.0;7980.0
+Volkswagen;Polo;Gasolina;Automática;Usado;12/2010;92770;105.0;7980.0
+Hyundai;i10;Gasolina;Manual;Usado;10/2017;16600;67.0;7980.0
+Skoda;Citigo;Gasolina;Manual;Usado;12/2017;48450;75.0;7980.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;11;65.0;7985.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;11;65.0;7985.0
+Citroen;C1;Gasolina;Manual;Nuevo;09/2020;100;72.0;7989.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2017;14717;60.0;7989.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;20700;69.0;7989.0
+Opel;Corsa;Gasolina;Manual;Usado;12/2014;63141;87.0;6770.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2017;54161;60.0;6775.0
+Skoda;Fabia;Gasolina;Manual;Usado;07/2012;92900;105.0;6790.0
+Hyundai;i30;Gasolina;Manual;Usado;02/2012;84880;109.0;6790.0
+Hyundai;i20;Gasolina;Manual;Usado;06/2014;26400;86.0;6795.0
+Dacia;Sandero;Gasolina;Manual;Usado;12/2018;58000;73.0;6799.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2016;50773;60.0;6810.0
+Fiat;Punto;Gasolina;Manual;Usado;07/2016;72280;69.0;6850.0
+Opel;Astra;Gasolina;Manual;Usado;09/2011;73005;101.0;6879.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2016;34200;60.0;6880.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2014;44100;75.0;6880.0
+Volkswagen;Polo;Gasolina;Manual;Usado;08/2013;90500;86.0;6885.0
+Opel;Corsa;Gasolina;Manual;Usado;11/2016;30130;69.0;6888.0
+Renault;Kangoo;Diesel;Manual;Usado;01/2015;58000;90.0;6890.0
+Fiat;500C;Gasolina;Manual;Usado;03/2012;77100;69.0;6890.0
+Renault;Kangoo;Diesel;Manual;Usado;02/2015;94033;90.0;6890.0
+Hyundai;i10;Gasolina;Manual;Usado;04/2016;39100;67.0;6891.0
+Mazda;2;Gasolina;Manual;Usado;07/2012;58800;84.0;6898.0
+Ford;Fiesta;Gasolina;Manual;Usado;09/2014;52900;101.0;6900.0
+Nissan;Micra;Gasolina;Manual;Usado;03/2017;76100;80.0;6900.0
+BMW;430;Gasolina;Manual;Usado;02/2017;49000;252.0;29320.0
+Ford;Mustang;Gasolina;Automática;Usado;07/2018;2500;314.0;29399.0
+Ford;Mustang;Gasolina;Automática;Usado;08/2016;49103;317.0;29470.0
+Volkswagen;Arteon;Diesel;Manual;Usado;02/2019;19860;150.0;29480.0
+Volkswagen;Arteon;Diesel;Automática;Usado;06/2019;23234;150.0;29490.0
+Volkswagen;Arteon;Diesel;Automática;Usado;09/2017;65650;239.0;29495.0
+BMW;235;Gasolina;Manual;Usado;03/2016;29000;326.0;29499.0
+BMW;220;Gasolina;Automática;Usado;09/2017;20900;184.0;29500.0
+Audi;RS5;Gasolina;Automática;Usado;06/2011;85500;450.0;29870.0
+Volkswagen;Arteon;Diesel;Manual;Usado;02/2019;12740;150.0;29940.0
+Audi;A5;Gasolina;Automática;Usado;05/2018;13290;190.0;29940.0
+Audi;A5;Gasolina;Manual;Usado;05/2017;27015;190.0;29970.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;06/2019;6558;150.0;29989.0
+BMW;420;Diesel;Automática;Usado;05/2018;10162;190.0;29990.0
+Audi;A7;Gasolina;Automática;Usado;08/2015;81871;333.0;29990.0
+Audi;A7;Diesel;Automática;Usado;11/2014;79350;272.0;29998.0
+BMW;420;Diesel;Automática;Usado;06/2019;15489;190.0;30440.0
+Kia;ProCeed / pro_cee'd;Gasolina;Automática;Usado;09/2020;3000;204.0;30460.0
+Volkswagen;Arteon;Diesel;Automática;Usado;11/2018;66788;150.0;30485.0
+Audi;A5;Diesel;Automática;Usado;08/2017;38050;190.0;30490.0
+Hyundai;iX35;Gasolina;Manual;Usado;09/2014;20950;135.0;11900.0
+Kia;Stonic;Gasolina;Manual;Usado;12/2017;45157;84.0;11900.0
+Ford;EcoSport;Gasolina;Manual;Usado;04/2016;43275;125.0;11900.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;02/2016;81867;117.0;11930.0
+Nissan;X-Trail;Diesel;Manual;Usado;02/2016;87024;131.0;11940.0
+Suzuki;Jimny;Gasolina;Automática;Usado;12/2011;57064;86.0;11950.0
+Jeep;Renegade;Gasolina;Manual;Usado;11/2014;86033;140.0;11950.0
+Opel;Crossland X;Gasolina;Manual;Usado;10/2018;43900;83.0;11977.0
+Ford;EcoSport;Diesel;Manual;Usado;12/2016;38717;95.0;11980.0
+Renault;Kadjar;Gasolina;Manual;Usado;10/2015;52220;131.0;11990.0
+Mazda;CX-7;Gasolina;Manual;Usado;02/2011;99560;260.0;11990.0
+Subaru;XV;Gasolina;Manual;Usado;12/2012;85000;150.0;11990.0
+Hyundai;iX35;Gasolina;Manual;Usado;05/2014;65850;135.0;11990.0
+Renault;Captur;Diesel;Manual;Usado;11/2015;69299;110.0;11990.0
+Skoda;Yeti;Diesel;Automática;Usado;10/2011;80994;140.0;11990.0
+Renault;Captur;Diesel;Manual;Usado;06/2018;60813;90.0;11990.0
+Ford;EcoSport;Gasolina;Manual;Usado;06/2017;25066;125.0;11990.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;08/2013;61307;122.0;11990.0
+Hyundai;iX35;Gasolina;Manual;Usado;07/2014;99181;135.0;11990.0
+Ford;EcoSport;Gasolina;Manual;Usado;05/2016;56000;125.0;11990.0
+Opel;Insignia;Diesel;Manual;Usado;06/2015;74150;140.0;11345.0
+Opel;Astra;Diesel;Manual;Usado;10/2018;46800;110.0;11380.0
+SEAT;Leon;Gasolina;Manual;Usado;06/2017;51532;86.0;11440.0
+Volkswagen;Golf Variant;Diesel;Manual;Usado;01/2017;71800;110.0;11450.0
+Opel;Astra;Gasolina;Manual;Usado;02/2017;46479;105.0;11450.0
+Skoda;Fabia;Diesel;Manual;Usado;04/2017;46880;90.0;11470.0
+Opel;Astra;Diesel;Manual;Usado;01/2017;44042;110.0;11470.0
+Skoda;Octavia;Gasolina;Manual;Usado;08/2014;61008;105.0;11470.0
+Opel;Astra;Diesel;Manual;Usado;02/2018;81651;110.0;11480.0
+Opel;Astra;Gasolina;Manual;Usado;08/2016;76749;125.0;11480.0
+Renault;Megane;Gasolina;Manual;Usado;04/2015;64038;220.0;11490.0
+Renault;Clio;Gasolina;Manual;Usado;04/2019;15730;90.0;11490.0
+Renault;Clio;Gasolina;Manual;Usado;04/2019;9850;90.0;11490.0
+Ford;Mondeo;Diesel;Manual;Usado;07/2015;99000;179.0;11499.0
+Opel;Astra;Gasolina;Manual;Usado;11/2016;17377;105.0;11500.0
+Ford;Tourneo Courier;Gasolina;Manual;Usado;10/2015;49500;101.0;11500.0
+Volkswagen;Golf;Diesel;Manual;Usado;04/2016;94930;110.0;11555.0
+Ford;Focus;Gasolina;Manual;Usado;06/2017;57726;125.0;11580.0
+SEAT;Ibiza;Gasolina;Manual;Usado;08/2016;43034;75.0;7990.0
+Volkswagen;Polo;Gasolina;Manual;Usado;04/2016;74442;60.0;7990.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;02/2019;32100;71.0;7990.0
+Alfa;Romeo Giulietta;Gasolina;Manual;Usado;06/2011;72500;120.0;7990.0
+Peugeot;208;Gasolina;Manual;Usado;05/2014;58000;68.0;7990.0
+Ford;Mondeo;Gasolina;Manual;Usado;04/2010;91531;145.0;7990.0
+Opel;Astra;Gasolina;Manual;Usado;06/2013;60700;101.0;7990.0
+Ford;Fiesta;Gasolina;Manual;Usado;04/2016;44929;60.0;7990.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2018;40900;69.0;7990.0
+Toyota;Avensis;Gasolina;Manual;Usado;11/2011;80558;132.0;7999.0
+Ford;Fiesta;Gasolina;Manual;Usado;04/2014;84348;80.0;8170.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;10/2014;95700;86.0;8250.0
+Opel;Adam;Gasolina;Manual;Usado;04/2015;24423;87.0;8289.0
+Volkswagen;Beetle;Gasolina;Manual;Usado;12/2012;59285;105.0;8330.0
+Volkswagen;Golf Plus;Gasolina;Automática;Usado;07/2011;73900;105.0;8350.0
+Opel;Astra;Gasolina;Manual;Usado;03/2012;73697;140.0;8365.0
+Opel;Corsa;Gasolina;Manual;Usado;08/2014;54182;87.0;8365.0
+SEAT;Ibiza;Gasolina;Manual;Usado;05/2015;63538;86.0;8379.0
+Volkswagen;up!;Gasolina;Automática;Usado;06/2016;69500;75.0;8450.0
+Volkswagen;Polo;Gasolina;Manual;Usado;11/2016;46500;60.0;8450.0
+Citroen;Berlingo;Gasolina;Manual;Usado;04/2016;51057;98.0;11981.0
+Opel;Zafira Tourer;Diesel;Automática;Usado;01/2013;98915;165.0;11990.0
+Opel;Zafira Tourer;Gasolina;Manual;Usado;07/2015;90100;140.0;11990.0
+Ford;B-Max;Gasolina;Manual;Usado;06/2017;52268;101.0;11990.0
+Ford;C-Max;Gasolina;Manual;Usado;04/2015;63352;150.0;11990.0
+Opel;Zafira Tourer;Diesel;Manual;Usado;04/2016;93950;136.0;12290.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;05/2015;56312;86.0;12326.0
+Opel;Zafira;Diesel;Manual;Usado;12/2016;95203;170.0;12380.0
+Dacia;Lodgy;Gasolina;Manual;Nuevo;09/2020;100;102.0;12417.0
+BMW;216;Gasolina;Manual;Usado;04/2016;29849;102.0;12440.0
+Opel;Meriva;Gasolina;Automática;Usado;01/2015;34280;140.0;12470.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;02/2016;63200;110.0;12478.0
+Volkswagen;Golf Sportsvan;Diesel;Manual;Usado;05/2015;58023;110.0;12480.0
+Ford;Tourneo Courier;Diesel;Manual;Usado;03/2017;57478;95.0;12480.0
+Ford;Tourneo Courier;Diesel;Manual;Usado;03/2017;57478;95.0;12480.0
+Citroen;C4 Picasso;Diesel;Manual;Usado;08/2015;67219;120.0;12490.0
+Ford;C-Max;Diesel;Manual;Usado;06/2016;61921;120.0;12490.0
+Renault;Kangoo;Diesel;Manual;Usado;06/2018;42671;90.0;12495.0
+Renault;Kangoo;Gasolina;Manual;Usado;10/2016;26138;114.0;12495.0
+Ford;C-Max;Diesel;Automática;Usado;02/2016;61400;120.0;12500.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;7490.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;7490.0
+Ford;Fiesta;Gasolina;Manual;Usado;06/2015;70558;82.0;7496.0
+Hyundai;i10;Gasolina;Manual;Usado;10/2014;78952;87.0;7500.0
+Skoda;Citigo;Gasolina;Manual;Usado;02/2017;75600;75.0;7550.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2016;32500;60.0;7555.0
+smart;forFour;Gasolina;Manual;Usado;07/2018;43640;71.0;7590.0
+Opel;Karl;Gasolina;Manual;Usado;10/2015;38000;75.0;7660.0
+Ford;Fiesta;Gasolina;Manual;Usado;05/2017;59156;65.0;7770.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;70072;90.0;7770.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2015;83600;90.0;7800.0
+Fiat;New Panda;Gasolina;Manual;Usado;04/2013;47850;69.0;7800.0
+Peugeot;108;Gasolina;Manual;Usado;04/2016;64308;82.0;7850.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;7879.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;7879.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2015;94371;75.0;7880.0
+Ford;Fiesta;Gasolina;Manual;Usado;07/2012;30650;82.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;57604;71.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;43138;71.0;7880.0
+Fiat;Panda;Gasolina;Manual;Usado;04/2017;34750;69.0;7898.0
+Fiat;Bravo;Gasolina;Manual;Usado;06/2013;62550;90.0;6900.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;05/2017;41264;71.0;6900.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2016;22275;60.0;6930.0
+Opel;Adam;Gasolina;Manual;Usado;05/2013;65950;69.0;6945.0
+Dacia;Sandero;Gasolina;Manual;Usado;08/2012;66400;84.0;6945.0
+Nissan;Note;Gasolina;Manual;Usado;09/2014;70050;80.0;6945.0
+Opel;Meriva;Gasolina;Manual;Usado;11/2011;86435;120.0;6950.0
+SEAT;Ibiza;Gasolina;Manual;Usado;09/2016;87345;75.0;6950.0
+Nissan;Micra;Gasolina;Manual;Usado;12/2015;89174;80.0;6950.0
+Volkswagen;Golf Plus;Gasolina;Manual;Usado;11/2010;90000;105.0;6950.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2015;35200;75.0;6950.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2014;79830;87.0;6970.0
+Peugeot;208;Gasolina;Manual;Usado;10/2012;94965;120.0;6970.0
+Nissan;Note;Gasolina;Manual;Usado;07/2014;94100;98.0;6970.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2015;42386;75.0;6975.0
+Dacia;Duster;Gasolina;Manual;Usado;08/2011;94209;105.0;6980.0
+Ford;Focus;Gasolina;Manual;Usado;08/2014;52055;86.0;6980.0
+Fiat;Grande Punto;Gasolina;Manual;Usado;09/2013;29210;69.0;6980.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;19896;69.0;6980.0
+Opel;Astra;Gasolina;Manual;Usado;04/2012;96100;120.0;6980.0
+BMW;420;Diesel;Automática;Usado;06/2019;12581;190.0;30950.0
+Volkswagen;Arteon;Diesel;Automática;Usado;03/2017;43294;239.0;30998.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;11/2017;57456;280.0;31444.0
+Mercedes-Benz;E 350;Diesel;Automática;Usado;04/2017;24390;258.0;31490.0
+Kia;ProCeed / pro_cee'd;Gasolina;Automática;Nuevo;09/2020;100;204.0;31671.0
+Kia;ProCeed / pro_cee'd;Gasolina;Automática;Nuevo;09/2020;100;204.0;31671.0
+Kia;ProCeed / pro_cee'd;Diesel;Automática;Nuevo;09/2020;10;136.0;31790.0
+Mercedes-Benz;CLA 45 AMG;Gasolina;Automática;Usado;07/2015;72500;360.0;31890.0
+Ford;Mustang;Gasolina;Automática;Usado;09/2015;38405;421.0;31890.0
+Volkswagen;Arteon;Diesel;Automática;Usado;08/2019;18600;190.0;31900.0
+Audi;TT;Gasolina;Automática;Usado;03/2018;18000;230.0;31980.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;06/2019;21994;150.0;32158.0
+Audi;A5;Gasolina;Manual;Usado;07/2017;53489;252.0;32440.0
+Mercedes-Benz;C 180;Gasolina;Automática;Nuevo;09/2020;100;156.0;32549.0
+Kia;ProCeed / pro_cee'd;Diesel;Automática;Nuevo;09/2020;10;136.0;32590.0
+Audi;A5;Gasolina;Automática;Nuevo;09/2020;100;190.0;32728.0
+BMW;420;Gasolina;Automática;Usado;02/2019;6510;184.0;32888.0
+Mercedes-Benz;C 220;Diesel;Automática;Usado;09/2017;64800;170.0;32900.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;06/2019;23637;150.0;32935.0
+Audi;TT;Gasolina;Automática;Usado;07/2019;6450;197.0;32948.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;03/2016;82363;117.0;11990.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;03/2012;79500;160.0;11990.0
+Hyundai;iX35;Gasolina;Manual;Usado;08/2012;75600;135.0;11990.0
+Nissan;Qashqai;Gasolina;Manual;Usado;11/2015;25000;116.0;11999.0
+Peugeot;2008;Gasolina;Manual;Usado;12/2018;39000;82.0;11999.0
+Opel;Mokka X;Gasolina;Manual;Usado;04/2017;35574;116.0;12220.0
+Kia;Stonic;Gasolina;Manual;Nuevo;09/2020;100;84.0;12370.0
+Kia;Stonic;Gasolina;Manual;Nuevo;09/2020;100;84.0;12370.0
+Suzuki;;Gasolina;Manual;Usado;05/2015;69000;120.0;12390.0
+Hyundai;iX35;Gasolina;Manual;Usado;09/2013;52700;135.0;12390.0
+Hyundai;iX35;Diesel;Manual;Usado;08/2015;68800;116.0;12390.0
+Opel;Mokka;Gasolina;Manual;Usado;07/2016;34000;116.0;12390.0
+Kia;Sportage;Gasolina;Manual;Usado;04/2014;91700;135.0;12400.0
+Volkswagen;Tiguan;Diesel;Manual;Usado;12/2015;89086;110.0;12420.0
+Opel;Mokka;Gasolina;Manual;Usado;06/2016;49800;140.0;12440.0
+Nissan;Juke;Gasolina;Automática;Usado;10/2015;18935;117.0;12440.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;90.0;12443.0
+Subaru;XV;Diesel;Manual;Usado;01/2015;72487;147.0;12444.0
+Opel;Mokka X;Gasolina;Manual;Usado;03/2017;81312;116.0;12450.0
+Opel;Mokka X;Gasolina;Manual;Usado;04/2017;40708;116.0;12450.0
+Ford;Focus;Gasolina;Manual;Usado;05/2017;61939;125.0;11580.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;03/2016;38200;90.0;11589.0
+Renault;Clio;Diesel;Manual;Usado;02/2018;18735;90.0;11690.0
+Ford;Focus;Gasolina;Manual;Usado;06/2017;49998;125.0;11770.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;60.0;11785.0
+Fiat;Tipo;Gasolina;Manual;Usado;01/2018;13486;95.0;11790.0
+Fiat;Tipo;Gasolina;Manual;Usado;02/2018;10597;95.0;11790.0
+BMW;318;Diesel;Automática;Usado;11/2012;100000;143.0;11800.0
+Skoda;Octavia;Diesel;Automática;Usado;07/2011;53000;140.0;11870.0
+Skoda;;Gasolina;Manual;Usado;02/2018;50300;110.0;11879.0
+Skoda;Fabia;Gasolina;Manual;Usado;07/2017;96700;110.0;11880.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;11880.0
+Skoda;Fabia;Gasolina;Manual;Usado;01/2018;24243;110.0;11888.0
+Renault;Clio;Gasolina;Manual;Usado;04/2019;18343;90.0;11890.0
+Renault;Clio;Gasolina;Manual;Usado;08/2019;15468;90.0;11890.0
+Opel;Astra;Diesel;Manual;Usado;03/2017;72000;110.0;11897.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;11931.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;11931.0
+Ford;Focus;Gasolina;Manual;Usado;12/2016;19100;101.0;11950.0
+Fiat;Tipo;Gasolina;Manual;Nuevo;09/2020;25;95.0;11970.0
+Peugeot;208;Gasolina;Manual;Usado;06/2016;29987;68.0;8790.0
+BMW;116;Gasolina;Manual;Usado;11/2011;57500;122.0;8799.0
+Volkswagen;Golf;Gasolina;Manual;Usado;06/2013;98000;105.0;8800.0
+SEAT;Ibiza;Gasolina;Manual;Usado;04/2015;16922;69.0;8830.0
+Ford;Fiesta;Gasolina;Manual;Usado;12/2015;83700;101.0;8850.0
+SEAT;Mii;Gasolina;Manual;Usado;07/2017;34004;75.0;8870.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2016;51000;60.0;8880.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2016;26890;60.0;8888.0
+smart;forFour;Gasolina;Automática;Usado;04/2016;52000;71.0;8888.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2015;30060;60.0;8890.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;06/2015;44200;99.0;8899.0
+Volkswagen;Golf Plus;Gasolina;Automática;Usado;06/2012;86152;122.0;8930.0
+Opel;Astra;Gasolina;Manual;Usado;03/2014;55690;120.0;8930.0
+Dacia;Sandero;Gasolina;Manual;Usado;05/2016;15630;90.0;8945.0
+Volkswagen;Polo;Gasolina;Manual;Usado;06/2015;71443;75.0;8945.0
+Volkswagen;Beetle;Gasolina;Manual;Usado;09/2013;63190;105.0;8950.0
+Suzuki;Baleno;Gasolina;Manual;Usado;08/2016;19800;90.0;8950.0
+BMW;114;Gasolina;Manual;Usado;07/2013;70300;102.0;8970.0
+Volkswagen;Polo;Diesel;Manual;Usado;05/2015;65354;90.0;8970.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;60.0;8975.0
+Ford;C-Max;Gasolina;Manual;Usado;05/2018;100;101.0;13640.0
+Opel;Meriva;Gasolina;Manual;Usado;06/2017;15890;140.0;13650.0
+BMW;216;Diesel;Manual;Usado;12/2016;63491;116.0;13650.0
+Volkswagen;Caddy;Diesel;Manual;Usado;05/2017;75170;75.0;13680.0
+Opel;Zafira Tourer;Diesel;Manual;Usado;06/2016;63500;120.0;13690.0
+Volkswagen;Touran;Diesel;Manual;Usado;05/2012;79999;105.0;13719.0
+Renault;Scenic;Gasolina;Manual;Usado;09/2017;45000;116.0;13740.0
+Renault;Kangoo;Gasolina;Manual;Usado;07/2017;13250;114.0;13745.0
+MINI;One;Gasolina;Manual;Usado;08/2017;45116;102.0;13770.0
+Peugeot;5008;Diesel;Manual;Usado;06/2016;35196;120.0;13799.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;07/2015;94600;125.0;13870.0
+Volkswagen;Caddy;Diesel;Manual;Usado;02/2016;80615;102.0;13880.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;01/2016;35010;110.0;13880.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;08/2014;33200;125.0;13900.0
+Mercedes-Benz;Citan;Diesel;Manual;Usado;11/2017;31500;110.0;13900.0
+Volkswagen;Caddy;Gasolina;Manual;Usado;03/2016;84590;125.0;13940.0
+Ford;C-Max;Gasolina;Manual;Usado;05/2017;13394;101.0;13950.0
+Volkswagen;Touran;Diesel;Automática;Usado;08/2015;92315;140.0;13950.0
+Renault;Scenic;Gasolina;Manual;Usado;11/2017;8799;116.0;13970.0
+BMW;218;Gasolina;Manual;Usado;01/2016;69842;136.0;13980.0
+Citroen;C1;Gasolina;Manual;Usado;01/2017;38000;82.0;7900.0
+Opel;Karl;Gasolina;Manual;Usado;09/2016;52639;75.0;7900.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2018;16850;71.0;7940.0
+Dacia;Sandero;Diesel;Manual;Usado;03/2015;60500;90.0;7941.0
+Toyota;Yaris;Gasolina;Manual;Usado;10/2014;45814;69.0;7950.0
+Opel;Corsa;Gasolina;Manual;Usado;12/2015;57664;101.0;7980.0
+Volkswagen;Polo;Gasolina;Automática;Usado;12/2010;92770;105.0;7980.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2016;35466;90.0;7980.0
+Hyundai;i10;Gasolina;Manual;Usado;10/2017;16600;67.0;7980.0
+Skoda;Citigo;Gasolina;Manual;Usado;12/2017;48450;75.0;7980.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2016;24060;60.0;7981.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;11;65.0;7985.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;11;65.0;7985.0
+Citroen;C1;Gasolina;Manual;Nuevo;09/2020;100;72.0;7989.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2017;14717;60.0;7989.0
+SEAT;Mii;Gasolina;Manual;Usado;09/2016;52099;60.0;7990.0
+Opel;Corsa;Gasolina;Manual;Usado;01/2015;72150;90.0;7990.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;14183;69.0;7990.0
+Opel;Adam;Gasolina;Manual;Usado;03/2016;65732;87.0;7990.0
+Skoda;Fabia;Gasolina;Manual;Usado;11/2014;96100;86.0;7990.0
+Renault;Clio;Diesel;Manual;Usado;03/2013;85600;90.0;6980.0
+Peugeot;308;Gasolina;Automática;Usado;04/2011;79000;156.0;6980.0
+Opel;Adam;Gasolina;Manual;Usado;07/2013;83872;69.0;6980.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;72856;60.0;6983.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2013;60000;60.0;6985.0
+Hyundai;iX20;Gasolina;Manual;Usado;08/2013;73000;90.0;6990.0
+Renault;Megane;Gasolina;Manual;Usado;07/2014;80257;110.0;6990.0
+Dacia;Sandero;Gasolina;Manual;Usado;06/2019;17000;73.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;11/2015;50000;67.0;6990.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;44588;69.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;01/2015;54855;67.0;6990.0
+Citroen;C4;Gasolina;Manual;Usado;03/2013;78790;120.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;34011;69.0;6990.0
+Skoda;Citigo;Gasolina;Manual;Usado;01/2017;42000;60.0;6990.0
+Opel;Corsa;Diesel;Manual;Usado;03/2013;6700;75.0;6990.0
+Toyota;Aygo;Gasolina;Manual;Usado;10/2014;34037;69.0;6990.0
+SEAT;Ibiza;Gasolina;Manual;Usado;02/2013;65384;86.0;6990.0
+Hyundai;i10;Gasolina;Manual;Usado;11/2013;86700;87.0;6990.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2017;33533;69.0;6990.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2014;55300;60.0;6990.0
+Audi;A5;Gasolina;Automática;Usado;06/2018;9366;190.0;32990.0
+Audi;A5;Gasolina;Automática;Usado;06/2018;8767;190.0;32990.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;08/2019;15000;190.0;32990.0
+Audi;A5;Gasolina;Automática;Usado;04/2018;33700;252.0;33000.0
+Audi;TT;Gasolina;Automática;Usado;05/2017;40950;230.0;33370.0
+Volkswagen;Arteon;Diesel;Automática;Usado;03/2019;15476;190.0;33797.0
+BMW;230;Gasolina;Automática;Usado;11/2017;22500;252.0;33880.0
+Audi;A5;Gasolina;Automática;Usado;04/2017;59550;252.0;34123.0
+Audi;S3;Gasolina;Automática;Usado;05/2017;29800;310.0;34499.0
+Audi;TT;Diesel;Automática;Usado;03/2018;42246;184.0;34687.0
+Audi;TT;Gasolina;Manual;Usado;04/2019;22890;245.0;34770.0
+Audi;A5;Gasolina;Automática;Usado;03/2018;25300;252.0;34800.0
+Mercedes-Benz;E 220;Diesel;Automática;Usado;11/2018;54000;194.0;34900.0
+Volkswagen;Arteon;Gasolina;Automática;Nuevo;09/2020;15;190.0;34990.0
+Mercedes-Benz;CL 500;Gasolina;Automática;Usado;02/2010;35000;387.0;34990.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;5;275.0;34990.0
+Audi;A5;Diesel;Automática;Usado;03/2019;8777;190.0;35775.0
+Mercedes-Benz;C 400;Gasolina;Automática;Usado;09/2017;70600;333.0;35890.0
+Hyundai;iX35;Diesel;Manual;Usado;02/2015;72876;136.0;12470.0
+Opel;Mokka;Gasolina;Manual;Usado;05/2016;65571;140.0;12489.0
+Opel;Mokka;Diesel;Manual;Usado;02/2015;72400;131.0;12490.0
+Ford;Kuga;Gasolina;Manual;Usado;09/2016;54554;120.0;12490.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;04/2015;49999;122.0;12490.0
+Ford;EcoSport;Gasolina;Manual;Usado;01/2016;38647;125.0;12490.0
+Peugeot;4008;Diesel;Manual;Usado;09/2012;51350;114.0;12490.0
+Kia;Sportage;Gasolina;Manual;Usado;08/2011;75152;135.0;12490.0
+Jeep;Renegade;Gasolina;Manual;Usado;12/2014;65000;140.0;12490.0
+Fiat;500X;Diesel;Manual;Usado;12/2015;60900;120.0;12500.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;05/2015;54700;117.0;12500.0
+Opel;Mokka;Diesel;Automática;Usado;01/2016;85424;136.0;12590.0
+Opel;Mokka;Diesel;Manual;Usado;10/2015;72346;136.0;12639.0
+SsangYong;Tivoli;Diesel;Manual;Usado;08/2017;16125;116.0;12663.0
+Renault;Captur;Gasolina;Manual;Usado;05/2019;14290;90.0;12690.0
+Opel;Crossland X;Gasolina;Manual;Nuevo;09/2020;1;82.0;12730.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;01/2015;81200;122.0;12779.0
+Nissan;Qashqai;Gasolina;Automática;Usado;03/2012;58000;141.0;12780.0
+Hyundai;iX35;Gasolina;Manual;Usado;08/2015;57610;135.0;12790.0
+Renault;Captur;Diesel;Automática;Usado;06/2017;40399;90.0;12790.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;11880.0
+Skoda;Fabia;Gasolina;Manual;Usado;01/2018;24243;110.0;11888.0
+Renault;Clio;Gasolina;Manual;Usado;04/2019;18343;90.0;11890.0
+Renault;Clio;Gasolina;Manual;Usado;08/2019;15468;90.0;11890.0
+Opel;Astra;Diesel;Manual;Usado;03/2017;72000;110.0;11897.0
+Citroen;C4 Picasso;Gasolina;Manual;Usado;11/2015;80000;131.0;11900.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;11931.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;95.0;11931.0
+Ford;Focus;Gasolina;Manual;Usado;12/2016;19100;101.0;11950.0
+Fiat;Tipo;Gasolina;Manual;Nuevo;09/2020;25;95.0;11970.0
+Fiat;Tipo;Gasolina;Manual;Nuevo;09/2020;25;95.0;11970.0
+SEAT;Leon;Diesel;Manual;Usado;02/2016;82390;110.0;11970.0
+Kia;Ceed SW / cee'd SW;Gasolina;Manual;Usado;09/2017;84014;135.0;11979.0
+Opel;Astra;Gasolina;Manual;Usado;08/2017;31736;105.0;11980.0
+Opel;Astra;Diesel;Automática;Usado;07/2016;90530;136.0;11980.0
+Ford;Focus;Gasolina;Manual;Usado;03/2014;76016;150.0;11980.0
+Citroen;C4 Cactus;Gasolina;Automática;Usado;07/2017;38439;82.0;11980.0
+Skoda;Octavia;Diesel;Manual;Usado;09/2016;70398;150.0;11980.0
+Opel;Astra;Gasolina;Automática;Usado;12/2012;59900;116.0;8743.0
+Nissan;Pulsar;Gasolina;Manual;Usado;12/2014;50000;116.0;8790.0
+BMW;116;Gasolina;Manual;Usado;11/2011;57500;122.0;8799.0
+SEAT;Ibiza;Gasolina;Manual;Usado;04/2015;16922;69.0;8830.0
+SEAT;Mii;Gasolina;Manual;Usado;07/2017;34004;75.0;8870.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2016;51000;60.0;8880.0
+smart;forFour;Gasolina;Automática;Usado;04/2016;52000;71.0;8888.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;06/2015;44200;99.0;8899.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2016;19750;60.0;8900.0
+Volkswagen;Golf Plus;Gasolina;Automática;Usado;06/2012;86152;122.0;8930.0
+Opel;Astra;Gasolina;Manual;Usado;03/2014;55690;120.0;8930.0
+Volkswagen;Polo;Gasolina;Manual;Usado;06/2012;39865;86.0;8930.0
+Volkswagen;Polo;Gasolina;Manual;Usado;06/2015;71443;75.0;8945.0
+Volkswagen;Beetle;Gasolina;Manual;Usado;09/2013;63190;105.0;8950.0
+Suzuki;Baleno;Gasolina;Manual;Usado;08/2016;19800;90.0;8950.0
+BMW;114;Gasolina;Manual;Usado;07/2013;70300;102.0;8970.0
+Volkswagen;Polo;Diesel;Manual;Usado;05/2015;65354;90.0;8970.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;60.0;8975.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;60.0;8975.0
+SEAT;Ibiza;Gasolina;Manual;Usado;02/2014;22035;105.0;8980.0
+Citroen;C4 SpaceTourer;Gasolina;Automática;Usado;05/2015;81680;165.0;13980.0
+Ford;B-Max;Gasolina;Automática;Usado;06/2016;19024;105.0;13980.0
+Opel;Zafira Tourer;Gasolina;Manual;Usado;06/2015;74616;140.0;13980.0
+Volkswagen;Caddy;Diesel;Manual;Usado;03/2017;83700;102.0;13990.0
+Renault;Trafic;Diesel;Manual;Usado;05/2016;40022;90.0;13990.0
+BMW;;Gasolina;Manual;Usado;03/2016;79200;150.0;13990.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;05/2016;45900;125.0;13990.0
+Opel;Zafira;Diesel;Manual;Usado;08/2016;74900;170.0;13990.0
+Renault;Trafic;Diesel;Manual;Usado;03/2017;65035;95.0;13990.0
+Ford;C-Max;Gasolina;Manual;Usado;10/2018;37170;125.0;13990.0
+Opel;Zafira;Diesel;Manual;Usado;05/2017;94203;170.0;13990.0
+Peugeot;3008;Diesel;Manual;Usado;02/2015;50050;120.0;13990.0
+Volkswagen;Touran;Diesel;Manual;Usado;05/2012;59000;105.0;14209.0
+Volkswagen;Touran;Diesel;Automática;Usado;07/2016;97456;116.0;14220.0
+Dacia;Lodgy;Gasolina;Manual;Nuevo;09/2020;100;102.0;14349.0
+Renault;Grand Scenic;Gasolina;Manual;Usado;07/2017;30044;116.0;14480.0
+Dacia;Dokker;Gasolina;Manual;Nuevo;09/2020;10;131.0;14661.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;08/2017;39505;125.0;14669.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;07/2017;4800;86.0;14679.0
+Fiat;Doblo;Gasolina;Manual;Usado;12/2019;600;120.0;14680.0
+Peugeot;108;Gasolina;Manual;Usado;08/2016;38650;69.0;7990.0
+Citroen;C1;Gasolina;Manual;Usado;08/2017;41160;82.0;7990.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;11/2017;11481;86.0;7990.0
+Volkswagen;up!;Gasolina;Manual;Usado;06/2017;44500;60.0;7990.0
+Opel;Adam;Gasolina;Manual;Usado;12/2014;45200;87.0;7990.0
+Volkswagen;up!;Gasolina;Automática;Usado;11/2014;50516;75.0;7999.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;33710;71.0;8170.0
+SEAT;Mii;Gasolina;Automática;Usado;09/2017;24900;60.0;8190.0
+Hyundai;i10;Gasolina;Manual;Usado;08/2015;40000;87.0;8191.0
+Opel;Adam;Gasolina;Manual;Usado;05/2014;56500;87.0;8250.0
+Opel;Karl;Gasolina;Manual;Usado;09/2017;8906;75.0;8250.0
+Kia;Picanto;Gasolina;Manual;Usado;09/2016;29071;67.0;8279.0
+Opel;Corsa;Gasolina;Manual;Usado;12/2016;34860;90.0;8280.0
+Skoda;Citigo;Gasolina;Manual;Usado;06/2018;10500;60.0;8290.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2016;46673;90.0;8300.0
+Toyota;Auris;Gasolina;Manual;Usado;08/2013;36000;99.0;8300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;6900;67.0;8380.0
+Skoda;Fabia;Gasolina;Manual;Usado;12/2015;76700;90.0;8400.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;06/2017;55000;80.0;8440.0
+Hyundai;iX20;Gasolina;Manual;Usado;10/2014;75369;90.0;8450.0
+Nissan;Micra;Gasolina;Manual;Usado;12/2015;89174;80.0;6950.0
+Volkswagen;Golf Plus;Gasolina;Manual;Usado;11/2010;90000;105.0;6950.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2015;35200;75.0;6950.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2014;79830;87.0;6970.0
+Peugeot;208;Gasolina;Manual;Usado;10/2012;94965;120.0;6970.0
+Nissan;Note;Gasolina;Manual;Usado;07/2014;94100;98.0;6970.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2015;42386;75.0;6975.0
+Dacia;Duster;Gasolina;Manual;Usado;08/2011;94209;105.0;6980.0
+Ford;Focus;Gasolina;Manual;Usado;08/2014;52055;86.0;6980.0
+Fiat;Grande Punto;Gasolina;Manual;Usado;09/2013;29210;69.0;6980.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;19896;69.0;6980.0
+Opel;Meriva;Gasolina;Manual;Usado;03/2012;48125;101.0;6980.0
+Opel;Astra;Gasolina;Manual;Usado;04/2012;96100;120.0;6980.0
+Peugeot;108;Gasolina;Manual;Usado;05/2017;32577;69.0;6980.0
+Renault;Clio;Diesel;Manual;Usado;03/2013;85600;90.0;6980.0
+Peugeot;308;Gasolina;Automática;Usado;04/2011;79000;156.0;6980.0
+Opel;Adam;Gasolina;Manual;Usado;07/2013;83872;69.0;6980.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;72856;60.0;6983.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2013;60000;60.0;6985.0
+Ford;Fiesta;Gasolina;Manual;Usado;03/2012;56900;82.0;6988.0
+Audi;A7;Diesel;Automática;Usado;10/2016;71000;320.0;35950.0
+Mercedes-Benz;C 180;Gasolina;Automática;Usado;02/2020;1230;156.0;35980.0
+Ford;Mustang;Gasolina;Automática;Usado;09/2017;30339;421.0;35990.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;08/2019;18179;190.0;36710.0
+Ford;Mustang;Gasolina;Manual;Usado;02/2016;28500;421.0;36870.0
+Mercedes-Benz;C 300;Gasolina;Automática;Usado;08/2018;8240;258.0;36879.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;01/2019;14300;190.0;36955.0
+Audi;TT;Gasolina;Automática;Usado;07/2019;8508;245.0;36980.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;08/2020;250;190.0;36990.0
+Mercedes-Benz;C 300;Diesel;Automática;Usado;03/2019;20465;245.0;36990.0
+Honda;Civic;Gasolina;Manual;Nuevo;09/2020;10;320.0;36995.0
+Ford;Mustang;Gasolina;Manual;Usado;12/2017;18008;421.0;37290.0
+Volkswagen;Arteon;Diesel;Automática;Usado;04/2017;18243;239.0;37370.0
+Ford;Mustang;Gasolina;Manual;Usado;05/2016;31235;421.0;37490.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;06/2018;15000;190.0;37700.0
+Ford;Mustang;Gasolina;Manual;Usado;08/2015;47547;421.0;37790.0
+Audi;TT;Gasolina;Automática;Usado;03/2019;11260;197.0;37888.0
+Audi;A5;Diesel;Automática;Usado;05/2017;46811;190.0;37980.0
+Volkswagen;Arteon;Diesel;Automática;Usado;08/2020;10;190.0;37990.0
+Ford;Mustang;Gasolina;Manual;Usado;06/2017;5116;421.0;38290.0
+Renault;Kadjar;Gasolina;Manual;Usado;06/2015;68809;131.0;12990.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;04/2012;78721;160.0;12990.0
+Honda;CR-V;Gasolina;Manual;Usado;09/2013;48876;155.0;12990.0
+Jeep;Renegade;Gasolina;Manual;Usado;07/2016;74466;140.0;12990.0
+Renault;Captur;Gasolina;Manual;Usado;08/2019;16000;90.0;12990.0
+Opel;Mokka;Diesel;Manual;Usado;06/2015;71085;136.0;12990.0
+BMW;X1;Gasolina;Manual;Usado;06/2012;83473;184.0;12990.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;02/2015;52962;117.0;12990.0
+Renault;Captur;Gasolina;Manual;Usado;02/2018;17657;90.0;12990.0
+Opel;Crossland X;Gasolina;Manual;Usado;10/2018;36900;83.0;12991.0
+Skoda;Yeti;Gasolina;Manual;Usado;09/2014;51860;122.0;12997.0
+BMW;X1;Diesel;Automática;Usado;04/2014;98000;143.0;12999.0
+Kia;Sportage;Diesel;Automática;Usado;10/2012;60000;184.0;12999.0
+Jeep;Renegade;Gasolina;Manual;Usado;08/2015;35500;110.0;13000.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;10;101.0;13106.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;10;101.0;13106.0
+Fiat;500X;Gasolina;Automática;Usado;04/2016;57010;140.0;13190.0
+Opel;Crossland X;Gasolina;Manual;Nuevo;09/2020;1;82.0;13200.0
+Kia;Stonic;Gasolina;Manual;Nuevo;09/2020;5;84.0;13247.0
+Opel;Mokka;Gasolina;Automática;Usado;12/2014;87483;140.0;13250.0
+Skoda;Fabia;Diesel;Manual;Usado;04/2017;77195;90.0;11990.0
+Renault;Clio;Gasolina;Manual;Usado;08/2019;9928;90.0;11990.0
+Skoda;Superb;Gasolina;Automática;Usado;11/2010;93742;160.0;11990.0
+Renault;Clio;Diesel;Manual;Usado;05/2018;23653;90.0;11990.0
+Skoda;Fabia;Gasolina;Manual;Usado;12/2016;58100;110.0;11990.0
+Mercedes-Benz;C 180;Gasolina;Manual;Usado;09/2011;98122;156.0;11990.0
+Skoda;Fabia;Gasolina;Manual;Usado;08/2016;41599;90.0;11990.0
+SEAT;Leon;Gasolina;Automática;Usado;04/2017;50636;116.0;11990.0
+Renault;Clio;Gasolina;Manual;Usado;05/2019;21768;90.0;11990.0
+Skoda;Fabia;Diesel;Manual;Usado;02/2017;86227;105.0;11990.0
+Ford;Focus;Gasolina;Manual;Usado;04/2018;48548;101.0;11990.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;03/2016;82363;117.0;11990.0
+Skoda;Rapid/Spaceback;Diesel;Automática;Usado;11/2016;40300;90.0;11990.0
+Hyundai;i40;Diesel;Manual;Usado;05/2015;61600;136.0;11995.0
+Opel;Astra;Gasolina;Manual;Usado;12/2017;39985;105.0;11995.0
+Kia;Ceed SW / cee'd SW;Gasolina;Manual;Usado;08/2016;40300;101.0;11999.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;12090.0
+Ford;Focus;Diesel;Automática;Usado;04/2018;78350;120.0;12100.0
+SEAT;Leon;Gasolina;Manual;Usado;04/2017;32500;110.0;12220.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;12248.0
+MINI;One;Gasolina;Manual;Usado;04/2015;89915;102.0;8980.0
+Skoda;Fabia;Diesel;Manual;Usado;04/2015;32484;90.0;8980.0
+Volvo;V40;Diesel;Manual;Usado;06/2013;94410;114.0;8980.0
+Ford;Focus;Gasolina;Manual;Usado;10/2015;65367;101.0;8990.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2017;28106;90.0;8990.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;05/2016;49608;90.0;8990.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;20;65.0;8990.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2017;35594;90.0;8990.0
+Ford;Focus;Gasolina;Manual;Usado;09/2013;62476;125.0;8990.0
+Skoda;Fabia;Gasolina;Manual;Usado;06/2019;39503;60.0;8990.0
+Dacia;Sandero;Diesel;Manual;Usado;03/2016;52107;90.0;8990.0
+Hyundai;i20;Gasolina;Manual;Usado;02/2019;43300;75.0;8990.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2019;12593;90.0;8990.0
+Alfa;Romeo Giulietta;Gasolina;Manual;Usado;04/2011;63000;120.0;8990.0
+Fiat;Tipo;Gasolina;Manual;Usado;08/2016;15195;95.0;8990.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2017;14284;75.0;8990.0
+Opel;Astra;Gasolina;Manual;Usado;04/2013;47530;179.0;8990.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;44090;67.0;8990.0
+Hyundai;i30;Gasolina;Manual;Usado;11/2014;56000;99.0;8997.0
+Hyundai;i10;Gasolina;Manual;Nuevo;09/2020;100;67.0;9153.0
+Dacia;Lodgy;Gasolina;Manual;Nuevo;09/2020;500;102.0;14690.0
+Dacia;Lodgy;Gasolina;Manual;Nuevo;09/2020;100;131.0;14709.0
+Mercedes-Benz;B 180;Gasolina;Automática;Usado;07/2014;60000;122.0;14750.0
+Mercedes-Benz;B 200;Diesel;Manual;Usado;12/2017;95940;136.0;14750.0
+Dacia;Lodgy;Gasolina;Manual;Usado;07/2018;22965;116.0;14751.0
+Opel;Zafira Tourer;Gasolina;Manual;Usado;08/2016;63232;140.0;14770.0
+Ford;C-Max;Diesel;Automática;Usado;04/2016;43397;120.0;14790.0
+Volkswagen;Golf Sportsvan;Diesel;Manual;Usado;05/2016;34537;110.0;14810.0
+BMW;216;Diesel;Manual;Usado;11/2017;28782;116.0;14840.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;06/2014;33411;150.0;14848.0
+Opel;Zafira;Diesel;Manual;Usado;03/2017;60358;135.0;14850.0
+Volkswagen;Touran;Diesel;Manual;Usado;01/2015;94463;140.0;14880.0
+Opel;Zafira;Gasolina;Manual;Usado;06/2017;47870;140.0;14890.0
+Volkswagen;Golf Sportsvan;Diesel;Automática;Usado;12/2014;13586;110.0;14890.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;02/2018;57539;131.0;14895.0
+Volkswagen;Golf;Gasolina;Manual;Usado;05/2016;44138;150.0;14900.0
+Renault;Scenic;Gasolina;Manual;Usado;11/2016;43200;132.0;14940.0
+Ford;C-Max;Diesel;Automática;Usado;11/2015;49200;170.0;14950.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;06/2017;28500;110.0;14970.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;04/2017;72500;125.0;14970.0
+Volkswagen;up!;Gasolina;Automática;Usado;10/2015;63850;75.0;8860.0
+Hyundai;i10;Gasolina;Manual;Usado;01/2018;15800;67.0;8870.0
+Hyundai;i10;Gasolina;Manual;Usado;11/2019;16460;67.0;8870.0
+Fiat;500;Gasolina;Manual;Usado;01/2018;51200;69.0;8888.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2014;81650;90.0;8890.0
+SEAT;Ibiza;Diesel;Manual;Usado;02/2016;97322;105.0;8895.0
+Opel;Adam;Gasolina;Manual;Usado;04/2016;42200;87.0;8900.0
+Skoda;Fabia;Gasolina;Manual;Usado;06/2017;15400;60.0;8933.0
+Hyundai;i10;Gasolina;Manual;Usado;12/2019;16672;67.0;8940.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2017;52627;90.0;8940.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8945.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8945.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8945.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8945.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8945.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8945.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8945.0
+Ford;Fiesta;Gasolina;Manual;Usado;09/2016;25539;80.0;8950.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2014;48881;75.0;8950.0
+SEAT;Ibiza;Gasolina;Manual;Usado;12/2015;72218;90.0;8955.0
+SEAT;Ibiza;Diesel;Manual;Usado;08/2015;57459;75.0;7280.0
+Citroen;C1;Gasolina;Manual;Usado;02/2017;56550;69.0;7290.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2016;71451;75.0;7290.0
+Hyundai;i30;Gasolina;Manual;Usado;10/2014;59387;99.0;7290.0
+Hyundai;i10;Gasolina;Manual;Usado;12/2015;49000;67.0;7290.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;77793;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;77569;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;75163;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;76125;67.0;7300.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2017;38969;60.0;7330.0
+Citroen;DS3;Gasolina;Automática;Usado;05/2011;81489;120.0;7350.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2014;41285;69.0;7350.0
+Ford;Fiesta;Gasolina;Manual;Usado;10/2014;80000;80.0;7390.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2018;46163;90.0;7390.0
+Opel;Astra;Gasolina;Manual;Usado;06/2011;78000;120.0;7390.0
+Hyundai;iX20;Gasolina;Manual;Usado;03/2014;99900;90.0;7399.0
+Volkswagen;up!;Gasolina;Manual;Usado;10/2015;51400;60.0;7400.0
+Opel;Adam;Gasolina;Manual;Usado;01/2013;82939;69.0;7410.0
+Citroen;C1;Gasolina;Manual;Usado;05/2017;24600;69.0;7426.0
+Volkswagen;up!;Gasolina;Manual;Usado;01/2017;42916;75.0;7444.0
+Volkswagen;Arteon;Diesel;Automática;Usado;04/2017;18243;239.0;37370.0
+Ford;Mustang;Gasolina;Manual;Usado;05/2016;31235;421.0;37490.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;06/2018;15000;190.0;37700.0
+Ford;Mustang;Gasolina;Manual;Usado;08/2015;47547;421.0;37790.0
+Mercedes-Benz;C 220;Diesel;Automática;Usado;07/2019;14400;194.0;37860.0
+Audi;TT;Gasolina;Automática;Usado;03/2019;11260;197.0;37888.0
+Volkswagen;Arteon;Diesel;Automática;Usado;10/2018;15000;190.0;37979.0
+Audi;A5;Diesel;Automática;Usado;05/2017;46811;190.0;37980.0
+Volkswagen;Arteon;Diesel;Automática;Usado;08/2020;10;190.0;37990.0
+Ford;Mustang;Gasolina;Manual;Usado;06/2017;5116;421.0;38290.0
+Audi;A7;Diesel;Automática;Usado;06/2017;19850;320.0;38422.0
+Mercedes-Benz;GLC 250;Diesel;Automática;Usado;05/2018;65885;204.0;38770.0
+Audi;A7;Diesel;Automática;Usado;10/2017;69400;326.0;38780.0
+Audi;TT;Gasolina;Automática;Usado;03/2020;6339;197.0;38888.0
+Ford;Mustang;Gasolina;Manual;Usado;12/2016;39700;421.0;38900.0
+Audi;TT;Gasolina;Automática;Usado;05/2019;5646;245.0;38950.0
+Chevrolet;Camaro;Gasolina;Automática;Usado;08/2017;53900;453.0;38990.0
+BMW;440;Gasolina;Automática;Usado;08/2018;41855;326.0;39290.0
+BMW;435;Gasolina;Automática;Usado;03/2016;39603;306.0;39460.0
+Audi;TT;Gasolina;Automática;Usado;07/2019;7496;245.0;39650.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;01/2016;70500;125.0;13250.0
+Renault;Captur;Gasolina;Manual;Usado;06/2017;17967;118.0;13290.0
+Opel;Mokka;Gasolina;Manual;Usado;03/2014;83600;140.0;13290.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;03/2015;76247;122.0;13333.0
+Renault;Captur;Gasolina;Manual;Usado;12/2019;13215;90.0;13390.0
+Hyundai;iX35;Gasolina;Manual;Usado;03/2015;73456;166.0;13390.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;10;101.0;13398.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;10;101.0;13398.0
+Land Rover;Rover Freelander;Diesel;Automática;Usado;03/2013;86800;150.0;13430.0
+Kia;Sportage;Diesel;Manual;Usado;05/2015;89167;116.0;13440.0
+Nissan;Qashqai;Gasolina;Manual;Usado;03/2016;36053;116.0;13440.0
+Renault;Kadjar;Gasolina;Manual;Usado;11/2016;35191;131.0;13440.0
+SEAT;Ateca;Gasolina;Manual;Usado;10/2017;65802;116.0;13440.0
+Opel;Mokka;Gasolina;Manual;Usado;12/2015;53528;140.0;13445.0
+BMW;X1;Gasolina;Automática;Usado;10/2011;95990;184.0;13450.0
+Opel;Mokka;Diesel;Automática;Usado;05/2014;71017;131.0;13450.0
+Ford;EcoSport;Gasolina;Manual;Usado;05/2016;48200;140.0;13460.0
+Volkswagen;Tiguan;Diesel;Manual;Usado;09/2014;69416;110.0;13469.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;03/2015;68000;122.0;13470.0
+Renault;Captur;Gasolina;Manual;Usado;09/2019;18859;90.0;13470.0
+Skoda;Octavia;Gasolina;Automática;Usado;12/2014;95001;140.0;12450.0
+Skoda;Octavia;Diesel;Manual;Usado;05/2017;93884;150.0;12470.0
+BMW;316;Diesel;Automática;Usado;11/2013;80727;116.0;12477.0
+Opel;Astra;Diesel;Manual;Usado;04/2017;99631;160.0;12480.0
+Opel;Astra;Gasolina;Manual;Usado;05/2016;44080;105.0;12480.0
+Opel;Mokka;Gasolina;Manual;Usado;08/2014;55900;140.0;12486.0
+Hyundai;i30;Diesel;Automática;Usado;08/2015;66500;136.0;12490.0
+Skoda;Octavia;Gasolina;Manual;Usado;03/2015;30240;105.0;12490.0
+Opel;Astra;Diesel;Manual;Usado;05/2017;35570;110.0;12490.0
+Ford;Focus;Gasolina;Manual;Usado;10/2015;49977;125.0;12490.0
+Ford;Focus;Diesel;Manual;Usado;01/2014;59889;163.0;12490.0
+Skoda;Superb;Gasolina;Automática;Usado;11/2011;70000;160.0;12499.0
+Opel;Astra;Gasolina;Automática;Usado;04/2017;56716;105.0;12500.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;12525.0
+Volkswagen;Golf Variant;Diesel;Automática;Usado;06/2017;89556;116.0;12604.0
+Fiat;Panda;Gasolina;Manual;Usado;10/2019;10;69.0;12675.0
+Skoda;Octavia;Diesel;Manual;Usado;01/2016;95112;110.0;12690.0
+Volkswagen;Golf;Diesel;Automática;Usado;01/2016;86400;110.0;12699.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;12706.0
+Hyundai;i10;Gasolina;Manual;Nuevo;09/2020;100;67.0;9153.0
+Fiat;Tipo;Gasolina;Manual;Usado;08/2016;21400;95.0;9199.0
+Hyundai;i10;Gasolina;Manual;Usado;04/2019;4999;67.0;9199.0
+SEAT;Leon;Gasolina;Manual;Usado;03/2017;87800;86.0;9246.0
+SEAT;Leon;Gasolina;Manual;Usado;03/2017;87800;86.0;9250.0
+Volkswagen;Polo;Diesel;Manual;Usado;12/2016;38930;75.0;9251.0
+BMW;116;Gasolina;Manual;Usado;02/2012;75578;122.0;9290.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;9338.0
+SEAT;Leon;Gasolina;Manual;Usado;03/2017;87900;86.0;9350.0
+Opel;Astra;Gasolina;Manual;Usado;04/2015;42520;120.0;9380.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2019;9980;60.0;9380.0
+Opel;Adam;Gasolina;Manual;Usado;05/2017;41900;69.0;9390.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2019;32600;60.0;9390.0
+Hyundai;i10;Gasolina;Manual;Usado;04/2019;4999;67.0;9399.0
+Volkswagen;up!;Gasolina;Automática;Usado;08/2017;75299;60.0;9430.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;07/2016;66600;90.0;9430.0
+Skoda;Rapid/Spaceback;Gasolina;Automática;Usado;01/2014;79850;122.0;9433.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2019;2950;60.0;9450.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2019;2950;60.0;9450.0
+Volkswagen;Golf;Gasolina;Automática;Usado;08/2012;99101;122.0;9480.0
+Volkswagen;Caddy;Diesel;Manual;Usado;05/2017;75170;75.0;13680.0
+Opel;Zafira Tourer;Diesel;Manual;Usado;06/2016;63500;120.0;13690.0
+Volkswagen;Touran;Diesel;Manual;Usado;05/2012;79999;105.0;13719.0
+Renault;Scenic;Gasolina;Manual;Usado;09/2017;45000;116.0;13740.0
+Renault;Kangoo;Gasolina;Manual;Usado;07/2017;13250;114.0;13745.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;04/2017;21998;86.0;13760.0
+Ford;C-Max;Gasolina;Manual;Usado;05/2016;66250;150.0;13790.0
+Peugeot;5008;Diesel;Manual;Usado;06/2016;35196;120.0;13799.0
+Citroen;C4 Picasso;Diesel;Manual;Usado;09/2016;84262;120.0;13850.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;07/2015;94600;125.0;13870.0
+Volkswagen;Caddy;Diesel;Manual;Usado;02/2016;80615;102.0;13880.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;01/2016;35010;110.0;13880.0
+Mercedes-Benz;B 180;Gasolina;Manual;Usado;07/2014;69987;122.0;13886.0
+BMW;216;Diesel;Manual;Usado;11/2017;50207;116.0;13890.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;09/2014;96322;150.0;13895.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;08/2014;33200;125.0;13900.0
+Mercedes-Benz;Citan;Diesel;Manual;Usado;11/2017;31500;110.0;13900.0
+Volkswagen;Caddy;Gasolina;Manual;Usado;03/2016;84590;125.0;13940.0
+Ford;C-Max;Gasolina;Manual;Usado;05/2017;13394;101.0;13950.0
+Volkswagen;Touran;Diesel;Automática;Usado;08/2015;92315;140.0;13950.0
+Ford;B-Max;Gasolina;Manual;Usado;12/2012;82800;120.0;8500.0
+smart;forFour;Gasolina;Manual;Usado;02/2019;42485;71.0;8590.0
+Hyundai;i10;Gasolina;Manual;Usado;10/2019;11758;67.0;8590.0
+Hyundai;i10;Gasolina;Manual;Usado;09/2018;19500;67.0;8591.0
+Volkswagen;Polo;Gasolina;Manual;Usado;04/2016;69684;75.0;8630.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2017;33838;90.0;8650.0
+Citroen;C1;Gasolina;Manual;Nuevo;09/2020;100;72.0;8722.0
+Volkswagen;Polo;Gasolina;Manual;Usado;02/2014;68300;90.0;8740.0
+Volkswagen;up!;Gasolina;Automática;Usado;03/2014;68009;75.0;8740.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8745.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8745.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8745.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8745.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8745.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;10;65.0;8745.0
+Opel;Adam;Gasolina;Manual;Usado;06/2014;37258;87.0;8750.0
+Opel;Adam;Gasolina;Manual;Usado;08/2017;27275;69.0;8750.0
+Ford;Fiesta;Gasolina;Manual;Usado;05/2016;46645;101.0;8750.0
+Fiat;Punto;Gasolina;Manual;Usado;10/2017;30534;69.0;8765.0
+Opel;Corsa;Diesel;Manual;Usado;01/2017;95685;75.0;7445.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2017;62839;90.0;7450.0
+Skoda;Citigo;Gasolina;Manual;Usado;01/2018;25968;60.0;7450.0
+Skoda;Citigo;Gasolina;Manual;Usado;01/2018;25968;60.0;7450.0
+Volvo;C30;Diesel;Manual;Usado;08/2012;88700;114.0;7450.0
+Kia;Picanto;Gasolina;Manual;Usado;10/2016;20751;65.0;7450.0
+Renault;Clio;Gasolina;Manual;Usado;01/2014;73691;73.0;7450.0
+DS;Automobiles DS 3;Gasolina;Manual;Usado;03/2016;67000;82.0;7450.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2017;47365;69.0;7450.0
+Toyota;Aygo;Gasolina;Manual;Usado;12/2016;41854;69.0;7450.0
+Fiat;500;Gasolina;Manual;Usado;11/2014;55688;69.0;7450.0
+SEAT;Mii;Gasolina;Manual;Usado;06/2016;47970;60.0;7460.0
+Hyundai;i10;Gasolina;Manual;Usado;06/2015;34595;87.0;7470.0
+Volkswagen;Polo;Gasolina;Manual;Usado;03/2011;79967;86.0;7480.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2017;55651;60.0;7480.0
+Kia;Picanto;Gasolina;Manual;Usado;03/2015;41941;69.0;7480.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;32234;60.0;7480.0
+Hyundai;iX20;Gasolina;Manual;Usado;09/2014;86180;90.0;7490.0
+Renault;Twingo;Gasolina;Manual;Usado;07/2017;18758;69.0;7490.0
+Skoda;Fabia;Gasolina;Manual;Usado;08/2013;37800;86.0;7490.0
+Audi;A5;Diesel;Automática;Usado;10/2019;11150;190.0;41710.0
+Audi;S5;Gasolina;Automática;Usado;04/2017;51785;354.0;41790.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;100;450.0;41800.0
+Mercedes-Benz;C 300;Gasolina;Automática;Usado;03/2019;25909;258.0;41870.0
+Mercedes-Benz;GLE 350;Diesel;Automática;Usado;09/2015;86080;258.0;41870.0
+Mercedes-Benz;E 220;Diesel;Automática;Usado;05/2018;59931;194.0;41900.0
+BMW;650;Gasolina;Automática;Usado;04/2017;99100;449.0;41900.0
+Mercedes-Benz;GLC 220;Diesel;Automática;Usado;05/2019;13999;170.0;41948.0
+Audi;S7;Gasolina;Automática;Usado;01/2015;51000;450.0;41950.0
+Ford;Mustang;Gasolina;Automática;Usado;03/2019;9985;450.0;41980.0
+Mercedes-Benz;E 300;Gasolina;Automática;Usado;10/2018;16284;245.0;41990.0
+Ford;Mustang;Gasolina;Manual;Usado;02/2019;9702;450.0;42490.0
+Nissan;370Z;Gasolina;Manual;Usado;08/2020;50;344.0;42500.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;03/2019;13392;272.0;42756.0
+Mercedes-Benz;E 400;Gasolina;Automática;Usado;07/2017;60656;333.0;42880.0
+Ford;Mustang;Gasolina;Manual;Usado;09/2018;16710;450.0;42990.0
+Audi;A7;Diesel;Automática;Usado;02/2016;86900;326.0;42990.0
+Mercedes-Benz;GLC 250;Gasolina;Automática;Usado;05/2018;11962;211.0;42990.0
+Ford;Mustang;Gasolina;Manual;Usado;10/2018;21300;450.0;42990.0
+Ford;Mustang;Gasolina;Automática;Nuevo;09/2020;5;450.0;43500.0
+Renault;Kadjar;Diesel;Automática;Usado;08/2016;67952;110.0;13480.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;10/2016;40075;150.0;13480.0
+Renault;Captur;Gasolina;Manual;Usado;09/2019;12849;90.0;13480.0
+Renault;Kadjar;Diesel;Manual;Usado;04/2017;87086;131.0;13480.0
+Skoda;Yeti;Diesel;Manual;Usado;12/2016;80006;110.0;13480.0
+Ford;EcoSport;Diesel;Manual;Usado;08/2017;31299;95.0;13480.0
+Honda;CR-V;Gasolina;Manual;Usado;01/2013;69396;150.0;13489.0
+Peugeot;2008;Gasolina;Automática;Usado;05/2016;7230;110.0;13490.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;09/2016;41519;117.0;13490.0
+Opel;Mokka X;Gasolina;Manual;Usado;11/2016;49809;140.0;13490.0
+Peugeot;3008;Diesel;Automática;Usado;04/2016;70110;120.0;13490.0
+Renault;Captur;Gasolina;Manual;Usado;11/2016;9212;118.0;13490.0
+Kia;Sportage;Gasolina;Manual;Usado;10/2015;38166;166.0;13490.0
+Hyundai;Tucson;Diesel;Manual;Usado;06/2016;97800;116.0;13490.0
+Renault;Captur;Gasolina;Manual;Usado;05/2019;14333;90.0;13490.0
+Ford;EcoSport;Gasolina;Manual;Usado;03/2018;16942;125.0;13490.0
+Opel;Crossland X;Gasolina;Manual;Nuevo;09/2020;1;82.0;13490.0
+Renault;Kadjar;Gasolina;Manual;Usado;01/2018;11478;131.0;13490.0
+Ford;Kuga;Gasolina;Manual;Usado;02/2017;46948;120.0;13490.0
+Renault;Kadjar;Diesel;Manual;Usado;12/2015;69000;131.0;13490.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;110.0;12740.0
+Opel;Astra;Gasolina;Manual;Usado;04/2017;60167;150.0;12750.0
+Ford;Focus;Diesel;Manual;Usado;03/2015;61487;120.0;12750.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;12760.0
+SEAT;Ibiza;Gasolina;Manual;Usado;01/2015;48376;140.0;12770.0
+Kia;Ceed SW / cee'd SW;Diesel;Manual;Usado;09/2015;82345;136.0;12790.0
+Skoda;Fabia;Gasolina;Automática;Usado;04/2017;64330;110.0;12840.0
+Opel;Insignia;Diesel;Manual;Usado;03/2016;90070;170.0;12850.0
+Ford;Focus;Diesel;Manual;Usado;11/2016;96700;150.0;12850.0
+Skoda;Octavia;Gasolina;Manual;Usado;07/2018;26657;86.0;12880.0
+Skoda;Octavia;Gasolina;Automática;Usado;01/2015;98900;105.0;12880.0
+Skoda;Octavia;Diesel;Manual;Usado;01/2017;81247;110.0;12880.0
+Skoda;Fabia;Gasolina;Manual;Usado;09/2019;10683;95.0;12890.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;12890.0
+Volkswagen;Caddy;Gasolina;Manual;Usado;09/2017;38300;84.0;12910.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;110.0;12918.0
+Kia;Ceed SW / cee'd SW;Diesel;Automática;Usado;06/2016;84737;136.0;12930.0
+Ford;Mondeo;Diesel;Manual;Usado;07/2014;68813;140.0;12940.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;12950.0
+Fiat;Tipo;Diesel;Manual;Usado;09/2016;32497;120.0;12950.0
+Opel;Astra;Diesel;Manual;Usado;01/2017;85695;95.0;9480.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2017;13950;101.0;9489.0
+Kia;Ceed / cee'd;Diesel;Manual;Usado;11/2014;96800;128.0;9489.0
+Volkswagen;Polo;Gasolina;Manual;Usado;11/2015;50253;60.0;9489.0
+Dacia;Sandero;Gasolina;Manual;Usado;08/2017;33300;90.0;9490.0
+Renault;Clio;Gasolina;Manual;Usado;02/2016;29100;90.0;9490.0
+Fiat;Tipo;Gasolina;Manual;Usado;10/2016;31605;95.0;9490.0
+Honda;Jazz;Gasolina;Manual;Usado;01/2016;85628;102.0;9490.0
+Ford;Focus;Gasolina;Manual;Usado;06/2011;84862;150.0;9490.0
+Opel;Corsa;Diesel;Manual;Usado;05/2017;89500;75.0;9490.0
+Volkswagen;Polo;Gasolina;Manual;Usado;06/2012;65800;90.0;9490.0
+Hyundai;i20;Gasolina;Manual;Usado;12/2017;51504;84.0;9500.0
+Toyota;Auris;Gasolina;Manual;Usado;03/2016;61824;99.0;9500.0
+Volkswagen;Golf;Gasolina;Manual;Usado;04/2012;80643;122.0;9500.0
+Ford;Fiesta;Diesel;Manual;Usado;03/2017;67339;95.0;9570.0
+Peugeot;208;Gasolina;Manual;Usado;03/2017;9987;68.0;9590.0
+Ford;Fiesta;Gasolina;Manual;Usado;12/2018;65000;71.0;9590.0
+SEAT;Leon;Gasolina;Manual;Usado;03/2017;77400;86.0;9590.0
+SEAT;Leon;Gasolina;Manual;Usado;03/2017;77400;86.0;9594.0
+Volkswagen;Polo;Gasolina;Manual;Usado;09/2016;33900;60.0;9630.0
+Renault;Scenic;Gasolina;Manual;Usado;11/2017;8799;116.0;13970.0
+BMW;218;Gasolina;Manual;Usado;01/2016;69842;136.0;13980.0
+Opel;Zafira Tourer;Gasolina;Manual;Usado;06/2015;74616;140.0;13980.0
+Volkswagen;Caddy;Diesel;Manual;Usado;03/2017;83700;102.0;13990.0
+Renault;Trafic;Diesel;Manual;Usado;05/2016;40022;90.0;13990.0
+BMW;;Gasolina;Manual;Usado;03/2016;79200;150.0;13990.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;05/2016;45900;125.0;13990.0
+Opel;Zafira;Diesel;Manual;Usado;08/2016;74900;170.0;13990.0
+Renault;Trafic;Diesel;Manual;Usado;03/2017;65035;95.0;13990.0
+Ford;C-Max;Gasolina;Manual;Usado;10/2018;37170;125.0;13990.0
+Opel;Zafira;Diesel;Manual;Usado;05/2017;94203;170.0;13990.0
+Peugeot;3008;Diesel;Manual;Usado;02/2015;50050;120.0;13990.0
+Volkswagen;Touran;Diesel;Manual;Usado;05/2012;59000;105.0;14209.0
+Volkswagen;Touran;Diesel;Automática;Usado;07/2016;97456;116.0;14220.0
+Kia;Venga;Gasolina;Manual;Usado;07/2019;480;125.0;14272.0
+Dacia;Lodgy;Gasolina;Manual;Nuevo;09/2020;100;102.0;14349.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;10/2015;37450;110.0;14450.0
+Renault;Grand Scenic;Gasolina;Manual;Usado;07/2017;30044;116.0;14480.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;02/2016;52600;150.0;14555.0
+Dacia;Dokker;Gasolina;Manual;Nuevo;09/2020;10;131.0;14661.0
+Microcar;Due;Diesel;Automática;Nuevo;09/2020;100;8.0;8999.0
+Opel;Adam;Gasolina;Manual;Usado;06/2016;72863;116.0;8999.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;9190.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;25319;90.0;9190.0
+Opel;Adam;Gasolina;Manual;Usado;05/2015;87277;116.0;9190.0
+Skoda;Fabia;Gasolina;Manual;Usado;11/2015;34000;90.0;9220.0
+Skoda;Citigo;Gasolina;Manual;Usado;09/2018;16300;60.0;9237.0
+Toyota;Aygo;Gasolina;Manual;Usado;04/2020;10;72.0;9240.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;10;71.0;9290.0
+Volkswagen;Polo;Gasolina;Manual;Usado;04/2017;28101;60.0;9290.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2017;46286;82.0;9290.0
+Opel;Karl;Gasolina;Manual;Usado;09/2017;43650;75.0;9290.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9290.0
+Peugeot;108;Gasolina;Manual;Usado;03/2018;15100;82.0;9290.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2018;30920;90.0;9333.0
+SEAT;Ibiza;Gasolina;Automática;Usado;08/2014;70999;105.0;9390.0
+Volkswagen;up!;Gasolina;Manual;Usado;09/2015;45655;75.0;9419.0
+Renault;Clio;Gasolina;Automática;Usado;12/2013;78880;120.0;9445.0
+Opel;Adam;Gasolina;Manual;Usado;02/2017;23584;87.0;9450.0
+Volkswagen;Polo;Gasolina;Manual;Usado;02/2012;72145;86.0;9450.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;04/2012;47750;90.0;7245.0
+Dacia;Logan;Gasolina;Manual;Usado;02/2013;56200;105.0;7250.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2017;39775;60.0;7250.0
+SEAT;Mii;Gasolina;Manual;Usado;02/2014;15545;60.0;7270.0
+Renault;Twingo;Gasolina;Manual;Usado;04/2017;25804;69.0;7280.0
+SEAT;Ibiza;Diesel;Manual;Usado;08/2015;57459;75.0;7280.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2016;72351;75.0;7282.0
+Citroen;C1;Gasolina;Manual;Usado;02/2017;56550;69.0;7290.0
+Volkswagen;up!;Gasolina;Manual;Usado;02/2016;71451;75.0;7290.0
+Hyundai;i30;Gasolina;Manual;Usado;10/2014;59387;99.0;7290.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;77793;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;77569;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;75163;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;76442;67.0;7300.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;76125;67.0;7300.0
+Volkswagen;up!;Gasolina;Manual;Usado;07/2017;38969;60.0;7330.0
+Toyota;Aygo;Gasolina;Manual;Usado;08/2016;38500;69.0;7340.0
+Citroen;DS3;Gasolina;Automática;Usado;05/2011;81489;120.0;7350.0
+Ford;Fiesta;Gasolina;Manual;Usado;10/2014;80000;80.0;7390.0
+Opel;Corsa;Gasolina;Manual;Usado;04/2018;46163;90.0;7390.0
+Ford;Mustang;Gasolina;Manual;Usado;02/2019;9702;450.0;42490.0
+Nissan;370Z;Gasolina;Manual;Usado;08/2020;50;344.0;42500.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;03/2019;13392;272.0;42756.0
+Mercedes-Benz;E 400;Gasolina;Automática;Usado;07/2017;60656;333.0;42880.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;10;313.0;42890.0
+Ford;Mustang;Gasolina;Manual;Usado;09/2018;16710;450.0;42990.0
+Audi;A7;Diesel;Automática;Usado;02/2016;86900;326.0;42990.0
+Mercedes-Benz;GLC 250;Gasolina;Automática;Usado;05/2018;11962;211.0;42990.0
+Ford;Mustang;Gasolina;Manual;Usado;10/2018;21300;450.0;42990.0
+Jaguar;F-Type;Gasolina;Automática;Usado;02/2018;2255;300.0;43820.0
+Mercedes-Benz;GLC 350;Diesel;Automática;Usado;07/2017;61400;258.0;43888.0
+Mercedes-Benz;GLC 200;Gasolina;Automática;Usado;02/2020;4210;197.0;43900.0
+Mercedes-Benz;GLE 350;Diesel;Automática;Usado;08/2016;82231;258.0;43990.0
+Ford;Mustang;Gasolina;Automática;Usado;07/2019;19827;450.0;44198.0
+Mercedes-Benz;E 300;Gasolina;Automática;Usado;10/2018;8815;245.0;44390.0
+Mercedes-Benz;CLA 45 AMG;Gasolina;Automática;Usado;03/2017;52819;381.0;44470.0
+Audi;Q3;Gasolina;Manual;Usado;05/2020;3000;150.0;44568.0
+Ford;Mustang;Gasolina;Automática;Nuevo;09/2020;100;450.0;44653.0
+Mercedes-Benz;E 220;Diesel;Automática;Usado;11/2018;13774;194.0;44790.0
+Kia;Stinger;Gasolina;Automática;Usado;09/2020;15;245.0;44800.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;10;101.0;13398.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;10;101.0;13398.0
+Land Rover;Rover Freelander;Diesel;Automática;Usado;03/2013;86800;150.0;13430.0
+Kia;Sportage;Diesel;Manual;Usado;05/2015;89167;116.0;13440.0
+Nissan;Qashqai;Gasolina;Manual;Usado;03/2016;36053;116.0;13440.0
+Renault;Kadjar;Gasolina;Manual;Usado;11/2016;35191;131.0;13440.0
+SEAT;Ateca;Gasolina;Manual;Usado;10/2017;65802;116.0;13440.0
+Opel;Mokka;Gasolina;Manual;Usado;12/2015;53528;140.0;13445.0
+BMW;X1;Gasolina;Automática;Usado;10/2011;95990;184.0;13450.0
+Opel;Mokka;Diesel;Automática;Usado;05/2014;71017;131.0;13450.0
+Ford;EcoSport;Gasolina;Manual;Usado;05/2016;48200;140.0;13460.0
+Volkswagen;Tiguan;Diesel;Manual;Usado;09/2014;69416;110.0;13469.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;03/2015;68000;122.0;13470.0
+Renault;Kadjar;Diesel;Automática;Usado;08/2016;67952;110.0;13480.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;10/2016;40075;150.0;13480.0
+Renault;Captur;Gasolina;Manual;Usado;09/2019;12849;90.0;13480.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;03/2014;65500;122.0;13480.0
+Skoda;Yeti;Diesel;Manual;Usado;12/2016;80006;110.0;13480.0
+Ford;EcoSport;Diesel;Manual;Usado;08/2017;31299;95.0;13480.0
+Honda;CR-V;Gasolina;Manual;Usado;01/2013;69396;150.0;13489.0
+Skoda;Fabia;Gasolina;Manual;Usado;07/2019;15;75.0;12960.0
+Volkswagen;Golf Sportsvan;Diesel;Manual;Usado;08/2016;84800;110.0;12980.0
+Opel;Astra;Diesel;Manual;Usado;07/2018;40110;110.0;12980.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;08/2018;70710;95.0;12989.0
+Opel;Astra;Gasolina;Manual;Usado;10/2017;25200;150.0;12990.0
+SEAT;Leon;Gasolina;Manual;Usado;12/2016;37700;86.0;12990.0
+Ford;C-Max;Gasolina;Manual;Usado;03/2016;56559;125.0;12990.0
+Ford;Transit Connect;Diesel;Manual;Usado;03/2016;57100;120.0;12990.0
+Citroen;Berlingo;Diesel;Automática;Usado;10/2017;64168;99.0;12990.0
+Skoda;Fabia;Gasolina;Manual;Usado;09/2017;59087;110.0;12990.0
+Hyundai;i40;Gasolina;Manual;Usado;06/2016;46893;135.0;12990.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;10;95.0;12990.0
+Renault;Megane;Gasolina;Manual;Usado;04/2017;29000;132.0;12990.0
+SEAT;Leon;Diesel;Manual;Usado;02/2017;58618;116.0;12990.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;05/2019;36674;99.0;12990.0
+Opel;Zafira Tourer;Gasolina;Automática;Usado;03/2012;80621;140.0;12990.0
+Renault;Clio;Gasolina;Manual;Usado;03/2019;17411;90.0;12990.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;02/2015;52962;117.0;12990.0
+Skoda;Octavia;Gasolina;Manual;Usado;10/2014;81482;140.0;12990.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;08/2017;39900;95.0;12995.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;10/2014;46300;99.0;9640.0
+Dacia;Sandero;Gasolina;Manual;Usado;05/2017;22900;90.0;9690.0
+Dacia;Sandero;Gasolina;Manual;Usado;04/2019;4999;90.0;9769.0
+Audi;A1;Diesel;Manual;Usado;04/2011;83100;105.0;9780.0
+Kia;Soul;Diesel;Manual;Usado;06/2015;85461;128.0;9790.0
+Citroen;C3;Gasolina;Manual;Usado;08/2018;6711;82.0;9790.0
+Toyota;Yaris;Gasolina;Automática;Usado;02/2013;24012;99.0;9790.0
+Volkswagen;Golf;Gasolina;Manual;Usado;04/2013;91800;122.0;9821.0
+Mazda;2;Gasolina;Manual;Usado;12/2015;47350;90.0;9830.0
+Opel;Astra;Gasolina;Manual;Usado;10/2014;57039;120.0;9865.0
+Volkswagen;Golf Plus;Gasolina;Manual;Usado;11/2013;62481;122.0;9870.0
+Opel;Astra;Gasolina;Manual;Usado;02/2014;38580;116.0;9880.0
+SEAT;Ibiza;Gasolina;Manual;Usado;04/2017;50222;90.0;9880.0
+Toyota;Auris;Gasolina;Manual;Usado;07/2015;50980;99.0;9888.0
+Ford;Fiesta;Gasolina;Manual;Usado;07/2018;49990;86.0;9890.0
+Skoda;Octavia;Gasolina;Manual;Usado;04/2013;43805;86.0;9890.0
+Hyundai;i30;Gasolina;Manual;Usado;05/2014;35150;99.0;9890.0
+Skoda;Fabia;Gasolina;Manual;Usado;12/2018;23041;75.0;9890.0
+Opel;Karl;Gasolina;Manual;Usado;06/2019;1500;73.0;9890.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;04/2018;36035;150.0;15930.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;10/2015;37092;150.0;15945.0
+Ford;S-Max;Gasolina;Manual;Usado;11/2013;64500;160.0;15950.0
+Opel;Zafira;Diesel;Automática;Usado;11/2017;37817;131.0;15950.0
+Volkswagen;Caddy;Diesel;Manual;Usado;03/2017;20340;102.0;15970.0
+BMW;220;Diesel;Automática;Usado;11/2016;60200;190.0;15980.0
+Volkswagen;Touran;Diesel;Manual;Usado;07/2017;71736;116.0;15980.0
+Ford;Tourneo Connect;Diesel;Manual;Usado;07/2017;91962;120.0;15980.0
+Opel;Zafira;Diesel;Automática;Usado;08/2017;94554;170.0;15980.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;08/2014;46000;150.0;15980.0
+Renault;Trafic;Diesel;Manual;Usado;12/2018;42926;95.0;15989.0
+Renault;Trafic;Diesel;Manual;Usado;11/2016;70567;125.0;15990.0
+Volkswagen;Touran;Diesel;Automática;Usado;05/2017;70801;116.0;15990.0
+Dacia;Lodgy;Diesel;Manual;Nuevo;09/2020;100;116.0;15990.0
+Volkswagen;Sharan;Diesel;Manual;Usado;11/2014;98800;140.0;15990.0
+Volkswagen;Touran;Gasolina;Automática;Usado;11/2013;72284;140.0;15990.0
+Ford;C-Max;Gasolina;Manual;Usado;01/2018;12900;125.0;15990.0
+Ford;C-Max;Diesel;Manual;Usado;06/2018;20;120.0;15990.0
+BMW;218;Gasolina;Manual;Usado;01/2015;18035;136.0;15990.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;04/2018;29312;150.0;15990.0
+Ford;Fiesta;Gasolina;Manual;Usado;09/2016;58170;101.0;9480.0
+Ford;Fiesta;Gasolina;Manual;Usado;09/2016;58170;101.0;9480.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;11;73.0;9480.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;11;73.0;9480.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9490.0
+Peugeot;108;Gasolina;Manual;Usado;07/2019;2675;72.0;9490.0
+Citroen;DS3;Gasolina;Manual;Usado;06/2016;20900;82.0;9490.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;10;71.0;9490.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9490.0
+Fiat;Panda;Gasolina;Manual;Usado;12/2018;13579;69.0;9490.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;9490.0
+Peugeot;108;Gasolina;Manual;Usado;03/2018;11160;82.0;9490.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9490.0
+Volkswagen;Polo;Gasolina;Automática;Usado;05/2011;96747;105.0;9500.0
+Volkswagen;Polo;Gasolina;Manual;Usado;04/2016;42560;75.0;9550.0
+Skoda;Citigo;Gasolina;Manual;Usado;11/2018;9087;60.0;9567.0
+Kia;Picanto;Gasolina;Manual;Usado;04/2019;18203;67.0;9580.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9590.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;38327;90.0;9590.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;41109;101.0;9590.0
+Hyundai;i30;Gasolina;Manual;Usado;06/2014;86711;99.0;7690.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;7691.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;7691.0
+Kia;Soul;Gasolina;Manual;Usado;12/2012;90000;126.0;7699.0
+Lada;Kalina;Gasolina;Automática;Usado;10/2016;29000;98.0;7700.0
+Audi;A3;Gasolina;Manual;Usado;05/2010;89527;125.0;7700.0
+Peugeot;207;Gasolina;Manual;Usado;04/2011;87500;120.0;7739.0
+Volkswagen;Polo;Gasolina;Manual;Usado;03/2011;25300;60.0;7750.0
+Opel;Corsa;Gasolina;Manual;Usado;12/2016;27962;69.0;7750.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2015;39681;90.0;7765.0
+Ford;Fiesta;Gasolina;Manual;Usado;05/2017;59156;65.0;7770.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;70072;90.0;7770.0
+Opel;Corsa;Gasolina;Manual;Usado;02/2017;32879;69.0;7780.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;7790.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2018;22500;69.0;7790.0
+Hyundai;i30;Gasolina;Manual;Usado;01/2014;89590;99.0;7797.0
+Nissan;Juke;Gasolina;Automática;Usado;08/2011;32000;117.0;7799.0
+Opel;Meriva;Gasolina;Manual;Usado;08/2011;42981;120.0;7850.0
+Skoda;Yeti;Gasolina;Manual;Usado;07/2013;99000;105.0;7850.0
+Opel;Corsa;Gasolina;Manual;Usado;11/2016;33376;69.0;7850.0
+Audi;A7;Diesel;Automática;Usado;10/2016;46027;326.0;46909.0
+Audi;S5;Gasolina;Automática;Usado;08/2017;19279;354.0;46990.0
+Ford;Mustang;Gasolina;Manual;Usado;09/2018;6614;460.0;47230.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;15;450.0;47350.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;100;450.0;47663.0
+Ford;Mustang;Gasolina;Manual;Usado;05/2016;29620;519.0;47822.0
+Mercedes-Benz;GLE 450;Gasolina;Automática;Usado;05/2016;60749;367.0;47849.0
+Mercedes-Benz;GLE 350;Diesel;Automática;Usado;11/2016;49312;258.0;47880.0
+Mercedes-Benz;E 350;Gasolina;Automática;Usado;06/2019;8423;313.0;47890.0
+Ford;Mustang;Gasolina;Automática;Usado;07/2020;5628;450.0;47990.0
+Ford;Mustang;Gasolina;Automática;Nuevo;09/2020;15;450.0;48350.0
+Ford;Mustang;Gasolina;Automática;Nuevo;09/2020;100;450.0;48574.0
+Ford;Mustang;Gasolina;Automática;Nuevo;09/2020;100;450.0;48818.0
+Jaguar;F-Type;Gasolina;Automática;Usado;05/2018;25935;340.0;48820.0
+Renault;Megane;Gasolina;Manual;Nuevo;09/2020;11;300.0;48990.0
+Audi;A5;Diesel;Automática;Usado;05/2019;26032;286.0;49440.0
+Audi;TTS;Gasolina;Automática;Usado;02/2020;12960;306.0;49490.0
+Mercedes-Benz;CLA 35 AMG;Gasolina;Automática;Usado;08/2019;8653;306.0;49790.0
+Jaguar;F-Type;Gasolina;Automática;Usado;06/2018;18100;340.0;49800.0
+Peugeot;2008;Gasolina;Automática;Usado;05/2016;7230;110.0;13490.0
+Opel;Mokka X;Gasolina;Manual;Usado;11/2016;49809;140.0;13490.0
+Peugeot;3008;Diesel;Automática;Usado;04/2016;70110;120.0;13490.0
+Kia;Sportage;Gasolina;Manual;Usado;10/2015;38166;166.0;13490.0
+Hyundai;Tucson;Diesel;Manual;Usado;06/2016;97800;116.0;13490.0
+Renault;Captur;Gasolina;Manual;Usado;05/2019;14333;90.0;13490.0
+Ford;EcoSport;Gasolina;Manual;Usado;03/2018;16942;125.0;13490.0
+Renault;Kadjar;Gasolina;Manual;Usado;01/2018;11478;131.0;13490.0
+Ford;Kuga;Gasolina;Manual;Usado;02/2017;46948;120.0;13490.0
+Renault;Kadjar;Diesel;Manual;Usado;12/2015;69000;131.0;13490.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;13499.0
+Dacia;Duster;Gasolina;Manual;Usado;04/2019;4999;114.0;13499.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;13500.0
+SsangYong;Tivoli;Gasolina;Manual;Usado;03/2018;17400;128.0;13500.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;13535.0
+Hyundai;iX35;Gasolina;Manual;Usado;09/2015;40591;135.0;13570.0
+Opel;Crossland X;Gasolina;Manual;Usado;04/2019;44150;83.0;13571.0
+Renault;Kadjar;Diesel;Manual;Usado;03/2017;54487;131.0;13580.0
+Hyundai;iX35;Gasolina;Manual;Usado;07/2015;39520;135.0;13585.0
+BMW;X1;Diesel;Manual;Usado;10/2013;57153;116.0;13590.0
+SEAT;Leon;Gasolina;Manual;Usado;12/2016;37700;86.0;12990.0
+SEAT;Leon;Gasolina;Manual;Usado;01/2017;39200;86.0;12990.0
+Ford;C-Max;Gasolina;Manual;Usado;03/2016;56559;125.0;12990.0
+Ford;Transit Connect;Diesel;Manual;Usado;03/2016;57100;120.0;12990.0
+Citroen;Berlingo;Diesel;Automática;Usado;10/2017;64168;99.0;12990.0
+Skoda;Fabia;Gasolina;Manual;Usado;09/2017;59087;110.0;12990.0
+Hyundai;i40;Gasolina;Manual;Usado;06/2016;46893;135.0;12990.0
+Toyota;Auris;Diesel;Manual;Usado;05/2016;69910;111.0;12990.0
+SEAT;Leon;Diesel;Manual;Usado;02/2017;58618;116.0;12990.0
+Opel;Zafira Tourer;Gasolina;Automática;Usado;03/2012;80621;140.0;12990.0
+Renault;Clio;Gasolina;Manual;Usado;03/2019;17411;90.0;12990.0
+Skoda;Octavia;Gasolina;Manual;Usado;10/2014;81482;140.0;12990.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;08/2017;39900;95.0;12995.0
+SEAT;Leon;Gasolina;Manual;Usado;10/2015;82000;125.0;12999.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;100;110.0;13190.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;100;110.0;13190.0
+MINI;One Clubman;Gasolina;Manual;Usado;04/2017;25104;102.0;13220.0
+Opel;Astra;Gasolina;Manual;Usado;02/2017;31770;125.0;13250.0
+Peugeot;308;Diesel;Manual;Usado;03/2018;57395;120.0;13260.0
+Hyundai;i30;Gasolina;Manual;Usado;06/2019;20501;99.0;13270.0
+Suzuki;Baleno;Gasolina;Manual;Usado;04/2017;59329;111.0;9900.0
+Suzuki;SX4;Gasolina;Manual;Usado;03/2015;70839;120.0;9900.0
+Volkswagen;up!;Gasolina;Manual;Usado;05/2018;46553;75.0;9930.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;09/2015;63325;90.0;9940.0
+Volkswagen;Golf;Gasolina;Manual;Usado;05/2014;91987;86.0;9950.0
+Hyundai;i20;Gasolina;Manual;Usado;12/2017;48300;84.0;9950.0
+Toyota;Auris;Gasolina;Manual;Usado;04/2014;82327;132.0;9950.0
+Opel;Insignia;Gasolina;Manual;Usado;11/2011;79655;140.0;9950.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;1;60.0;9960.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2017;28336;90.0;9965.0
+Volkswagen;Golf;Gasolina;Manual;Usado;06/2016;69389;86.0;9970.0
+Honda;Civic;Gasolina;Manual;Usado;04/2012;86000;141.0;9970.0
+Skoda;Octavia;Gasolina;Automática;Usado;11/2012;97000;105.0;9979.0
+Volkswagen;Golf;Gasolina;Manual;Usado;11/2015;71500;86.0;9980.0
+BMW;114;Gasolina;Manual;Usado;03/2014;88600;102.0;9980.0
+Hyundai;i10;Gasolina;Manual;Usado;06/2018;24465;87.0;9980.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;101.0;9981.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2015;53718;90.0;9985.0
+Opel;Adam;Gasolina;Manual;Usado;08/2017;39001;69.0;9986.0
+Skoda;Rapid/Spaceback;Gasolina;Automática;Usado;07/2013;90000;122.0;9986.0
+Ford;C-Max;Diesel;Automática;Usado;11/2015;49200;170.0;14950.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;06/2017;28500;110.0;14970.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;04/2017;72500;125.0;14970.0
+BMW;218;Diesel;Automática;Usado;06/2017;99870;150.0;14980.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;09/2016;38421;110.0;14980.0
+Mercedes-Benz;B 180;Gasolina;Automática;Usado;05/2014;41308;122.0;14980.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;08/2014;85506;125.0;14980.0
+Ford;Tourneo Connect;Diesel;Manual;Usado;06/2017;22626;101.0;14980.0
+Mercedes-Benz;Citan;Diesel;Manual;Usado;06/2019;547;90.0;14980.0
+Volkswagen;Sharan;Gasolina;Automática;Usado;04/2011;74751;200.0;14990.0
+Dacia;Lodgy;Gasolina;Manual;Nuevo;09/2020;100;131.0;14990.0
+Renault;Trafic;Gasolina;Manual;Usado;07/2016;65040;90.0;14990.0
+Fiat;500L;Gasolina;Manual;Usado;11/2017;19500;120.0;14990.0
+Dacia;Dokker;Diesel;Manual;Nuevo;09/2020;100;95.0;14990.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;08/2016;43748;110.0;14990.0
+Ford;C-Max;Gasolina;Manual;Usado;06/2017;14466;101.0;14990.0
+Ford;S-Max;Diesel;Manual;Usado;12/2015;49224;150.0;14990.0
+Ford;Grand C-Max;Diesel;Manual;Usado;12/2016;76100;150.0;14990.0
+Ford;C-Max;Gasolina;Manual;Usado;01/2019;17408;125.0;14990.0
+Citroen;Berlingo;Diesel;Automática;Usado;12/2016;59500;99.0;14999.0
+Ford;Fiesta;Gasolina;Manual;Usado;08/2017;22000;101.0;9600.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2017;47500;90.0;9600.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2017;44173;90.0;9605.0
+Hyundai;i10;Gasolina;Manual;Nuevo;09/2020;10;67.0;9649.0
+Toyota;Yaris;Gasolina;Manual;Usado;05/2016;38211;99.0;9650.0
+Opel;Adam;Gasolina;Manual;Usado;08/2016;18896;87.0;9650.0
+Skoda;Citigo;Gasolina;Manual;Usado;06/2018;17480;75.0;9650.0
+Skoda;Citigo;Gasolina;Manual;Usado;03/2018;9916;75.0;9650.0
+Ford;Fiesta;Gasolina;Manual;Usado;04/2018;44022;86.0;9660.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;9690.0
+Nissan;Micra;Gasolina;Manual;Usado;08/2017;37500;90.0;9690.0
+smart;forFour;Gasolina;Manual;Usado;02/2016;19280;71.0;9690.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9690.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9690.0
+Renault;Clio;Diesel;Manual;Usado;11/2015;68100;90.0;9740.0
+Opel;Corsa;Gasolina;Manual;Usado;11/2016;34684;90.0;9740.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;24484;90.0;9743.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2016;33590;116.0;9750.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2018;23505;90.0;9777.0
+Fiat;Panda;Gasolina;Manual;Usado;07/2018;21535;69.0;9780.0
+Kia;Rio;Gasolina;Manual;Usado;06/2014;57220;86.0;7860.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;7879.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;7879.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;7879.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2015;94371;75.0;7880.0
+Ford;Fiesta;Gasolina;Manual;Usado;07/2012;30650;82.0;7880.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2016;31382;60.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;57604;71.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;43138;71.0;7880.0
+Fiat;500;Gasolina;Manual;Usado;09/2015;70990;69.0;7890.0
+Fiat;500C;Gasolina;Manual;Usado;07/2014;92200;69.0;7890.0
+Fiat;Panda;Gasolina;Manual;Usado;04/2017;34750;69.0;7898.0
+Kia;Rio;Gasolina;Manual;Usado;08/2015;64000;109.0;7899.0
+Volkswagen;Polo;Gasolina;Manual;Usado;09/2013;62500;86.0;7900.0
+Volkswagen;Caddy;Diesel;Manual;Usado;02/2012;95778;102.0;7900.0
+SEAT;Ibiza;Gasolina;Manual;Usado;03/2014;75947;105.0;7900.0
+Renault;Twingo;Gasolina;Manual;Usado;08/2018;16850;71.0;7940.0
+Fiat;500;Gasolina;Manual;Usado;03/2012;65000;69.0;7940.0
+Renault;Kangoo;Diesel;Manual;Usado;02/2014;92503;90.0;7940.0
+Dacia;Sandero;Diesel;Manual;Usado;03/2015;60500;90.0;7941.0
+Ford;Mustang;Gasolina;Automática;Usado;07/2020;5628;450.0;47990.0
+Jaguar;F-Type;Gasolina;Automática;Usado;05/2018;25935;340.0;48820.0
+Renault;Megane;Gasolina;Manual;Nuevo;09/2020;11;300.0;48990.0
+Audi;A5;Diesel;Automática;Usado;05/2019;26032;286.0;49440.0
+Audi;TTS;Gasolina;Automática;Usado;02/2020;12960;306.0;49490.0
+Mercedes-Benz;CLA 35 AMG;Gasolina;Automática;Usado;08/2019;8653;306.0;49790.0
+Jaguar;F-Type;Gasolina;Automática;Usado;06/2018;18100;340.0;49800.0
+Ford;Mustang;Gasolina;Manual;Usado;07/2019;3409;460.0;49900.0
+Porsche;Cayman;Gasolina;Automática;Usado;08/2017;28273;299.0;49900.0
+Ford;Mustang;Gasolina;Manual;Usado;09/2020;101;460.0;49950.0
+Mercedes-Benz;E 400;Gasolina;Automática;Usado;09/2017;33584;333.0;49990.0
+Volkswagen;Arteon;Gasolina;Automática;Usado;05/2019;11790;272.0;49990.0
+Ford;Mustang;Gasolina;Automática;Nuevo;09/2020;100;450.0;50262.0
+Porsche;Cayman;Gasolina;Automática;Usado;02/2018;38476;299.0;50900.0
+Porsche;Panamera;Gasolina;Automática;Usado;05/2013;21596;430.0;51240.0
+Mercedes-Benz;GLC 43 AMG;Gasolina;Automática;Usado;07/2017;34500;367.0;51290.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;100;460.0;51950.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;100;460.0;51950.0
+Mercedes-Benz;S 500;Gasolina;Automática;Usado;08/2015;67000;455.0;51999.0
+Ford;Mustang;Gasolina;Automática;Usado;02/2020;5928;450.0;52350.0
+Skoda;Yeti;Gasolina;Automática;Usado;03/2014;84500;122.0;13590.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;11/2016;19800;117.0;13590.0
+Hyundai;Tucson;Gasolina;Manual;Usado;04/2016;55080;132.0;13598.0
+Hyundai;Tucson;Diesel;Manual;Usado;12/2015;89110;136.0;13619.0
+Suzuki;Vitara;Gasolina;Manual;Usado;06/2017;56707;120.0;13650.0
+Opel;Mokka;Diesel;Manual;Usado;12/2015;71650;136.0;13690.0
+Opel;Mokka;Gasolina;Automática;Usado;12/2013;40950;140.0;13690.0
+Renault;Kadjar;Diesel;Manual;Usado;10/2015;62500;131.0;13690.0
+Opel;Crossland X;Gasolina;Manual;Usado;01/2018;24704;82.0;13690.0
+Dacia;Duster;Gasolina;Manual;Usado;08/2017;8711;125.0;13749.0
+Renault;Captur;Gasolina;Manual;Usado;07/2019;14279;90.0;13749.0
+Opel;Crossland X;Gasolina;Manual;Usado;08/2017;30890;131.0;13750.0
+Opel;Mokka X;Diesel;Automática;Usado;01/2017;90975;136.0;13750.0
+Opel;Mokka;Gasolina;Manual;Usado;06/2016;46379;140.0;13770.0
+Mazda;CX-5;Diesel;Manual;Usado;11/2014;83980;150.0;13770.0
+Opel;Mokka;Gasolina;Manual;Usado;12/2014;43723;140.0;13780.0
+Renault;Captur;Gasolina;Manual;Usado;10/2019;17724;90.0;13790.0
+Renault;Captur;Gasolina;Manual;Usado;10/2019;14102;90.0;13790.0
+Renault;Captur;Gasolina;Manual;Usado;10/2019;20749;90.0;13790.0
+Kia;Stonic;Gasolina;Manual;Nuevo;09/2020;1;84.0;13830.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;110.0;13290.0
+Opel;Astra;Gasolina;Manual;Usado;06/2016;60600;125.0;13290.0
+Dacia;Logan;Gasolina;Automática;Nuevo;09/2020;1;90.0;13300.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;06/2016;91544;125.0;13385.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;05/2019;26055;99.0;13390.0
+MINI;One D Clubman;Diesel;Manual;Usado;05/2016;84734;116.0;13440.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;09/2015;90952;125.0;13445.0
+Volvo;V40;Diesel;Manual;Usado;02/2016;69500;150.0;13450.0
+Skoda;Fabia;Gasolina;Manual;Usado;08/2018;21371;110.0;13465.0
+Volkswagen;Passat Variant;Gasolina;Automática;Usado;01/2013;28600;122.0;13470.0
+Volkswagen;Passat Variant;Gasolina;Manual;Usado;07/2014;52835;122.0;13470.0
+Hyundai;i40;Gasolina;Automática;Usado;04/2013;63000;177.0;13480.0
+Opel;Insignia;Diesel;Automática;Usado;05/2017;99968;170.0;13480.0
+Volkswagen;Passat Variant;Diesel;Manual;Usado;06/2015;93200;150.0;13490.0
+Citroen;C5;Diesel;Automática;Usado;10/2014;93889;204.0;13490.0
+Opel;Insignia;Diesel;Manual;Usado;06/2015;83100;170.0;13490.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;12/2015;44500;86.0;13490.0
+Ford;C-Max;Gasolina;Manual;Usado;02/2018;36800;125.0;13490.0
+Opel;Astra;Gasolina;Manual;Usado;06/2016;67100;150.0;13500.0
+Skoda;Fabia;Diesel;Manual;Usado;01/2019;17100;90.0;13500.0
+Volkswagen;Polo;Gasolina;Manual;Usado;10/2016;32808;75.0;10430.0
+Volkswagen;Golf;Gasolina;Manual;Usado;05/2016;41593;125.0;10440.0
+SEAT;Ibiza;Gasolina;Manual;Usado;06/2017;40651;110.0;10440.0
+SEAT;Ibiza;Diesel;Automática;Usado;03/2016;52200;90.0;10440.0
+Renault;Clio;Diesel;Manual;Usado;01/2019;11296;90.0;10440.0
+Nissan;Juke;Gasolina;Manual;Usado;05/2015;49587;116.0;10440.0
+Fiat;500;Gasolina;Manual;Usado;07/2019;11338;69.0;10450.0
+Fiat;500;Gasolina;Manual;Usado;07/2019;20161;69.0;10450.0
+Mazda;2;Gasolina;Manual;Usado;08/2017;22701;75.0;10450.0
+Renault;Twingo;Gasolina;Manual;Nuevo;09/2020;20;73.0;10450.0
+Volkswagen;Golf;Gasolina;Manual;Usado;02/2016;41489;110.0;10470.0
+Peugeot;308;Gasolina;Manual;Usado;06/2014;62900;131.0;10480.0
+Kia;Picanto;Gasolina;Manual;Usado;11/2018;10900;67.0;10490.0
+Fiat;Tipo;Gasolina;Manual;Usado;01/2017;17797;95.0;10490.0
+Kia;Picanto;Gasolina;Manual;Nuevo;09/2020;100;67.0;10490.0
+Fiat;500;Gasolina;Manual;Usado;02/2018;21089;86.0;10490.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;05/2016;32184;90.0;10490.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2019;16450;90.0;10490.0
+Kia;Picanto;Gasolina;Manual;Nuevo;09/2020;100;67.0;10490.0
+Opel;Adam;Gasolina;Manual;Usado;01/2019;21651;87.0;10490.0
+Dacia;Dokker;Diesel;Manual;Nuevo;09/2020;100;95.0;16690.0
+Dacia;Dokker;Diesel;Manual;Nuevo;09/2020;100;95.0;16690.0
+Hyundai;iX20;Gasolina;Automática;Nuevo;09/2020;2;125.0;16690.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;05/2016;73446;150.0;16730.0
+Renault;Kadjar;Gasolina;Manual;Nuevo;09/2020;100;140.0;16753.0
+Mercedes-Benz;B 180;Diesel;Manual;Usado;05/2018;50800;109.0;16780.0
+Dacia;Dokker;Gasolina;Manual;Nuevo;09/2020;10;131.0;16790.0
+Nissan;NV200;Diesel;Manual;Usado;05/2017;59819;110.0;16794.0
+Citroen;Berlingo;Gasolina;Manual;Nuevo;09/2020;100;110.0;16800.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;09/2016;59800;125.0;16850.0
+Renault;Espace;Diesel;Manual;Usado;03/2017;75875;131.0;16870.0
+Ford;Galaxy;Diesel;Automática;Usado;04/2014;60017;163.0;16890.0
+Ford;C-Max;Gasolina;Manual;Usado;08/2019;19607;101.0;16890.0
+Ford;Tourneo Courier;Diesel;Manual;Usado;11/2019;1250;101.0;16890.0
+Renault;Scenic;Diesel;Manual;Usado;07/2018;43197;131.0;16890.0
+Volkswagen;Touran;Diesel;Automática;Usado;08/2018;79000;110.0;16900.0
+Citroen;Berlingo;Gasolina;Manual;Nuevo;09/2020;100;110.0;16901.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;05/2016;57480;125.0;16910.0
+Citroen;C4 SpaceTourer;Diesel;Automática;Usado;03/2017;48064;150.0;16950.0
+Volkswagen;Touran;Gasolina;Manual;Usado;12/2016;59400;150.0;16962.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2018;18393;90.0;9790.0
+Toyota;Yaris;Gasolina;Automática;Usado;12/2014;58850;75.0;9790.0
+Opel;Karl;Gasolina;Manual;Usado;07/2017;29500;75.0;9790.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;1;73.0;9790.0
+Microcar;M.Go;Diesel;Automática;Nuevo;09/2020;100;8.0;9799.0
+Renault;Clio;Gasolina;Manual;Usado;10/2015;19996;90.0;9799.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;20;71.0;9850.0
+Citroen;DS3;Gasolina;Manual;Usado;01/2016;48190;110.0;9850.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2017;21474;60.0;9863.0
+Volkswagen;Polo;Gasolina;Manual;Usado;08/2017;20402;60.0;9865.0
+Volkswagen;Polo;Diesel;Manual;Usado;04/2016;56314;75.0;9874.0
+Fiat;Panda;Gasolina;Manual;Nuevo;09/2020;5;69.0;9880.0
+Ford;Ka/Ka+;Gasolina;Manual;Usado;09/2018;20800;86.0;9890.0
+Opel;Corsa;Gasolina;Manual;Usado;09/2018;37200;90.0;9890.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;67196;90.0;9890.0
+Hyundai;i10;Gasolina;Manual;Nuevo;09/2020;10;67.0;9898.0
+Opel;Corsa;Gasolina;Manual;Usado;11/2017;28500;90.0;9900.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2016;27800;60.0;9910.0
+Volkswagen;Polo GTI;Gasolina;Automática;Usado;03/2012;97643;179.0;9925.0
+Opel;Corsa;Gasolina;Manual;Usado;08/2016;61341;150.0;9950.0
+Ford;Fiesta;Gasolina;Manual;Usado;06/2015;70558;82.0;7496.0
+Hyundai;i10;Gasolina;Manual;Usado;10/2014;78952;87.0;7500.0
+Suzuki;Swift;Gasolina;Manual;Usado;09/2014;77067;94.0;7500.0
+Skoda;Citigo;Gasolina;Manual;Usado;02/2017;75600;75.0;7550.0
+Ford;Fiesta;Gasolina;Manual;Usado;02/2016;32500;60.0;7555.0
+Dacia;Logan;Gasolina;Manual;Usado;04/2015;84224;90.0;7570.0
+Hyundai;iX20;Gasolina;Manual;Usado;06/2011;60210;90.0;7580.0
+Opel;Astra;Gasolina;Manual;Usado;07/2015;97850;116.0;7590.0
+smart;forFour;Gasolina;Manual;Usado;07/2018;43640;71.0;7590.0
+Hyundai;iX20;Gasolina;Manual;Usado;06/2015;97100;90.0;7600.0
+Citroen;Berlingo;Gasolina;Manual;Usado;10/2011;73762;120.0;7648.0
+Opel;Astra;Gasolina;Automática;Usado;06/2010;50800;179.0;7650.0
+Ford;C-Max;Diesel;Manual;Usado;04/2012;73850;95.0;7650.0
+Volkswagen;up!;Gasolina;Manual;Usado;05/2016;24810;60.0;7660.0
+Peugeot;2008;Diesel;Automática;Usado;10/2014;82585;92.0;7660.0
+Opel;Karl;Gasolina;Manual;Usado;10/2015;38000;75.0;7660.0
+Nissan;Micra;Gasolina;Manual;Usado;03/2016;45247;98.0;7670.0
+Opel;Astra;Diesel;Manual;Usado;05/2015;97984;110.0;7680.0
+SEAT;Ibiza;Gasolina;Manual;Usado;06/2016;65577;75.0;7680.0
+Renault;Twingo;Gasolina;Manual;Usado;12/2017;35000;69.0;7690.0
+Ford;Mustang;Gasolina;Manual;Usado;07/2020;100;460.0;52500.0
+Ford;Mustang;Gasolina;Automática;Nuevo;09/2020;15;450.0;52840.0
+Mercedes-Benz;GLE 43 AMG;Gasolina;Automática;Usado;08/2017;60366;367.0;52849.0
+Aston;Martin Rapide;Gasolina;Automática;Usado;12/2012;81503;476.0;52870.0
+Audi;A5;Gasolina;Automática;Usado;03/2020;7000;245.0;52890.0
+Dodge;Challenger;Gasolina;Automática;Nuevo;09/2020;30;492.0;52900.0
+Mercedes-Benz;C 63 AMG;Gasolina;Automática;Usado;08/2016;7120;476.0;52900.0
+Volkswagen;Arteon;Diesel;Automática;Usado;11/2019;806;239.0;52957.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;10;460.0;53550.0
+BMW;M2;Gasolina;Automática;Usado;08/2019;10781;411.0;53870.0
+Ford;Mustang;Gasolina;Automática;Usado;06/2019;8526;450.0;53900.0
+Chevrolet;Camaro;Gasolina;Automática;Nuevo;09/2020;100;453.0;53900.0
+BMW;M4;Gasolina;Automática;Usado;05/2017;52700;450.0;53990.0
+Audi;RS5;Gasolina;Automática;Usado;12/2017;85400;450.0;54890.0
+BMW;M2;Gasolina;Automática;Usado;08/2019;12943;411.0;54990.0
+Mercedes-Benz;E 450;Gasolina;Automática;Usado;04/2019;9378;367.0;54990.0
+Ford;Mustang;Gasolina;Manual;Nuevo;09/2020;10;460.0;54990.0
+Mercedes-Benz;CLS 350;Diesel;Automática;Usado;04/2018;23114;286.0;55899.0
+BMW;M4;Gasolina;Automática;Usado;04/2017;49900;450.0;55990.0
+Toyota;Supra;Gasolina;Automática;Usado;05/2020;2500;340.0;56890.0
+Ford;Kuga;Gasolina;Manual;Usado;06/2016;45000;120.0;13990.0
+Renault;Kadjar;Diesel;Manual;Usado;08/2016;40181;131.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;03/2019;13186;131.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;11/2019;12581;90.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;11/2019;13564;90.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;11/2019;13277;90.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;08/2019;23298;131.0;13990.0
+Ford;Kuga;Diesel;Manual;Usado;07/2014;50935;140.0;13990.0
+Ford;Kuga;Gasolina;Manual;Usado;05/2016;40920;120.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;08/2019;18153;131.0;13990.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;01/2013;65162;122.0;13990.0
+Honda;CR-V;Gasolina;Manual;Usado;03/2012;46195;150.0;13995.0
+Renault;Kadjar;Diesel;Manual;Usado;01/2017;88739;131.0;13995.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;02/2016;48383;125.0;13999.0
+Jeep;Cherokee;Diesel;Manual;Usado;01/2016;93400;140.0;13999.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;131.0;14025.0
+Dacia;Duster;Diesel;Manual;Nuevo;09/2020;1;116.0;14080.0
+Renault;Captur;Gasolina;Manual;Nuevo;09/2020;11;101.0;14098.0
+Ford;EcoSport;Gasolina;Manual;Nuevo;09/2020;100;95.0;14157.0
+Renault;Captur;Gasolina;Manual;Usado;10/2019;11478;90.0;14190.0
+Skoda;Fabia;Diesel;Manual;Usado;12/2018;15600;90.0;13500.0
+Opel;Astra;Diesel;Manual;Usado;08/2018;39000;110.0;13500.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;110.0;13535.0
+Fiat;Tipo;Gasolina;Manual;Nuevo;09/2020;100;120.0;13535.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;05/2017;62686;110.0;13550.0
+Ford;Focus;Gasolina;Manual;Usado;01/2018;7700;86.0;13550.0
+Hyundai;i30;Gasolina;Manual;Usado;11/2019;19600;99.0;13570.0
+Toyota;Auris;Gasolina;Manual;Usado;04/2018;17890;116.0;13590.0
+Volkswagen;Golf;Diesel;Manual;Usado;05/2018;92500;116.0;13590.0
+Hyundai;i40;Diesel;Automática;Usado;05/2015;81535;136.0;13600.0
+Opel;Insignia;Gasolina;Manual;Usado;02/2016;57633;140.0;13620.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;02/2014;62906;140.0;13621.0
+Kia;Ceed / cee'd;Gasolina;Manual;Nuevo;09/2020;100;101.0;13628.0
+Kia;Ceed / cee'd;Gasolina;Manual;Nuevo;09/2020;100;101.0;13628.0
+Kia;Ceed SW / cee'd SW;Gasolina;Manual;Nuevo;09/2020;100;101.0;13637.0
+Kia;Ceed SW / cee'd SW;Gasolina;Manual;Nuevo;09/2020;100;101.0;13637.0
+SEAT;Leon;Gasolina;Manual;Usado;05/2016;86550;150.0;13670.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;13690.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;13690.0
+Citroen;Grand C4 Picasso;Diesel;Manual;Usado;03/2016;82500;120.0;13690.0
+Ford;Fiesta;Gasolina;Manual;Usado;06/2016;29330;80.0;10270.0
+Toyota;Auris;Gasolina;Manual;Usado;11/2014;48799;99.0;10280.0
+Opel;Adam;Gasolina;Manual;Usado;05/2019;14932;101.0;10280.0
+Fiat;Tipo;Gasolina;Manual;Nuevo;09/2020;100;95.0;10290.0
+Skoda;Fabia;Gasolina;Manual;Usado;07/2019;14000;60.0;10300.0
+Volkswagen;Polo;Gasolina;Manual;Usado;10/2016;32808;75.0;10430.0
+Volkswagen;Golf;Gasolina;Manual;Usado;05/2016;41593;125.0;10440.0
+SEAT;Ibiza;Gasolina;Manual;Usado;06/2017;40651;110.0;10440.0
+SEAT;Ibiza;Diesel;Automática;Usado;03/2016;52200;90.0;10440.0
+Renault;Clio;Diesel;Manual;Usado;01/2019;11296;90.0;10440.0
+Citroen;C4 Cactus;Diesel;Manual;Usado;03/2015;60830;99.0;10440.0
+Nissan;Juke;Gasolina;Manual;Usado;05/2015;49587;116.0;10440.0
+Fiat;500;Gasolina;Manual;Usado;07/2019;11338;69.0;10450.0
+Fiat;500;Gasolina;Manual;Usado;07/2019;20161;69.0;10450.0
+Mazda;2;Gasolina;Manual;Usado;08/2017;22701;75.0;10450.0
+Peugeot;308;Gasolina;Manual;Usado;06/2014;62900;131.0;10480.0
+Kia;Picanto;Gasolina;Manual;Usado;11/2018;10900;67.0;10490.0
+Fiat;Tipo;Gasolina;Manual;Usado;01/2017;17797;95.0;10490.0
+Kia;Picanto;Gasolina;Manual;Nuevo;09/2020;100;67.0;10490.0
+SEAT;Ibiza;Gasolina;Manual;Usado;03/2018;46132;75.0;10490.0
+Opel;Zafira Tourer;Gasolina;Automática;Usado;07/2016;54459;140.0;16970.0
+Mercedes-Benz;B 180;Diesel;Manual;Usado;10/2017;32990;109.0;16970.0
+Opel;Zafira;Diesel;Manual;Usado;06/2017;67619;170.0;16980.0
+Volkswagen;Touran;Diesel;Manual;Usado;05/2016;78300;150.0;16980.0
+Volkswagen;Touran;Diesel;Manual;Usado;01/2017;70600;116.0;16985.0
+BMW;218;Diesel;Automática;Usado;05/2017;85917;150.0;16987.0
+Opel;Zafira;Diesel;Manual;Usado;01/2019;19813;136.0;16990.0
+Ford;S-Max;Diesel;Manual;Usado;08/2015;63982;150.0;16990.0
+BMW;216;Diesel;Automática;Usado;12/2017;24061;116.0;16990.0
+Ford;C-Max;Gasolina;Manual;Usado;03/2019;24356;125.0;16998.0
+Dodge;Grand Caravan;Gasolina;Automática;Usado;07/2016;78500;287.0;16999.0
+Volkswagen;Touran;Diesel;Automática;Usado;07/2017;44642;116.0;17226.0
+Toyota;Proace;Gasolina;Manual;Nuevo;09/2020;100;110.0;17250.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;12/2017;30552;110.0;17250.0
+Ford;Grand C-Max;Gasolina;Manual;Usado;07/2018;18200;125.0;17250.0
+Volkswagen;Touran;Gasolina;Manual;Usado;06/2016;31325;110.0;17290.0
+BMW;216;Diesel;Automática;Usado;08/2018;43589;116.0;17374.0
+Volkswagen;Touran;Gasolina;Automática;Usado;08/2016;95712;150.0;17430.0
+Volkswagen;Touran;Diesel;Manual;Usado;03/2017;76750;116.0;17444.0
+BMW;218;Gasolina;Manual;Usado;07/2017;35490;136.0;17450.0
+Peugeot;108;Gasolina;Manual;Usado;03/2018;11160;82.0;9490.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9490.0
+Volkswagen;Polo;Gasolina;Manual;Usado;04/2016;42560;75.0;9550.0
+Skoda;Citigo;Gasolina;Manual;Usado;11/2018;9087;60.0;9567.0
+Volkswagen;up!;Gasolina;Manual;Usado;08/2017;31349;90.0;9580.0
+Kia;Picanto;Gasolina;Manual;Usado;04/2019;18203;67.0;9580.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;38327;90.0;9590.0
+Ford;Fiesta;Gasolina;Manual;Usado;07/2015;59694;101.0;9590.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;41109;101.0;9590.0
+Ford;Fiesta;Gasolina;Manual;Usado;08/2017;22000;101.0;9600.0
+Volkswagen;Polo;Gasolina;Manual;Usado;01/2017;47500;90.0;9600.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2017;44173;90.0;9605.0
+Citroen;DS3;Diesel;Manual;Usado;01/2015;67010;120.0;9630.0
+Hyundai;i10;Gasolina;Manual;Nuevo;09/2020;10;67.0;9649.0
+Toyota;Yaris;Gasolina;Manual;Usado;05/2016;38211;99.0;9650.0
+Skoda;Citigo;Gasolina;Manual;Usado;06/2018;17480;75.0;9650.0
+Skoda;Citigo;Gasolina;Manual;Usado;03/2018;9916;75.0;9650.0
+Ford;Fiesta;Gasolina;Manual;Usado;04/2018;44022;86.0;9660.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;9690.0
+Nissan;Micra;Gasolina;Manual;Usado;08/2017;37500;90.0;9690.0
+Kia;Rio;Gasolina;Manual;Usado;10/2014;42900;86.0;7690.0
+Hyundai;i30;Gasolina;Manual;Usado;06/2014;86711;99.0;7690.0
+smart;forTwo;Gasolina;Manual;Usado;05/2017;19900;71.0;7690.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;7691.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;73.0;7691.0
+Dacia;Logan;Gasolina;Manual;Usado;07/2017;51937;73.0;7699.0
+Kia;Soul;Gasolina;Manual;Usado;12/2012;90000;126.0;7699.0
+Lada;Kalina;Gasolina;Automática;Usado;10/2016;29000;98.0;7700.0
+Peugeot;207;Gasolina;Manual;Usado;04/2011;87500;120.0;7739.0
+Volkswagen;Polo;Gasolina;Manual;Usado;03/2011;25300;60.0;7750.0
+Renault;Twingo;Gasolina;Manual;Usado;11/2015;39681;90.0;7765.0
+Ford;Fiesta;Gasolina;Manual;Usado;05/2017;59156;65.0;7770.0
+Opel;Corsa;Gasolina;Manual;Usado;10/2016;70072;90.0;7770.0
+Renault;Clio;Diesel;Manual;Usado;12/2015;58800;75.0;7777.0
+Opel;Meriva;Gasolina;Manual;Usado;07/2013;90371;120.0;7780.0
+Opel;Corsa;Gasolina;Manual;Usado;02/2017;32879;69.0;7780.0
+Dacia;Sandero;Gasolina;Manual;Usado;06/2018;17000;73.0;7790.0
+Hyundai;i30;Gasolina;Manual;Usado;01/2014;89590;99.0;7797.0
+Nissan;Juke;Gasolina;Automática;Usado;08/2011;32000;117.0;7799.0
+Opel;Corsa;Gasolina;Manual;Usado;07/2015;83600;90.0;7800.0
+BMW;430;Gasolina;Automática;Nuevo;09/2020;100;252.0;56908.0
+Mercedes-Benz;CLS 400;Diesel;Automática;Usado;02/2018;49900;340.0;57670.0
+Mercedes-Benz;GLE 43 AMG;Gasolina;Automática;Usado;07/2017;46128;367.0;57880.0
+Dodge;Challenger;Gasolina;Manual;Nuevo;09/2020;30;492.0;57885.0
+Porsche;Cayman;Gasolina;Automática;Usado;07/2019;13490;299.0;57900.0
+Jaguar;F-Type;Gasolina;Automática;Usado;03/2017;6593;381.0;57990.0
+Dodge;Challenger;Gasolina;Automática;Nuevo;09/2020;31;492.0;57999.0
+Jaguar;F-Type;Gasolina;Automática;Usado;03/2017;38417;551.0;58420.0
+Audi;TT RS;Gasolina;Automática;Usado;11/2019;13339;400.0;58890.0
+BMW;M2;Gasolina;Automática;Usado;01/2020;2510;411.0;58989.0
+BMW;M4;Gasolina;Automática;Usado;04/2017;68000;450.0;58990.0
+BMW;M2;Gasolina;Automática;Usado;02/2019;13796;412.0;58999.0
+Jaguar;F-Type;Gasolina;Automática;Usado;06/2016;41300;551.0;59800.0
+BMW;M4;Gasolina;Automática;Usado;03/2018;30294;450.0;59880.0
+Jaguar;F-Type;Gasolina;Automática;Nuevo;09/2020;10;300.0;59888.0
+Audi;TT RS;Gasolina;Automática;Usado;08/2019;8300;400.0;59970.0
+Mercedes-Benz;C 63 AMG;Gasolina;Automática;Usado;09/2015;26563;510.0;60421.0
+Audi;RS5;Gasolina;Automática;Usado;05/2018;34875;450.0;60660.0
+Mercedes-Benz;E 53 AMG;Gasolina;Automática;Usado;01/2019;30000;435.0;60899.0
+Mercedes-Benz;CLS 400;Diesel;Automática;Usado;05/2018;41513;340.0;60990.0
+Opel;Mokka;Gasolina;Manual;Usado;10/2015;29211;140.0;13950.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;12/2014;90437;160.0;13950.0
+Volkswagen;Tiguan;Gasolina;Manual;Usado;06/2015;51600;122.0;13970.0
+Mazda;CX-7;Gasolina;Manual;Usado;04/2011;52000;260.0;13975.0
+Renault;Kadjar;Diesel;Manual;Usado;03/2016;81009;131.0;13980.0
+Opel;Mokka X;Diesel;Manual;Usado;06/2017;89990;136.0;13980.0
+Renault;Captur;Gasolina;Manual;Usado;03/2019;14640;131.0;13990.0
+Fiat;500;Gasolina;Manual;Usado;01/2019;31400;120.0;13990.0
+Volkswagen;Tiguan;Gasolina;Automática;Usado;07/2012;50500;179.0;13990.0
+Opel;Mokka X;Diesel;Manual;Usado;06/2017;70523;136.0;13990.0
+Renault;Kadjar;Diesel;Automática;Usado;02/2016;71578;110.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;03/2019;5881;131.0;13990.0
+Ford;EcoSport;Gasolina;Manual;Usado;09/2017;16979;140.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;07/2019;8957;90.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;07/2019;8220;90.0;13990.0
+Renault;Captur;Gasolina;Manual;Usado;08/2019;10179;90.0;13990.0
+Peugeot;2008;Gasolina;Manual;Usado;02/2019;22884;131.0;13990.0
+Ford;Kuga;Gasolina;Manual;Usado;06/2016;45000;120.0;13990.0
+Renault;Kadjar;Diesel;Manual;Usado;08/2016;40181;131.0;13990.0
+Opel;Crossland X;Gasolina;Manual;Usado;11/2018;10;82.0;13990.0
+SEAT;Leon;Gasolina;Manual;Usado;05/2017;93766;125.0;13850.0
+Volkswagen;Golf Variant;Diesel;Manual;Usado;05/2016;99103;150.0;13870.0
+Volkswagen;Golf Variant;Diesel;Manual;Usado;04/2017;66120;116.0;13875.0
+Kia;Sportage;Gasolina;Manual;Usado;04/2015;68847;135.0;13880.0
+Ford;Focus;Diesel;Automática;Usado;03/2019;46548;120.0;13880.0
+Ford;Focus;Gasolina;Manual;Usado;12/2017;18346;125.0;13880.0
+Mazda;6;Diesel;Manual;Usado;03/2015;78000;150.0;13890.0
+Mercedes-Benz;C 180;Gasolina;Manual;Usado;03/2012;75400;156.0;13890.0
+Hyundai;i40;Diesel;Automática;Usado;04/2016;77650;141.0;13890.0
+Renault;Megane;Gasolina;Automática;Usado;02/2016;63136;132.0;13890.0
+Mazda;6;Diesel;Manual;Usado;01/2016;65000;150.0;13900.0
+Ford;Focus;Gasolina;Manual;Usado;04/2018;12000;125.0;13900.0
+Opel;Astra;Diesel;Automática;Usado;06/2018;49600;136.0;13950.0
+Skoda;Fabia;Gasolina;Manual;Usado;01/2019;15483;110.0;13950.0
+Skoda;Scala;Gasolina;Manual;Usado;12/2019;20100;95.0;13950.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;13950.0
+MINI;One D Clubman;Diesel;Manual;Usado;03/2017;33209;116.0;13950.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2019;16862;110.0;13950.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;10;101.0;13970.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;10;101.0;13970.0
+Renault;Clio;Gasolina;Manual;Usado;05/2019;30000;90.0;10745.0
+Ford;Mondeo;Gasolina;Manual;Usado;10/2012;68141;160.0;10750.0
+Ford;Mondeo;Gasolina;Manual;Usado;10/2012;68141;160.0;10750.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;5;90.0;10769.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;60.0;10772.0
+Honda;Civic;Gasolina;Manual;Usado;05/2013;51500;141.0;10780.0
+Mazda;3;Gasolina;Manual;Usado;04/2014;93279;165.0;10790.0
+Mitsubishi;Lancer;Gasolina;Manual;Usado;01/2018;24000;117.0;10790.0
+Ford;Focus;Gasolina;Manual;Usado;04/2014;66256;125.0;10790.0
+Skoda;Fabia;Gasolina;Automática;Usado;03/2015;38339;110.0;10791.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;02/2018;35750;101.0;10791.0
+Kia;Ceed / cee'd;Diesel;Manual;Usado;05/2016;86000;136.0;10800.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;60.0;10831.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;60.0;10831.0
+Volkswagen;Golf;Gasolina;Manual;Usado;04/2015;85000;86.0;10850.0
+Volkswagen;Polo;Gasolina;Manual;Usado;04/2017;28300;90.0;10850.0
+Fiat;500;Gasolina;Manual;Usado;08/2019;500;69.0;10878.0
+Fiat;Tipo;Gasolina;Manual;Usado;03/2019;27300;95.0;10880.0
+Volkswagen;Golf;Gasolina;Manual;Usado;10/2013;78092;122.0;10890.0
+Dacia;Sandero;Gasolina;Manual;Usado;05/2019;16600;90.0;10890.0
+Volkswagen;Touran;Diesel;Automática;Usado;03/2016;82858;150.0;17480.0
+Opel;Vivaro;Diesel;Manual;Usado;12/2015;50552;125.0;17480.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;09/2016;34102;125.0;17480.0
+Volkswagen;Transporter;Diesel;Manual;Usado;12/2015;68700;102.0;17490.0
+Opel;Combo;Gasolina;Manual;Usado;03/2019;18618;110.0;17490.0
+Ford;C-Max;Gasolina;Automática;Usado;11/2018;23993;150.0;17490.0
+Ford;Grand C-Max;Diesel;Automática;Usado;11/2017;24721;120.0;17490.0
+Citroen;Berlingo;Diesel;Manual;Nuevo;09/2020;100;102.0;17536.0
+BMW;218;Gasolina;Automática;Usado;06/2017;41490;136.0;17580.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;07/2018;41900;131.0;17680.0
+Volkswagen;Touran;Diesel;Manual;Usado;11/2016;71250;150.0;17710.0
+Volkswagen;Touran;Diesel;Automática;Usado;05/2017;99950;150.0;17780.0
+Renault;Espace;Diesel;Manual;Usado;05/2016;57101;131.0;17790.0
+Volkswagen;Touran;Diesel;Automática;Usado;06/2016;90500;150.0;17800.0
+Volkswagen;Caddy;Gasolina;Automática;Usado;07/2017;41701;125.0;17810.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;01/2019;28900;131.0;17810.0
+Mercedes-Benz;B 200;Gasolina;Automática;Usado;06/2016;55281;156.0;17850.0
+Volkswagen;Touran;Diesel;Automática;Usado;07/2016;79989;150.0;17860.0
+Ford;C-Max;Gasolina;Manual;Usado;07/2019;17909;125.0;17890.0
+Ford;C-Max;Gasolina;Manual;Usado;07/2019;12270;125.0;17890.0
+smart;forFour;Gasolina;Manual;Usado;02/2016;19280;71.0;9690.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9690.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;100;71.0;9690.0
+Renault;Twingo;Gasolina;Manual;Usado;12/2016;45820;109.0;9710.0
+Renault;Clio;Diesel;Manual;Usado;11/2015;68100;90.0;9740.0
+Opel;Corsa;Gasolina;Manual;Usado;11/2016;34684;90.0;9740.0
+Volkswagen;up!;Gasolina;Manual;Usado;03/2017;24484;90.0;9743.0
+Opel;Corsa;Gasolina;Manual;Usado;05/2016;33590;116.0;9750.0
+Peugeot;208;Gasolina;Manual;Usado;06/2016;46859;82.0;9750.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2018;23505;90.0;9777.0
+Hyundai;i10;Gasolina;Manual;Usado;07/2019;14290;67.0;9777.0
+Fiat;Panda;Gasolina;Manual;Usado;07/2018;21535;69.0;9780.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2018;18393;90.0;9790.0
+Toyota;Yaris;Gasolina;Automática;Usado;12/2014;58850;75.0;9790.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2019;13963;60.0;9795.0
+Microcar;M.Go;Diesel;Automática;Nuevo;09/2020;100;8.0;9799.0
+Renault;Clio;Gasolina;Manual;Usado;10/2015;19996;90.0;9799.0
+Citroen;DS3;Gasolina;Manual;Usado;01/2016;48190;110.0;9850.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2017;21474;60.0;9863.0
+Volkswagen;Polo;Gasolina;Manual;Usado;08/2017;20402;60.0;9865.0
+Fiat;New Panda;Gasolina;Manual;Usado;04/2013;47850;69.0;7800.0
+Opel;Meriva;Gasolina;Manual;Usado;08/2011;42981;120.0;7850.0
+Peugeot;108;Gasolina;Manual;Usado;04/2016;64308;82.0;7850.0
+Skoda;Yeti;Gasolina;Manual;Usado;07/2013;99000;105.0;7850.0
+Kia;Rio;Gasolina;Manual;Usado;06/2014;57220;86.0;7860.0
+Dacia;Sandero;Gasolina;Manual;Usado;06/2014;54783;90.0;7870.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;7879.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;7879.0
+Volkswagen;Polo;Gasolina;Manual;Usado;07/2015;94371;75.0;7880.0
+Ford;Fiesta;Gasolina;Manual;Usado;07/2012;30650;82.0;7880.0
+Volkswagen;up!;Gasolina;Manual;Usado;04/2016;31382;60.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;57604;71.0;7880.0
+smart;forFour;Gasolina;Manual;Usado;03/2018;43138;71.0;7880.0
+Renault;Kangoo;Diesel;Manual;Usado;06/2015;18166;90.0;7890.0
+Fiat;500;Gasolina;Manual;Usado;09/2015;70990;69.0;7890.0
+Fiat;500C;Gasolina;Manual;Usado;07/2014;92200;69.0;7890.0
+Fiat;Panda;Gasolina;Manual;Usado;04/2017;34750;69.0;7898.0
+Kia;Rio;Gasolina;Manual;Usado;08/2015;64000;109.0;7899.0
+Volkswagen;Polo;Gasolina;Manual;Usado;09/2013;62500;86.0;7900.0
+Volkswagen;Caddy;Diesel;Manual;Usado;02/2012;95778;102.0;7900.0
+Dodge;Challenger;Gasolina;Automática;Nuevo;09/2020;30;492.0;60250.0
+Dodge;Challenger;Gasolina;Automática;Nuevo;09/2020;30;492.0;60250.0
+Dodge;Challenger;Gasolina;Automática;Nuevo;09/2020;30;492.0;60250.0
+Dodge;Challenger;Gasolina;Automática;Nuevo;09/2020;30;492.0;60250.0
+Mercedes-Benz;C 63 AMG;Gasolina;Automática;Usado;09/2015;26563;510.0;60421.0
+Audi;RS5;Gasolina;Automática;Usado;05/2018;34875;450.0;60660.0
+Mercedes-Benz;E 400;Diesel;Automática;Usado;03/2019;18963;340.0;60899.0
+Mercedes-Benz;E 53 AMG;Gasolina;Automática;Usado;01/2019;30000;435.0;60899.0
+Mercedes-Benz;GLE 350;Diesel;Automática;Usado;08/2018;9990;258.0;61390.0
+Porsche;Cayman;Gasolina;Automática;Usado;07/2017;32050;349.0;61720.0
+Dodge;Challenger;Gasolina;Automática;Usado;05/2017;14500;717.0;61900.0
+Mercedes-Benz;C 63 AMG;Gasolina;Automática;Usado;07/2017;12500;510.0;61900.0
+Corvette;ZR1;Gasolina;Manual;Usado;05/2011;41262;647.0;61999.0
+BMW;M6;Gasolina;Automática;Usado;03/2016;43023;600.0;62969.0
+Mercedes-Benz;CLS 400;Diesel;Automática;Usado;07/2019;25000;340.0;63399.0
+Toyota;Supra;Gasolina;Automática;Nuevo;09/2020;10;340.0;63500.0
+Audi;RS5;Gasolina;Automática;Usado;03/2018;23684;450.0;63971.0
+BMW;M2;Gasolina;Automática;Nuevo;09/2020;100;411.0;64245.0
+Corvette;C7;Gasolina;Automática;Usado;06/2018;50000;466.0;65000.0
+Mercedes-Benz;E 53 AMG;Gasolina;Automática;Usado;05/2019;29514;435.0;65470.0
+Opel;Mokka X;Gasolina;Manual;Usado;08/2017;24927;140.0;14390.0
+Renault;Captur;Gasolina;Manual;Usado;03/2019;4857;131.0;14390.0
+Opel;Mokka;Gasolina;Manual;Usado;08/2016;33037;140.0;14390.0
+Skoda;Kamiq;Gasolina;Manual;Nuevo;09/2020;1;95.0;14395.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;1;101.0;14410.0
+Mazda;CX-3;Gasolina;Manual;Usado;10/2015;29695;150.0;14440.0
+Mitsubishi;Outlander;Gasolina;Manual;Usado;11/2015;85100;150.0;14440.0
+Hyundai;Tucson;Gasolina;Manual;Usado;07/2017;38800;132.0;14440.0
+Nissan;Juke;Gasolina;Manual;Usado;07/2016;14000;190.0;14450.0
+Mitsubishi;ASX;Gasolina;Manual;Usado;03/2018;22500;117.0;14450.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;20;101.0;14477.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;20;101.0;14477.0
+Ford;Kuga;Diesel;Automática;Usado;08/2015;75350;150.0;14480.0
+Volkswagen;Tiguan;Diesel;Manual;Usado;12/2015;66466;110.0;14480.0
+Ford;EcoSport;Gasolina;Manual;Usado;07/2018;20648;125.0;14480.0
+Mazda;CX-3;Gasolina;Manual;Usado;09/2016;59800;120.0;14489.0
+Renault;Captur;Gasolina;Manual;Usado;02/2019;12248;131.0;14490.0
+Nissan;Qashqai;Diesel;Manual;Usado;07/2016;61632;110.0;14490.0
+Renault;Captur;Gasolina;Manual;Usado;02/2019;10973;131.0;14490.0
+Opel;Crossland X;Gasolina;Automática;Usado;09/2017;51868;110.0;14490.0
+Mazda;6;Diesel;Manual;Usado;03/2015;78000;150.0;13890.0
+Skoda;Fabia;Gasolina;Manual;Usado;09/2019;7570;95.0;13890.0
+Mercedes-Benz;C 180;Gasolina;Manual;Usado;03/2012;75400;156.0;13890.0
+Hyundai;i40;Diesel;Automática;Usado;04/2016;77650;141.0;13890.0
+Renault;Megane;Gasolina;Automática;Usado;02/2016;63136;132.0;13890.0
+Mazda;6;Diesel;Manual;Usado;01/2016;65000;150.0;13900.0
+Opel;Astra;Diesel;Automática;Usado;06/2018;49600;136.0;13950.0
+Skoda;Fabia;Gasolina;Manual;Usado;01/2019;15483;110.0;13950.0
+Skoda;Scala;Gasolina;Manual;Usado;12/2019;20100;95.0;13950.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;13950.0
+MINI;One D Clubman;Diesel;Manual;Usado;03/2017;33209;116.0;13950.0
+Skoda;Fabia;Gasolina;Manual;Usado;04/2019;16862;110.0;13950.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;10;101.0;13970.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;10;101.0;13970.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;10;101.0;13970.0
+Renault;Megane;Diesel;Manual;Usado;04/2018;56082;110.0;13970.0
+Skoda;Fabia;Gasolina;Manual;Usado;07/2019;11798;110.0;13980.0
+Skoda;Fabia;Gasolina;Manual;Usado;09/2019;19483;95.0;13980.0
+Skoda;Fabia;Gasolina;Manual;Usado;11/2015;34986;90.0;13980.0
+Toyota;Auris;Gasolina;Manual;Usado;02/2018;28900;116.0;13980.0
+Ford;Fiesta;Diesel;Manual;Usado;10/2016;32586;95.0;10690.0
+Hyundai;i10;Gasolina;Manual;Nuevo;09/2020;5;67.0;10690.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;10;73.0;10713.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;10;73.0;10713.0
+Honda;Civic;Diesel;Manual;Usado;09/2016;79100;120.0;10730.0
+Skoda;Rapid/Spaceback;Gasolina;Automática;Usado;06/2016;66350;90.0;10740.0
+Renault;Clio;Gasolina;Manual;Usado;05/2019;32300;90.0;10745.0
+Renault;Clio;Gasolina;Manual;Usado;05/2019;33920;90.0;10745.0
+Renault;Clio;Gasolina;Manual;Usado;05/2019;31150;90.0;10745.0
+Renault;Clio;Gasolina;Manual;Usado;05/2019;30000;90.0;10745.0
+Ford;Mondeo;Gasolina;Manual;Usado;10/2012;68141;160.0;10750.0
+Ford;Mondeo;Gasolina;Manual;Usado;10/2012;68141;160.0;10750.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;5;90.0;10769.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;60.0;10772.0
+Peugeot;208;Gasolina;Manual;Usado;09/2018;7680;83.0;10790.0
+Mazda;3;Gasolina;Manual;Usado;04/2014;93279;165.0;10790.0
+Mitsubishi;Lancer;Gasolina;Manual;Usado;01/2018;24000;117.0;10790.0
+Ford;Focus;Gasolina;Manual;Usado;04/2014;66256;125.0;10790.0
+Skoda;Fabia;Gasolina;Automática;Usado;03/2015;38339;110.0;10791.0
+Kia;Ceed / cee'd;Gasolina;Manual;Usado;02/2018;35750;101.0;10791.0
+Ford;C-Max;Gasolina;Manual;Usado;07/2019;16179;125.0;17890.0
+Citroen;C4 SpaceTourer;Diesel;Manual;Usado;11/2019;19448;131.0;17890.0
+Volkswagen;Caddy;Diesel;Manual;Usado;01/2019;10690;75.0;17890.0
+Volkswagen;Caddy;Diesel;Manual;Usado;01/2019;10690;75.0;17890.0
+Opel;Zafira;Diesel;Automática;Usado;03/2017;38800;170.0;17890.0
+Citroen;Grand C4 Picasso;Gasolina;Automática;Usado;12/2017;45000;165.0;17899.0
+Citroen;Berlingo;Gasolina;Manual;Nuevo;09/2020;100;110.0;17902.0
+BMW;220;Diesel;Manual;Usado;07/2016;80614;190.0;17950.0
+Ford;S-Max;Gasolina;Manual;Usado;07/2016;66500;160.0;17950.0
+Ford;C-Max;Gasolina;Manual;Usado;11/2019;2346;150.0;17970.0
+Ford;S-Max;Diesel;Automática;Usado;02/2017;91700;179.0;17970.0
+Opel;Zafira;Gasolina;Manual;Usado;10/2018;32941;140.0;17980.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;04/2016;48500;125.0;17980.0
+Volkswagen;Touran;Diesel;Manual;Usado;07/2016;58400;150.0;17980.0
+Opel;Zafira;Diesel;Automática;Usado;07/2017;75660;170.0;17980.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;08/2016;43500;150.0;17980.0
+Renault;Scenic;Diesel;Manual;Usado;05/2018;54193;110.0;17980.0
+Renault;Scenic;Gasolina;Manual;Usado;12/2017;16584;160.0;17990.0
+Renault;Scenic;Diesel;Automática;Usado;01/2017;33110;160.0;17990.0
+Renault;Espace;Diesel;Automática;Usado;04/2015;69036;160.0;17990.0
+Peugeot;108;Gasolina;Manual;Usado;08/2018;13660;72.0;10290.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;10290.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;10290.0
+SEAT;Ibiza;Gasolina;Automática;Usado;04/2013;92375;179.0;10340.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2016;22328;75.0;10350.0
+Volkswagen;Polo;Gasolina;Automática;Usado;03/2014;90500;105.0;10350.0
+Hyundai;i10;Gasolina;Manual;Nuevo;09/2020;10;67.0;10370.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2017;31275;75.0;10374.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;10390.0
+Mitsubishi;Space Star;Gasolina;Manual;Nuevo;09/2020;5;71.0;10390.0
+Dacia;Sandero;Gasolina;Manual;Nuevo;09/2020;100;101.0;10390.0
+Volkswagen;Polo;Gasolina;Manual;Usado;02/2017;48700;90.0;10399.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2017;31471;60.0;10425.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2019;6001;60.0;10440.0
+SEAT;Ibiza;Gasolina;Manual;Usado;10/2017;27000;95.0;10447.0
+Opel;Corsa;Gasolina;Automática;Usado;08/2017;21705;90.0;10450.0
+Opel;Corsa;Gasolina;Automática;Usado;02/2017;46706;90.0;10450.0
+Skoda;Fabia;Gasolina;Manual;Usado;10/2019;9732;60.0;10450.0
+Hyundai;i20;Gasolina;Manual;Usado;12/2019;12210;75.0;10470.0
+Volkswagen;Polo;Gasolina;Manual;Usado;05/2016;42205;75.0;10479.0
+Opel;Adam;Gasolina;Manual;Usado;05/2014;56500;87.0;8250.0
+Skoda;Rapid/Spaceback;Gasolina;Manual;Usado;10/2014;95700;86.0;8250.0
+Opel;Meriva;Gasolina;Manual;Usado;08/2012;90700;140.0;8290.0
+Skoda;Citigo;Gasolina;Manual;Usado;06/2018;10500;60.0;8290.0
+Renault;Kangoo;Diesel;Manual;Usado;05/2015;12653;75.0;8291.0
+Toyota;Auris;Gasolina;Manual;Usado;08/2013;36000;99.0;8300.0
+Fiat;500C;Gasolina;Manual;Usado;03/2015;54000;69.0;8300.0
+Volkswagen;Golf Plus;Gasolina;Automática;Usado;07/2011;73900;105.0;8350.0
+Opel;Astra;Gasolina;Manual;Usado;03/2012;73697;140.0;8365.0
+Opel;Corsa;Gasolina;Manual;Usado;08/2014;54182;87.0;8365.0
+Opel;Meriva;Diesel;Manual;Usado;10/2016;99800;95.0;8380.0
+Hyundai;i10;Gasolina;Manual;Usado;03/2018;6900;67.0;8380.0
+Renault;Megane;Diesel;Manual;Usado;04/2013;86961;131.0;8390.0
+Volkswagen;up!;Gasolina;Manual;Usado;12/2017;13738;60.0;8390.0
+Volkswagen;Golf Variant;Gasolina;Manual;Usado;05/2010;93385;160.0;8400.0
+Mitsubishi;Space Star;Gasolina;Manual;Usado;06/2017;55000;80.0;8440.0
+Volkswagen;Golf;Gasolina;Automática;Usado;03/2010;96700;122.0;8444.0
+Opel;Corsa;Gasolina;Manual;Usado;06/2017;10175;90.0;8450.0
+Volkswagen;Caddy;Gasolina;Manual;Usado;12/2011;55000;105.0;8450.0
+Volkswagen;up!;Gasolina;Automática;Usado;06/2016;69500;75.0;8450.0
+Audi;RS5;Gasolina;Automática;Usado;08/2019;11957;450.0;69980.0
+Corvette;C7;Gasolina;Automática;Usado;05/2018;31950;466.0;69990.0
+Porsche;991;Gasolina;Automática;Usado;11/2012;56449;349.0;69991.0
+Lotus;Evora;Gasolina;Manual;Usado;07/2017;15322;405.0;71489.0
+Porsche;991;Gasolina;Automática;Usado;05/2013;92662;400.0;71789.0
+BMW;M4;Gasolina;Automática;Usado;09/2019;5888;450.0;71900.0
+Bentley;Continental;Gasolina;Automática;Usado;10/2011;89000;575.0;71900.0
+Audi;RS5;Gasolina;Automática;Usado;08/2019;17629;450.0;72911.0
+BMW;840;Diesel;Automática;Usado;06/2019;6600;320.0;74400.0
+Alpina;B3;Gasolina;Automática;Usado;04/2013;53589;408.0;74950.0
+Alpina;B3;Gasolina;Automática;Usado;04/2013;53589;408.0;74950.0
+Porsche;Cayman;Gasolina;Automática;Usado;04/2019;12370;366.0;75330.0
+Toyota;Supra;Gasolina;Automática;Nuevo;09/2020;10;480.0;75449.0
+Mercedes-Benz;S 63 AMG;Gasolina;Automática;Usado;10/2014;70000;585.0;76495.0
+Mercedes-Benz;AMG GT;Gasolina;Automática;Usado;04/2017;22300;462.0;77333.0
+Audi;TT RS;Gasolina;Automática;Nuevo;09/2020;100;400.0;77490.0
+BMW;M4;Gasolina;Automática;Usado;02/2019;16400;450.0;77900.0
+Audi;TT RS;Gasolina;Automática;Nuevo;09/2020;0;400.0;78724.0
+Lexus;LC 500;Gasolina;Automática;Usado;07/2017;27500;477.0;78890.0
+Mercedes-Benz;AMG GT;Gasolina;Automática;Usado;08/2016;40000;462.0;78899.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;100;101.0;14230.0
+Dacia;Duster;Gasolina;Manual;Nuevo;09/2020;10;101.0;14230.0
+Nissan;Qashqai;Gasolina;Automática;Usado;10/2014;55938;116.0;14250.0
+Opel;Mokka;Gasolina;Manual;Usado;06/2016;41712;140.0;14250.0
+Kia;Sportage;Gasolina;Manual;Usado;04/2015;55024;135.0;14270.0
+Skoda;Kamiq;Gasolina;Manual;Nuevo;09/2020;1;95.0;14270.0
+Opel;Crossland X;Gasolina;Manual;Nuevo;09/2020;1;110.0;14270.0
+Opel;Crossland X;Gasolina;Manual;Usado;07/2017;53446;110.0;14290.0
+Renault;Captur;Gasolina;Manual;Usado;03/2019;15711;131.0;14290.0
+Opel;Mokka;Gasolina;Automática;Usado;03/2016;41000;140.0;14290.0
+Renault;Captur;Gasolina;Manual;Usado;10/2019;13241;90.0;14290.0
+Renault;Captur;Gasolina;Manual;Usado;03/2019;9348;131.0;14290.0
+Opel;Mokka X;Gasolina;Manual;Usado;01/2018;25950;116.0;14290.0
+Skoda;Kamiq;Gasolina;Manual;Nuevo;09/2020;1;95.0;14295.0
+Opel;Antara;Diesel;Automática;Usado;12/2016;67150;170.0;14320.0
+Opel;Mokka X;Gasolina;Manual;Usado;05/2017;43684;140.0;14350.0
+Volkswagen;Tiguan;Diesel;Manual;Usado;03/2014;74500;140.0;14356.0
+Renault;Captur;Gasolina;Manual;Nuevo;09/2020;1;101.0;14370.0
+Ford;Kuga;Diesel;Manual;Usado;08/2016;87888;120.0;14370.0
+Kia;Sportage;Gasolina;Manual;Usado;05/2014;35000;135.0;14390.0
+Skoda;Octavia;Diesel;Manual;Usado;05/2017;76108;116.0;14280.0
+Skoda;Octavia;Diesel;Manual;Usado;01/2017;70490;110.0;14290.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;95.0;14348.0
+Kia;Ceed SW / cee'd SW;Diesel;Automática;Usado;10/2015;60800;136.0;14350.0
+Skoda;Octavia;Gasolina;Manual;Usado;09/2016;91636;150.0;14350.0
+Opel;Astra;Diesel;Manual;Usado;06/2018;28825;110.0;14354.0
+Opel;Insignia;Diesel;Manual;Usado;03/2017;86729;170.0;14380.0
+Skoda;Octavia;Diesel;Manual;Usado;04/2017;84169;116.0;14380.0
+Volkswagen;Golf Variant;Diesel;Manual;Usado;05/2017;57693;116.0;14400.0
+Skoda;Octavia;Gasolina;Manual;Usado;07/2015;90605;150.0;14430.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;110.0;14430.0
+Kia;Carens;Diesel;Automática;Usado;06/2014;55530;136.0;14440.0
+Skoda;Octavia;Diesel;Automática;Usado;04/2015;99000;150.0;14440.0
+Ford;Focus;Gasolina;Manual;Usado;09/2017;35250;125.0;14450.0
+Skoda;Fabia;Gasolina;Manual;Usado;10/2018;19177;110.0;14450.0
+Hyundai;i30;Gasolina;Manual;Nuevo;09/2020;10;101.0;14470.0
+Ford;Focus;Gasolina;Manual;Usado;03/2017;44803;125.0;14480.0
+Ford;Focus;Gasolina;Manual;Usado;01/2016;40000;150.0;14480.0
+Skoda;Fabia;Gasolina;Manual;Nuevo;09/2020;100;110.0;14489.0
+Opel;Astra;Gasolina;Manual;Usado;04/2018;14123;125.0;14490.0
+Volkswagen;Golf;Gasolina;Manual;Usado;07/2016;56491;110.0;10980.0
+Peugeot;208;Gasolina;Manual;Usado;11/2015;59900;165.0;10980.0
+Volkswagen;Polo;Gasolina;Manual;Usado;02/2016;46639;90.0;10980.0
+Hyundai;i10;Gasolina;Automática;Usado;07/2016;29989;87.0;10990.0
+Renault;Megane;Gasolina;Manual;Usado;11/2017;61902;132.0;10990.0
+Opel;Adam;Gasolina;Manual;Usado;10/2017;56950;150.0;10990.0
+Volkswagen;Golf;Gasolina;Automática;Usado;03/2013;70150;122.0;10990.0
+Citroen;C4;Diesel;Manual;Usado;12/2016;49250;99.0;10990.0
+Volkswagen;Golf;Gasolina;Manual;Usado;07/2014;44011;86.0;10990.0
+Hyundai;i30;Gasolina;Manual;Usado;07/2016;46000;101.0;10990.0
+Opel;Astra;Gasolina;Manual;Usado;03/2016;26426;101.0;10990.0
+Volkswagen;Golf;Gasolina;Manual;Usado;01/2017;53980;86.0;10990.0
+Fiat;Punto;Gasolina;Manual;Usado;01/2015;57260;105.0;10990.0
+Opel;Corsa;Gasolina;Manual;Usado;03/2019;1477;101.0;10990.0
+Toyota;Auris;Gasolina;Manual;Usado;11/2016;36949;99.0;10990.0
+SEAT;Leon;Gasolina;Manual;Usado;10/2015;48050;110.0;10990.0
+Hyundai;iX35;Gasolina;Automática;Usado;11/2010;61300;163.0;10990.0
+Volkswagen;up!;Gasolina;Automática;Usado;05/2016;14800;60.0;10999.0
+Peugeot;208;Gasolina;Manual;Nuevo;09/2020;100;75.0;11010.0
+Peugeot;208;Gasolina;Manual;Nuevo;09/2020;100;75.0;11010.0
+Mercedes-Benz;B 200;Gasolina;Automática;Usado;06/2015;67659;156.0;17990.0
+Renault;Espace;Diesel;Automática;Usado;02/2016;53524;160.0;17990.0
+Ford;S-Max;Diesel;Manual;Usado;02/2016;51259;179.0;17990.0
+Opel;Zafira;Gasolina;Manual;Usado;12/2018;7470;136.0;17992.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;01/2017;35300;150.0;17995.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;05/2017;59306;150.0;17998.0
+Renault;Scenic;Gasolina;Manual;Usado;02/2019;9900;140.0;18250.0
+Volkswagen;Caddy;Diesel;Automática;Usado;09/2016;63686;150.0;18330.0
+Volkswagen;Touran;Diesel;Manual;Usado;06/2018;74300;116.0;18390.0
+Mercedes-Benz;B 200;Gasolina;Manual;Usado;09/2017;7500;156.0;18410.0
+Volkswagen;Golf Sportsvan;Gasolina;Manual;Usado;08/2019;5685;116.0;18412.0
+Volkswagen;Touran;Diesel;Automática;Usado;11/2015;44334;150.0;18440.0
+Volkswagen;Touran;Diesel;Manual;Usado;10/2016;93127;150.0;18444.0
+Volkswagen;Touran;Diesel;Manual;Usado;06/2016;60429;150.0;18446.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;03/2016;35700;150.0;18449.0
+Volkswagen;Golf Sportsvan;Gasolina;Automática;Usado;10/2017;22359;150.0;18450.0
+Mercedes-Benz;B 220;Gasolina;Automática;Usado;05/2015;65383;184.0;18480.0
+Opel;Zafira;Gasolina;Manual;Usado;11/2018;30900;136.0;18490.0
+Opel;Zafira;Gasolina;Automática;Usado;01/2019;35555;136.0;18490.0
+Volkswagen;Caddy;Diesel;Manual;Usado;06/2016;44430;150.0;18490.0
