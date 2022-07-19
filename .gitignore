@@ -1,4 +1,9 @@
 .idea/git_toolbox_prj.xml
+.idea/Ejercicios del Curso/Analisis_datos_con_SQLite/__pycache__
+.idea/Ejercicios del Curso/Gestion_libros_Tkinter_sqlite/build/
+.idea/Ejercicios del Curso/Seccion 10 Ejercicio de Fichero de Texto/__pycache__/
+.idea/Ejercicios del Curso/Seccion 9 Ejercicios de Modulo/__pycache__/
+.idea/Ejercicios del Curso/Seccion_21_HTML_y_EXCEL/__pycache__/
 .idea/workspace.xml
 .vscode
 sqlite.db
